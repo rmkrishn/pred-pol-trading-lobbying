@@ -1,0 +1,124 @@
+Update 9/12/2017,,,,,
+,,,,,
+,Expenditure CODES (effective 10/8/13),,,,
+,,,,,
+,ExpCode,DescripShort,DescripLong,Sector,SectorName
+,A00,Misc admin,Miscellaneous administrative,A,Administrative
+,A20,Admin data & tech,Administrative data & technology,A,Administrative
+,A30,Admin event expenses,Administrative event expenses & food,A,Administrative
+,A40,Admin travel,Administrative travel & lodging,A,Administrative
+,A50,Admin consulting,Administrative consulting,A,Administrative
+,A60,Accounting & legal,"Accountants, compliance & legal services",A,Administrative
+,A70,Rent & utilities,"Rent, utilities & office expenses",A,Administrative
+,C10,Campaign materials,Campaign mailings & materials,C,Campaign Expenses
+,C30,Campaign events,Campaign events & activities,C,Campaign Expenses
+,F00,Misc fundraising,Miscellaneous fundraising,F,Fundraising
+,F10,Fundraising mailings,Fundraising mailings & calls,F,Fundraising
+,F20,Fundraising data,Fundraising data & technology,F,Fundraising
+,F30,Fundraising events,Fundraising events,F,Fundraising
+,F40,Fundraising fees,Fundraising fees,F,Fundraising
+,F50,Fundraising consult,Fundraising consulting,F,Fundraising
+,M00,Misc media,Miscellaneous media,M,Media
+,M01,Media buys,Unspecified media buys,M,Media
+,M10,Broadcast ads,Broadcast ads,M,Media
+,M20,Print ads,Print ads,M,Media
+,M30,Web ads,Web ads,M,Media
+,M40,Media production,Media production,M,Media
+,M50,Media consulting,Media consulting,M,Media
+,N10,Contrib refunds,Contribution refunds,N,Non-Expenditures
+,N99,Non-expenditures,Other non-expenditures,N,Non-Expenditures
+,R00,Misc contributions,Miscellaneous contributions,R,Contributions
+,R10,Natl party contribs,Contributions to national parties,R,Contributions
+,R20,State party contribs,Contributions to state & local parties,R,Contributions
+,R30,Fedl cand contribs,Contributions to federal candidates,R,Contributions
+,R35,Contribs to JFCs,Contributions to joint fundraising committees,R,Contributions
+,R40,State cand contribs,Contributions to state & local candidates,R,Contributions
+,R50,Contribs to cmtes,Contributions to committees,R,Contributions
+,S10,Polling & surveys,Polling & surveys,S,Strategy & Research
+,S20,Campaign data & tech,Campaign data & technology,S,Strategy & Research
+,S50,Campaign consulting,Campaign strategy & communications consulting,S,Strategy & Research
+,T00,Misc transfers,Miscellaneous transfers,T,Transfers
+,T10,Natl party transfers,Transfers to national parties,T,Transfers
+,T20,State prty transfers,Transfers to state & local parties,T,Transfers
+,T30,Transfers to cands,Transfers to candidates,T,Transfers
+,T50,Transfers to cmtes,Transfers to committees,T,Transfers
+,U00,Unclassifiable,Unclassifiable,U,Unclassifiable
+,U10,Unknown print & mail,Unclassifiable printing & shipping,U,Unclassifiable
+,U20,Unknown data & tech,Unclassifiable data & technology,U,Unclassifiable
+,U30,Unknown events,Unclassifiable event expenses,U,Unclassifiable
+,U50,Unknown consulting,Unclassifiable consulting,U,Unclassifiable
+,U60,Unknown supplies,Unclassifiable supplies & equipment,U,Unclassifiable
+,W10,Salaries,"Salaries, wages & benefits",W,Salaries
+,,,,,
+,,,,,
+,Old Expenditure CODES,,,,
+,,,,,
+,ExpCode,DescripShort,DescripLong,Sector,SectorName
+,0,not yet coded,not yet coded,0,Uncoded
+,A00,Admin-Misc,Miscellaneous Administrative,A,Administrative
+,A10,Admin-Travel,Travel,A,Administrative
+,A20,Admin-Salaries,Salaries & Benefits,A,Administrative
+,A30,Admin-Postage,Postage/Shipping,A,Administrative
+,A50,Admin-Consultants,Administrative Consultants,A,Administrative
+,A60,Admin-Rent/Utilities,Rent/Utilities,A,Administrative
+,A70,Admin- Food/Meetings,Food/Meetings,A,Administrative
+,A80,Admin-Supplies/Equip,"Supplies, Equipment & Furniture",A,Administrative
+,C00,Misc Campaign,Miscellaneous Campaign ,C,Campaign Expenses
+,C10,Campaign Materials,Materials,C,Campaign Expenses
+,C20,Campaign Polling,Polling/Surveys/Research,C,Campaign Expenses
+,C30,GOTV Campaign,GOTV,C,Campaign Expenses
+,C40,Campaign Events,Campaign Events,C,Campaign Expenses
+,C50,Campaign Consultants,Political Consultants,C,Campaign Expenses
+,C60,Campaign Direct Mail,Campaign Direct Mail,C,Campaign Expenses
+,F00,Misc Fundraising,Miscellaneous Fundraising,F,Fundraising
+,F40,Fundraising Events,Fundraising Events,F,Fundraising
+,F50,Fundraising Consult,Fundraising Consultants,F,Fundraising
+,F60,Direct Mail/TeleMkt,Fundr Direct Mail/Telemarketing,F,Fundraising
+,H00,Misc-Other,Miscellaneous,H,Other
+,H10,Misc-Donations,Charitable Donations,H,Other
+,H20,Misc-Loan Payments,Loan Payments,H,Other
+,M00,Misc Media,Miscellaneous Media,M,Media
+,M10,Broadcast Media,Broadcast Media,M,Media
+,M20,Print Media,Print Media,M,Media
+,M30,Internet Media,Internet Media,M,Media
+,M50,Media Consultants,Media Consultants,M,Media
+,N99,Non-Expenditure,Non-Expenditure,N,Non-Expenditure
+,R00,Misc Contribs,Miscellaneous Contributions,R,Contributions
+,R10,Party Contrib,Parties (Fed & Non-federal),R,Contributions
+,R20,Candidate Contrib,Candidates (Fed & Non-federal),R,Contributions
+,R30,Committee Contrib,Committees (Fed & Non-Federal),R,Contributions
+,R90,Contrib Refunds,Contrib Refunds,R,Contributions
+,T00,Misc Transfer,Miscellaneous Transfer,T,Transfers
+,T10,Federal Transfer,Federal Transfer,T,Transfers
+,T20,Non-Federal Transfer,Non-Federal Transfer,T,Transfers
+,T30,Natl Party Transfer,National Party Transfer,T,Transfers
+,T60,St/Loc Pty Transfer,State/Local Party Transfer,T,Transfers
+,U10,Insufficient Info,Insufficient Info,U,Unknown
+,U20,Unknown,Unknown,U,Unknown
+,,,,,
+,Earliest Expenditure CODES,,,,
+,,,,,
+,ExpCode,DescripShort,DescripLong,,
+,01,Administrative,Administrative/Salary/Overhead,,
+,02,Travel,Travel & Lodging,,
+,03,Fundraising,Solicitation and Fundraising,,
+,04,Advertising,Advertising,,
+,05,Polling,Polling & Research,,
+,06,Campaign Materials,Campaign Materials,,
+,07,Campaign Events,Campaign Events,,
+,08,Transfers,"Transfers, also to individuals",,
+,09,Loan Repayments,Loan Repayments,,
+,10,Refunds,Refunds of Contributions,,
+,11,Contributions,Political Contributions,,
+,12,Donations,Donations (to charitable/civic orgs),,
+,13,Constituent Expenses,Constituent Expenses,,
+,99,Event Expenses,Event Expenses,,
+,Z1,Non-Expenditure,"Non-Expenditure, Memo Entry",,
+,Y1,Unknown,No description and unknown recipient,,
+,CL,Contrib to Labor,"Contribution to Unions, Labor Cmtes etc",,
+,TN,Transfer to Federal ,Transfer to Federal entity,,
+,TS,Transfer to State,Transfer to State entity,,
+,CC,Contrib to Cands,Contribution to Candidate/Leadership PAC,,
+,CP,Contrib to Party,Contribution to State or Local Party,,
+,CI,Contrib to Ideo,Contribution to Ideological Cmte,,
+,CB,Contrib to Business,Contribution to Business/Industry Cmte,,
