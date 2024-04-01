@@ -1,10 +1,16 @@
 import pandas as pd
 
 def normalize_name(name):
-    """Convert names in "Lastname, Firstname" format to "Firstname Lastname"."""
+    """Convert names in "Lastname, Firstname" format to "Firstname Lastname",
+    and remove titles."""
     if "," in name:
-        return name.split(",")[1].strip() + " " + name.split(",")[0].strip()
-    return name.strip()
+        name = name.split(",")[1].strip() + " " + name.split(",")[0].strip()
+    name = name.strip()
+    if name.startswith("Mr.") or name.startswith("Ms.") or name.startswith("Dr."):
+        name = name[3:].strip()
+    if name.startswith("Mrs."):
+        name = name[4:].strip()
+    return name
 
 def min_trade_size(size):
     if "-" in size:
@@ -36,7 +42,11 @@ def preprocess_stock_data(stocks):
     stocks["Name"] = stocks.Name.map(normalize_name)
 
     # Drop useless columns
-    stocks = stocks.drop(
-        ["Status", "Quiver_Upload_Time", "last_modified", "Trade_Size_USD"], axis=1
-    )
+    stocks.drop([
+        "Status", "Quiver_Upload_Time", "excess_return", "last_modified", "Trade_Size_USD"
+    ], axis=1, inplace=True)
+    # Drop rows that aren't stock or options trades
+    stocks.drop(stocks[stocks.TickerType.isin([
+        'CS', 'GS', 'AB', 'ET', 'HN', 'Corporate Bond', 'PS', 'Cryptocurrency', 'OI', 'OL', 'SA'
+    ])].index, axis=0, inplace=True)
     return stocks
