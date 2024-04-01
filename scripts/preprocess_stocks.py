@@ -1,5 +1,10 @@
 import pandas as pd
 
+def normalize_name(name):
+    """Convert names in "Lastname, Firstname" format to "Firstname Lastname"."""
+    if "," in name:
+        return name.split(",")[1].strip() + " " + name.split(",")[0].strip()
+    return name.strip()
 
 def min_trade_size(size):
     if "-" in size:
@@ -26,6 +31,9 @@ def preprocess_stock_data(stocks):
     # Parse trade sizes
     stocks["Min_Trade_Size"] = stocks.Trade_Size_USD.map(min_trade_size)
     stocks["Max_Trade_Size"] = stocks.Trade_Size_USD.map(max_trade_size)
+    
+    # Normalize names
+    stocks["Name"] = stocks.Name.map(normalize_name)
 
     # Drop useless columns
     stocks = stocks.drop(
