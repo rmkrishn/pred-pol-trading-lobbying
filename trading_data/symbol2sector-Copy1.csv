@@ -1,0 +1,3963 @@
+Ticker,sector,industry
+PANW,Technology,Software - Infrastructure
+GLA,Not Found,Not Found
+"GLAS FUNDS, LP",Not Found,Not Found
+SPG,Real Estate,REIT - Retail
+AFRM,Technology,Software - Infrastructure
+IBM,Technology,Information Technology Services
+JPM,Financial Services,Banks - Diversified
+PRNDY,Consumer Defensive,Beverages - Wineries & Distilleries
+ALNY,Healthcare,Biotechnology
+NGL,Energy,Oil & Gas Midstream
+ISRG,Healthcare,Medical Instruments & Supplies
+VIG,Not Found,Not Found
+USFR,Not Found,Not Found
+APH,Technology,Electronic Components
+NOW,Technology,Software - Application
+BRK.B,Not Found,Not Found
+TSLA,Consumer Cyclical,Auto Manufacturers
+AMZN,Consumer Cyclical,Internet Retail
+AAPL,Technology,Consumer Electronics
+GOOG,Communication Services,Internet Content & Information
+GOOGL,Communication Services,Internet Content & Information
+MSFT,Technology,Software - Infrastructure
+LRCX,Technology,Semiconductor Equipment & Materials
+ON,Technology,Semiconductors
+AMD,Technology,Semiconductors
+ABG,Consumer Cyclical,Auto & Truck Dealerships
+CHRD,Energy,Oil & Gas E&P
+TPH,Consumer Cyclical,Residential Construction
+LAD,Consumer Cyclical,Auto & Truck Dealerships
+MEDP,Healthcare,Diagnostics & Research
+RPM,Basic Materials,Specialty Chemicals
+INTC,Technology,Semiconductors
+AGIO,Healthcare,Biotechnology
+LOW,Consumer Cyclical,Home Improvement Retail
+TJX,Consumer Cyclical,Apparel Retail
+MRK,Healthcare,Drug Manufacturers - General
+SBUX,Consumer Cyclical,Restaurants
+WMT,Consumer Defensive,Discount Stores
+ABT,Healthcare,Medical Devices
+ABBV,Healthcare,Drug Manufacturers - General
+NKE,Consumer Cyclical,Footwear & Accessories
+PG,Consumer Defensive,Household & Personal Products
+MSCI,Financial Services,Financial Data & Stock Exchanges
+MDT,Healthcare,Medical Devices
+LMT,Industrials,Aerospace & Defense
+MU,Technology,Semiconductors
+GIS,Consumer Defensive,Packaged Foods
+INTU,Technology,Software - Application
+COST,Consumer Defensive,Discount Stores
+AMGN,Healthcare,Drug Manufacturers - General
+JNJ,Healthcare,Drug Manufacturers - General
+AON,Financial Services,Insurance Brokers
+MA,Financial Services,Credit Services
+CFG,Financial Services,Banks - Regional
+QCOM,Technology,Semiconductors
+V,Financial Services,Credit Services
+CRM,Technology,Software - Application
+ACN,Technology,Information Technology Services
+CB,Financial Services,Insurance - Property & Casualty
+PKG,Consumer Cyclical,Packaging & Containers
+"4.WEEK, MATURE",Not Found,Not Found
+SYY,Consumer Defensive,Food Distribution
+CAT,Industrials,Farm & Heavy Construction Machinery
+CME,Financial Services,Financial Data & Stock Exchanges
+CLF,Basic Materials,Steel
+MMC,Financial Services,Insurance Brokers
+SCCO,Basic Materials,Copper
+MNST,Consumer Defensive,Beverages - Non-Alcoholic
+IDXX,Healthcare,Diagnostics & Research
+META,Communication Services,Internet Content & Information
+FMAO,Financial Services,Banks - Regional
+VUG,Not Found,Not Found
+RTX,Industrials,Aerospace & Defense
+RACE,Consumer Cyclical,Auto Manufacturers
+SSBK,Financial Services,Banks - Regional
+ADSK,Technology,Software - Application
+DIS,Communication Services,Entertainment
+AXP,Financial Services,Credit Services
+XP,Financial Services,Capital Markets
+ES,Utilities,Utilities - Regulated Electric
+SPY,Not Found,Not Found
+ADBE,Technology,Software - Infrastructure
+HUMA,Healthcare,Biotechnology
+BABA,Consumer Cyclical,Internet Retail
+COIN,Financial Services,Financial Data & Stock Exchanges
+BAC,Financial Services,Banks - Diversified
+GNTX,Consumer Cyclical,Auto Parts
+PAM,Utilities,Utilities - Independent Power Producers
+ENB,Energy,Oil & Gas Midstream
+AMAT,Technology,Semiconductor Equipment & Materials
+ADI,Technology,Semiconductors
+NVO,Healthcare,Biotechnology
+AME,Industrials,Specialty Industrial Machinery
+HQY,Healthcare,Health Information Services
+"3.MONTH, MATURE",Not Found,Not Found
+TSM,Technology,Semiconductors
+ET,Energy,Oil & Gas Midstream
+APD,Basic Materials,Specialty Chemicals
+CRT,Energy,Oil & Gas E&P
+TTE,Energy,Oil & Gas Integrated
+GBIL,Not Found,Not Found
+MET,Financial Services,Insurance - Life
+SCHX,Not Found,Not Found
+ETRN,Energy,Oil & Gas Midstream
+BLK,Financial Services,Asset Management
+AES,Utilities,Utilities - Diversified
+REGN,Healthcare,Biotechnology
+VLO,Energy,Oil & Gas Refining & Marketing
+W,Consumer Cyclical,Internet Retail
+MO,Consumer Defensive,Tobacco
+HTGC,Financial Services,Asset Management
+DUK$A,Not Found,Not Found
+CAH,Healthcare,Medical Distribution
+SCHW,Financial Services,Capital Markets
+SHLS,Technology,Solar
+NCLTY,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+ALGM,Technology,Semiconductors
+HELE,Consumer Defensive,Household & Personal Products
+BAP,Financial Services,Banks - Regional
+OCFC,Financial Services,Banks - Regional
+PYCR,Technology,Software - Application
+BDX,Healthcare,Medical Instruments & Supplies
+GTLS,Industrials,Specialty Industrial Machinery
+XNGSY,Utilities,Utilities - Regulated Gas
+PNGAY,Financial Services,Insurance - Life
+PTEN,Energy,Oil & Gas Drilling
+SSDOY,Consumer Defensive,Household & Personal Products
+HSHCY,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+RY,Financial Services,Banks - Diversified
+AMEH,Healthcare,Medical Care Facilities
+BA,Industrials,Aerospace & Defense
+LOPE,Consumer Defensive,Education & Training Services
+ZTS,Healthcare,Drug Manufacturers - Specialty & Generic
+HSY,Consumer Defensive,Confectioners
+BMY,Healthcare,Drug Manufacturers - General
+CL,Consumer Defensive,Household & Personal Products
+MAG,Basic Materials,Silver
+BP,Energy,Oil & Gas Integrated
+SFM,Consumer Defensive,Grocery Stores
+FRPT,Consumer Defensive,Packaged Foods
+ELF,Consumer Defensive,Household & Personal Products
+ETN,Industrials,Specialty Industrial Machinery
+CYBR,Technology,Software - Infrastructure
+SPXC,Industrials,Building Products & Equipment
+GS,Financial Services,Capital Markets
+BMI,Technology,Scientific & Technical Instruments
+OLLI,Consumer Defensive,Discount Stores
+AXON,Industrials,Aerospace & Defense
+DGX,Healthcare,Diagnostics & Research
+UNP,Industrials,Railroads
+SLF,Financial Services,Insurance - Diversified
+LLY,Healthcare,Drug Manufacturers - General
+ORCL,Technology,Software - Infrastructure
+NVDA,Technology,Semiconductors
+S,Technology,Software - Infrastructure
+EXAS,Healthcare,Diagnostics & Research
+ILMN,Healthcare,Diagnostics & Research
+BX,Financial Services,Asset Management
+XOM,Energy,Oil & Gas Integrated
+VUZI,Technology,Consumer Electronics
+DELL,Technology,Computer Hardware
+TFC,Financial Services,Banks - Regional
+DVN,Energy,Oil & Gas E&P
+NOC,Industrials,Aerospace & Defense
+PYPL,Financial Services,Credit Services
+HRL,Consumer Defensive,Packaged Foods
+JKHY,Technology,Information Technology Services
+AMT,Real Estate,REIT - Specialty
+ROP,Technology,Software - Application
+PFE,Healthcare,Drug Manufacturers - General
+SHW,Basic Materials,Specialty Chemicals
+DG,Consumer Defensive,Discount Stores
+CCI,Real Estate,REIT - Specialty
+WST,Healthcare,Medical Instruments & Supplies
+TSCO,Consumer Cyclical,Specialty Retail
+BBY,Consumer Cyclical,Specialty Retail
+TMUS,Communication Services,Telecom Services
+D,Utilities,Utilities - Regulated Electric
+DDOG,Technology,Software - Application
+EA,Communication Services,Electronic Gaming & Multimedia
+VZ,Communication Services,Telecom Services
+"6.MONTH, MATURE",Not Found,Not Found
+WMB,Energy,Oil & Gas Midstream
+PARA,Communication Services,Entertainment
+KEY,Financial Services,Banks - Regional
+RF,Financial Services,Banks - Regional
+CTVA,Basic Materials,Agricultural Inputs
+EXLS,Technology,Information Technology Services
+PXD,Energy,Oil & Gas E&P
+CELH,Consumer Defensive,Beverages - Non-Alcoholic
+HUBB,Industrials,Electrical Equipment & Parts
+INST,Technology,Software - Application
+FN,Technology,Electronic Components
+PODD,Healthcare,Medical Devices
+FCFS,Financial Services,Credit Services
+SHOP,Technology,Software - Application
+NEE,Utilities,Utilities - Regulated Electric
+LZAGY,Healthcare,Diagnostics & Research
+DBSDY,Financial Services,Banks - Regional
+ALB,Basic Materials,Specialty Chemicals
+GLAS FUNDS,Not Found,Not Found
+HEI,Industrials,Aerospace & Defense
+UMBF,Financial Services,Banks - Regional
+INTA,Technology,Software - Application
+HLI,Financial Services,Capital Markets
+HASI,Real Estate,REIT - Specialty
+VAXX,Healthcare,Biotechnology
+COP,Energy,Oil & Gas E&P
+UAA,Consumer Cyclical,Apparel Manufacturing
+SBPYX,Not Found,Not Found
+CVX,Energy,Oil & Gas Integrated
+GOLD,Basic Materials,Gold
+LIN,Basic Materials,Specialty Chemicals
+XCEM,Not Found,Not Found
+MDLZ,Consumer Defensive,Confectioners
+KO,Consumer Defensive,Beverages - Non-Alcoholic
+FDRR,Not Found,Not Found
+SMDV,Not Found,Not Found
+UPS,Industrials,Integrated Freight & Logistics
+BUI,Financial Services,Asset Management
+CVS,Healthcare,Healthcare Plans
+KMB,Consumer Defensive,Household & Personal Products
+KR,Consumer Defensive,Grocery Stores
+USB,Financial Services,Banks - Regional
+BK,Financial Services,Asset Management
+HD,Consumer Cyclical,Home Improvement Retail
+HDGE,Not Found,Not Found
+HAL,Energy,Oil & Gas Equipment & Services
+EFC$D,Not Found,Not Found
+PII,Consumer Cyclical,Recreational Vehicles
+ACI,Consumer Defensive,Grocery Stores
+CI,Healthcare,Healthcare Plans
+DVA,Healthcare,Medical Care Facilities
+SNOW,Technology,Software - Application
+CSCO,Technology,Communication Equipment
+SBCF,Financial Services,Banks - Regional
+CMCSA,Communication Services,Telecom Services
+ALK,Industrials,Airlines
+CMG,Consumer Cyclical,Restaurants
+EL,Consumer Defensive,Household & Personal Products
+UNH,Healthcare,Healthcare Plans
+PALL,Not Found,Not Found
+PPG,Basic Materials,Specialty Chemicals
+EW,Healthcare,Medical Devices
+IRM,Real Estate,REIT - Specialty
+FNF,Financial Services,Insurance - Specialty
+FLNG,Energy,Oil & Gas Midstream
+FMC,Basic Materials,Agricultural Inputs
+URA,Not Found,Not Found
+AGX,Industrials,Engineering & Construction
+EMR,Industrials,Specialty Industrial Machinery
+DHI,Consumer Cyclical,Residential Construction
+MOS,Basic Materials,Agricultural Inputs
+DTRUY,Industrials,Farm & Heavy Construction Machinery
+KD,Technology,Information Technology Services
+GLPI,Real Estate,REIT - Specialty
+ROK,Industrials,Specialty Industrial Machinery
+CCLD,Healthcare,Health Information Services
+TGT,Consumer Defensive,Discount Stores
+DEO,Consumer Defensive,Beverages - Wineries & Distilleries
+BNTX,Healthcare,Biotechnology
+SONY,Technology,Consumer Electronics
+FANUY,Industrials,Specialty Industrial Machinery
+WFC,Financial Services,Banks - Diversified
+PPRUY,Consumer Cyclical,Luxury Goods
+VLTO,Industrials,Pollution & Treatment Controls
+SBGSY,Industrials,Specialty Industrial Machinery
+PEP,Consumer Defensive,Beverages - Non-Alcoholic
+SPGI,Financial Services,Financial Data & Stock Exchanges
+ELV,Healthcare,Healthcare Plans
+STZ,Consumer Defensive,Beverages - Wineries & Distilleries
+HLT,Consumer Cyclical,Lodging
+CSX,Industrials,Railroads
+ICE,Financial Services,Financial Data & Stock Exchanges
+BSX,Healthcare,Medical Devices
+DE,Industrials,Farm & Heavy Construction Machinery
+FI,Technology,Information Technology Services
+AZO,Consumer Cyclical,Specialty Retail
+DHR,Healthcare,Diagnostics & Research
+TXN,Technology,Semiconductors
+HON,Industrials,Conglomerates
+KLAC,Technology,Semiconductor Equipment & Materials
+TMO,Healthcare,Diagnostics & Research
+COCO,Consumer Defensive,Beverages - Non-Alcoholic
+IGSB,Not Found,Not Found
+T,Communication Services,Telecom Services
+TLT,Not Found,Not Found
+SHY,Not Found,Not Found
+AAIC$B,Not Found,Not Found
+HCA,Healthcare,Medical Care Facilities
+CORP,Not Found,Not Found
+PWR,Industrials,Engineering & Construction
+SHEL,Energy,Oil & Gas Integrated
+FIS,Technology,Information Technology Services
+MKL,Financial Services,Insurance - Property & Casualty
+PCH,Real Estate,REIT - Specialty
+MMM,Industrials,Conglomerates
+PM,Consumer Defensive,Tobacco
+WBD,Communication Services,Entertainment
+FGBI,Financial Services,Banks - Regional
+CHX,Energy,Oil & Gas Equipment & Services
+DASH,Communication Services,Internet Content & Information
+AORT,Healthcare,Medical Devices
+MCK,Healthcare,Medical Distribution
+ASML,Technology,Semiconductor Equipment & Materials
+ARLP,Energy,Thermal Coal
+NWN,Utilities,Utilities - Regulated Gas
+MCHP,Technology,Semiconductors
+OXY,Energy,Oil & Gas E&P
+OKE,Energy,Oil & Gas Midstream
+UBER,Technology,Software - Application
+SAIC,Technology,Information Technology Services
+LDOS,Technology,Information Technology Services
+DT,Technology,Software - Application
+EVVTY,Consumer Cyclical,Gambling
+ULTA,Consumer Cyclical,Specialty Retail
+USDP,Industrials,Railroads
+TLH,Not Found,Not Found
+IP,Consumer Cyclical,Packaging & Containers
+TCMD,Healthcare,Medical Devices
+X,Basic Materials,Steel
+GIGB,Not Found,Not Found
+AGZ,Not Found,Not Found
+CMBS,Not Found,Not Found
+MBB,Not Found,Not Found
+JMBS,Not Found,Not Found
+MPW,Real Estate,REIT - Healthcare Facilities
+EOG,Energy,Oil & Gas E&P
+T$A,Not Found,Not Found
+BNS,Financial Services,Banks - Diversified
+ANET,Technology,Computer Hardware
+ARCC,Financial Services,Asset Management
+CLX,Consumer Defensive,Household & Personal Products
+HPQ,Technology,Computer Hardware
+MCD,Consumer Cyclical,Restaurants
+GWW,Industrials,Industrial Distribution
+LULU,Consumer Cyclical,Apparel Retail
+PRIM,Industrials,Engineering & Construction
+HDB,Financial Services,Banks - Regional
+ALG,Industrials,Farm & Heavy Construction Machinery
+ALGN,Healthcare,Medical Devices
+INSW,Energy,Oil & Gas Midstream
+ICFI,Industrials,Consulting Services
+SGEN,Not Found,Not Found
+UEC,Energy,Uranium
+SYK,Healthcare,Medical Devices
+PH,Industrials,Specialty Industrial Machinery
+BALL,Consumer Cyclical,Packaging & Containers
+NFE,Utilities,Utilities - Regulated Gas
+VRTX,Healthcare,Biotechnology
+HWM,Industrials,Aerospace & Defense
+PLD,Real Estate,REIT - Industrial
+AVGO,Technology,Semiconductors
+GILD,Healthcare,Drug Manufacturers - General
+NEP,Utilities,Utilities - Renewable
+MS,Financial Services,Capital Markets
+PGR,Financial Services,Insurance - Property & Casualty
+NFLX,Communication Services,Entertainment
+J,Industrials,Engineering & Construction
+C,Financial Services,Banks - Diversified
+FMBA,Not Found,Not Found
+PSQ,Not Found,Not Found
+SHYF,Industrials,Farm & Heavy Construction Machinery
+RMD,Healthcare,Medical Instruments & Supplies
+PHM,Consumer Cyclical,Residential Construction
+NXPI,Technology,Semiconductors
+MCO,Financial Services,Financial Data & Stock Exchanges
+FTNT,Technology,Software - Infrastructure
+SWKS,Technology,Semiconductors
+WU,Financial Services,Credit Services
+MPWR,Technology,Semiconductors
+WMS,Industrials,Building Products & Equipment
+ITW,Industrials,Specialty Industrial Machinery
+GGG,Industrials,Specialty Industrial Machinery
+VIAV,Technology,Communication Equipment
+GMAB,Healthcare,Biotechnology
+RVLV,Consumer Cyclical,Internet Retail
+SMNNY,Consumer Cyclical,Leisure
+ODFL,Industrials,Trucking
+RRC,Energy,Oil & Gas E&P
+DIOD,Technology,Semiconductors
+FOXF,Consumer Cyclical,Auto Parts
+IART,Healthcare,Medical Devices
+PHR,Healthcare,Health Information Services
+ADYEY,Technology,Software - Infrastructure
+VCYT,Healthcare,Biotechnology
+ADP,Industrials,Staffing & Employment Services
+GSK,Healthcare,Drug Manufacturers - General
+SKY,Consumer Cyclical,Residential Construction
+UTZ,Consumer Defensive,Packaged Foods
+FSLR,Technology,Solar
+BCRX,Healthcare,Biotechnology
+DAVA,Technology,Software - Infrastructure
+CRUS,Technology,Semiconductors
+TWKS,Technology,Information Technology Services
+NVZMY,Basic Materials,Specialty Chemicals
+A,Healthcare,Diagnostics & Research
+SLGN,Consumer Cyclical,Packaging & Containers
+NSC,Industrials,Railroads
+CBSH,Financial Services,Banks - Regional
+ALGT,Industrials,Airlines
+SGIOY,Healthcare,Drug Manufacturers - Specialty & Generic
+ATVI,Not Found,Not Found
+"13.WEEK, MATURE",Not Found,Not Found
+CMP,Basic Materials,Other Industrial Metals & Mining
+VOD,Communication Services,Telecom Services
+LPX,Industrials,Building Products & Equipment
+MAR,Consumer Cyclical,Lodging
+GPK,Consumer Cyclical,Packaging & Containers
+NU,Financial Services,Banks - Regional
+DCO,Industrials,Aerospace & Defense
+UFPI,Basic Materials,Lumber & Wood Production
+SCHW$D,Not Found,Not Found
+JBL,Technology,Electronic Components
+EMXC,Not Found,Not Found
+VO,Not Found,Not Found
+VOO,Not Found,Not Found
+JEPI,Not Found,Not Found
+GPCR,Healthcare,Biotechnology
+VMW,Not Found,Not Found
+RVNC,Healthcare,Biotechnology
+PAA,Energy,Oil & Gas Midstream
+HIG,Financial Services,Insurance - Property & Casualty
+KMI,Energy,Oil & Gas Midstream
+CMI,Industrials,Specialty Industrial Machinery
+91282CDR9,Not Found,Not Found
+MMP,Not Found,Not Found
+912797LL9,Not Found,Not Found
+TDY,Technology,Scientific & Technical Instruments
+DTE,Utilities,Utilities - Regulated Electric
+AAM$A,Not Found,Not Found
+NTR,Basic Materials,Agricultural Inputs
+APA,Energy,Oil & Gas E&P
+PNC,Financial Services,Banks - Regional
+GD,Industrials,Aerospace & Defense
+CF,Basic Materials,Agricultural Inputs
+CUBE,Real Estate,REIT - Industrial
+VGR,Consumer Defensive,Tobacco
+YUM,Consumer Cyclical,Restaurants
+EQNR,Energy,Oil & Gas Integrated
+WAL,Financial Services,Banks - Regional
+IR,Industrials,Specialty Industrial Machinery
+BTO,Financial Services,Asset Management
+NVS,Healthcare,Drug Manufacturers - General
+SQ,Technology,Software - Infrastructure
+KVUE,Consumer Defensive,Household & Personal Products
+VBTX,Financial Services,Banks - Regional
+FITB,Financial Services,Banks - Regional
+GPP,Not Found,Not Found
+ARQT,Healthcare,Biotechnology
+CSPCY,Healthcare,Drug Manufacturers - General
+CYRX,Industrials,Integrated Freight & Logistics
+MRNA,Healthcare,Biotechnology
+AZTA,Healthcare,Medical Instruments & Supplies
+IFF,Basic Materials,Specialty Chemicals
+RCL,Consumer Cyclical,Travel Services
+WM,Industrials,Waste Management
+LRLCY,Consumer Defensive,Household & Personal Products
+FMX,Consumer Defensive,Beverages - Brewers
+DXCM,Healthcare,Medical Devices
+ATLKY,Industrials,Specialty Industrial Machinery
+QQQ,Not Found,Not Found
+FMCSX,Not Found,Not Found
+DFS,Financial Services,Credit Services
+IJR,Not Found,Not Found
+XEL,Utilities,Utilities - Regulated Electric
+DUK,Utilities,Utilities - Regulated Electric
+FAF,Financial Services,Insurance - Specialty
+LBRDK,Communication Services,Telecom Services
+WAT,Healthcare,Diagnostics & Research
+IT,Technology,Information Technology Services
+BIO,Healthcare,Medical Devices
+CASY,Consumer Cyclical,Specialty Retail
+NSRGY,Consumer Defensive,Packaged Foods
+AVY,Consumer Cyclical,Packaging & Containers
+SO,Utilities,Utilities - Regulated Electric
+GL,Financial Services,Insurance - Life
+VNT,Technology,Scientific & Technical Instruments
+MTB,Financial Services,Banks - Regional
+ARE,Real Estate,REIT - Office
+BAH,Industrials,Consulting Services
+TT,Industrials,Building Products & Equipment
+CRL,Healthcare,Diagnostics & Research
+NSA,Real Estate,REIT - Industrial
+DORM,Consumer Cyclical,Auto Parts
+FLR,Industrials,Engineering & Construction
+POR,Utilities,Utilities - Regulated Electric
+RGLD,Basic Materials,Gold
+BR,Technology,Information Technology Services
+ETR,Utilities,Utilities - Regulated Electric
+SUI,Real Estate,REIT - Residential
+SSNC,Technology,Software - Application
+KKR,Financial Services,Asset Management
+DD,Basic Materials,Specialty Chemicals
+FANG,Energy,Oil & Gas E&P
+PCAR,Industrials,Farm & Heavy Construction Machinery
+LNT,Utilities,Utilities - Regulated Electric
+TEL,Technology,Electronic Components
+AOS,Industrials,Specialty Industrial Machinery
+EXPD,Industrials,Integrated Freight & Logistics
+WSO,Industrials,Industrial Distribution
+LAMR,Real Estate,REIT - Specialty
+COLD,Real Estate,REIT - Industrial
+HES,Energy,Oil & Gas E&P
+BWXT,Industrials,Aerospace & Defense
+NDAQ,Financial Services,Financial Data & Stock Exchanges
+WRB,Financial Services,Insurance - Property & Casualty
+LKQ,Consumer Cyclical,Auto Parts
+CBOE,Financial Services,Financial Data & Stock Exchanges
+PRU,Financial Services,Insurance - Life
+TSN,Consumer Defensive,Farm Products
+JCI,Industrials,Building Products & Equipment
+RBC,Industrials,Tools & Accessories
+AI,Technology,Software - Application
+AMLP,Not Found,Not Found
+WCN,Industrials,Waste Management
+TIMB,Communication Services,Telecom Services
+FEP,Not Found,Not Found
+TAK,Healthcare,Drug Manufacturers - Specialty & Generic
+BBEU,Not Found,Not Found
+INOD,Technology,Information Technology Services
+AQN,Utilities,Utilities - Renewable
+CRWD,Technology,Software - Infrastructure
+EME,Industrials,Engineering & Construction
+AGAE,Communication Services,Entertainment
+NTLA,Healthcare,Biotechnology
+TWLO,Communication Services,Internet Content & Information
+NTRS,Financial Services,Asset Management
+EFX,Industrials,Consulting Services
+CHD,Consumer Defensive,Household & Personal Products
+ASAZY,Industrials,Security & Protection Services
+LUV,Industrials,Airlines
+LH,Healthcare,Diagnostics & Research
+STLA,Consumer Cyclical,Auto Manufacturers
+BKNG,Consumer Cyclical,Travel Services
+FCX,Basic Materials,Copper
+DASTY,Technology,Software - Application
+DBRG,Real Estate,Real Estate Services
+CHGCY,Healthcare,Drug Manufacturers - General
+PSX,Energy,Oil & Gas Refining & Marketing
+F,Consumer Cyclical,Auto Manufacturers
+JHEM,Not Found,Not Found
+WTT,Not Found,Not Found
+SOFI,Financial Services,Credit Services
+RMBS,Technology,Semiconductors
+TPR,Consumer Cyclical,Luxury Goods
+WTW,Financial Services,Insurance Brokers
+SHV,Not Found,Not Found
+CC,Basic Materials,Specialty Chemicals
+DUE 10/01/203,Not Found,Not Found
+PR,Energy,Oil & Gas E&P
+ROAD,Industrials,Engineering & Construction
+ALL,Financial Services,Insurance - Property & Casualty
+NSP,Industrials,Staffing & Employment Services
+LNC,Financial Services,Insurance - Life
+ABNB,Consumer Cyclical,Travel Services
+SWX,Utilities,Utilities - Regulated Gas
+LLYVA,Communication Services,Entertainment
+LSXMA,Communication Services,Broadcasting
+LSXMK,Communication Services,Broadcasting
+SEDG,Technology,Solar
+LLYVK,Communication Services,Entertainment
+SIGCY,Consumer Cyclical,Packaging & Containers
+WTKWY,Industrials,Specialty Business Services
+AFL,Financial Services,Insurance - Life
+FDS,Financial Services,Financial Data & Stock Exchanges
+914476PV2,Not Found,Not Found
+605699PU5,Not Found,Not Found
+506120KP8,Not Found,Not Found
+784532JF1,Not Found,Not Found
+CCL,Consumer Cyclical,Travel Services
+WBA,Healthcare,Pharmaceutical Retailers
+HLN,Healthcare,Drug Manufacturers - Specialty & Generic
+AAGIY,Financial Services,Insurance - Life
+KUBTY,Industrials,Farm & Heavy Construction Machinery
+BATRK,Communication Services,Entertainment
+SAP,Technology,Software - Application
+MELI,Consumer Cyclical,Internet Retail
+HLIO,Industrials,Specialty Industrial Machinery
+IFNNY,Technology,Semiconductors
+THO,Consumer Cyclical,Recreational Vehicles
+APTV,Consumer Cyclical,Auto Parts
+HMN,Financial Services,Insurance - Property & Casualty
+DAR,Consumer Defensive,Packaged Foods
+SRPT,Healthcare,Biotechnology
+VTR,Real Estate,REIT - Healthcare Facilities
+SPOT,Communication Services,Internet Content & Information
+SKT,Real Estate,REIT - Retail
+CAG,Consumer Defensive,Packaged Foods
+BGNE,Healthcare,Biotechnology
+MKTX,Financial Services,Capital Markets
+SR,Utilities,Utilities - Regulated Gas
+HALO,Healthcare,Biotechnology
+PARAA,Communication Services,Entertainment
+SHO,Real Estate,REIT - Hotel & Motel
+AAP,Consumer Cyclical,Specialty Retail
+KHC,Consumer Defensive,Packaged Foods
+URI,Industrials,Rental & Leasing Services
+BELFB,Technology,Electronic Components
+EVBG,Technology,Software - Application
+INN,Real Estate,REIT - Hotel & Motel
+CIEN,Technology,Communication Equipment
+AVTR,Basic Materials,Specialty Chemicals
+IIPR,Real Estate,REIT - Industrial
+ROIC,Real Estate,REIT - Retail
+LHX,Industrials,Aerospace & Defense
+TEAM,Technology,Software - Application
+RBA,Industrials,Specialty Business Services
+EPR,Real Estate,REIT - Specialty
+PECO,Real Estate,REIT - Retail
+STX,Technology,Computer Hardware
+AVB,Real Estate,REIT - Residential
+INVH,Real Estate,REIT - Residential
+DLTR,Consumer Defensive,Discount Stores
+CADE,Financial Services,Banks - Regional
+SLG,Real Estate,REIT - Office
+RWT,Real Estate,REIT - Mortgage
+PD,Technology,Software - Application
+JAZZ,Healthcare,Biotechnology
+UDR,Real Estate,REIT - Residential
+RLAY,Healthcare,Biotechnology
+AMCR,Consumer Cyclical,Packaging & Containers
+KLIC,Technology,Semiconductor Equipment & Materials
+ADC,Real Estate,REIT - Retail
+PK,Real Estate,REIT - Hotel & Motel
+KDP,Consumer Defensive,Beverages - Non-Alcoholic
+STT,Financial Services,Asset Management
+EXC,Utilities,Utilities - Regulated Electric
+FERG,Industrials,Industrial Distribution
+EIX,Utilities,Utilities - Regulated Electric
+NXRT,Real Estate,REIT - Residential
+IOT,Technology,Software - Infrastructure
+EQIX,Real Estate,REIT - Specialty
+ENTA,Healthcare,Biotechnology
+CBU,Financial Services,Banks - Regional
+HEI.A,Not Found,Not Found
+HST,Real Estate,REIT - Hotel & Motel
+FCPT,Real Estate,REIT - Retail
+EPRT,Real Estate,REIT - Diversified
+DRH,Real Estate,REIT - Hotel & Motel
+WPM,Basic Materials,Gold
+IRT,Real Estate,REIT - Residential
+PHIN,Consumer Cyclical,Auto Parts
+PSA,Real Estate,REIT - Industrial
+EPAM,Technology,Information Technology Services
+TRIP,Consumer Cyclical,Travel Services
+CTRE,Real Estate,REIT - Healthcare Facilities
+KRG,Real Estate,REIT - Retail
+CNC,Healthcare,Healthcare Plans
+UBA,Not Found,Not Found
+PEAK,Real Estate,REIT - Healthcare Facilities
+PLTK,Communication Services,Electronic Gaming & Multimedia
+RLJ,Real Estate,REIT - Hotel & Motel
+CLVT,Technology,Information Technology Services
+GTY,Real Estate,REIT - Retail
+SGH,Technology,Semiconductors
+LVMUY,Consumer Cyclical,Luxury Goods
+BEPC,Utilities,Utilities - Renewable
+ADM,Consumer Defensive,Farm Products
+YUMC,Consumer Cyclical,Restaurants
+LBTYA,Communication Services,Telecom Services
+EQR,Real Estate,REIT - Residential
+JBGS,Real Estate,REIT - Office
+TNDM,Healthcare,Medical Devices
+TFX,Healthcare,Medical Instruments & Supplies
+UE,Real Estate,REIT - Retail
+OGS,Utilities,Utilities - Regulated Gas
+PEB,Real Estate,REIT - Hotel & Motel
+AYX,Technology,Software - Application
+SBAC,Real Estate,REIT - Specialty
+AMCX,Communication Services,Entertainment
+KRC,Real Estate,REIT - Office
+MAA,Real Estate,REIT - Residential
+BFS,Real Estate,REIT - Retail
+EXR,Real Estate,REIT - Industrial
+ALEX,Real Estate,REIT - Retail
+WELL,Real Estate,REIT - Healthcare Facilities
+BXP,Real Estate,REIT - Office
+LSI,Not Found,Not Found
+LBTYK,Communication Services,Telecom Services
+MOH,Healthcare,Healthcare Plans
+SBGI,Communication Services,Entertainment
+HHC,Not Found,Not Found
+ESS,Real Estate,REIT - Residential
+QDEL,Healthcare,Medical Devices
+CHPT,Consumer Cyclical,Specialty Retail
+ICHR,Technology,Semiconductor Equipment & Materials
+LUMN,Communication Services,Telecom Services
+SOBKY,Communication Services,Telecom Services
+TMICY,Technology,Software - Infrastructure
+OVCHY,Financial Services,Banks - Regional
+LSRCY,Technology,Semiconductor Equipment & Materials
+AKZOY,Basic Materials,Specialty Chemicals
+SKFRY,Industrials,Tools & Accessories
+BURBY,Consumer Cyclical,Luxury Goods
+SUHJY,Real Estate,Real Estate - Development
+AVVIY,Financial Services,Insurance - Diversified
+HEINY,Consumer Defensive,Beverages - Brewers
+ZURVY,Financial Services,Insurance - Diversified
+ARGX,Healthcare,Biotechnology
+SCMWY,Communication Services,Telecom Services
+EDPFY,Utilities,Utilities - Diversified
+TKOMY,Financial Services,Insurance - Property & Casualty
+SMFKY,Consumer Cyclical,Packaging & Containers
+VWAPY,Consumer Cyclical,Auto Manufacturers
+VLVLY,Industrials,Farm & Heavy Construction Machinery
+GNGBY,Healthcare,Medical Devices
+SINGY,Industrials,Airlines
+MTUAY,Industrials,Aerospace & Defense
+TLGPY,Communication Services,Telecom Services
+MKKGY,Healthcare,Drug Manufacturers - Specialty & Generic
+NGG,Utilities,Utilities - Regulated Electric
+PANDY,Consumer Cyclical,Luxury Goods
+FRCOY,Consumer Cyclical,Apparel Retail
+SOMMY,Basic Materials,Chemicals
+YAMHY,Not Found,Not Found
+RNMBY,Industrials,Aerospace & Defense
+QABSY,Industrials,Airlines
+BVVBY,Industrials,Consulting Services
+NDEKY,Basic Materials,Specialty Chemicals
+UL,Consumer Defensive,Household & Personal Products
+MUFG,Financial Services,Banks - Diversified
+CRARY,Financial Services,Banks - Regional
+BBVA,Financial Services,Banks - Diversified
+KSRYY,Consumer Defensive,Household & Personal Products
+KDDIY,Communication Services,Telecom Services
+KGSPY,Industrials,Building Products & Equipment
+DNPLY,Industrials,Specialty Business Services
+MQBKY,Financial Services,Capital Markets
+SKHSY,Consumer Cyclical,Residential Construction
+SPXCY,Financial Services,Financial Data & Stock Exchanges
+ABBNY,Industrials,Electrical Equipment & Parts
+CLLNY,Real Estate,Real Estate Services
+AEG,Financial Services,Insurance - Diversified
+RTO,Industrials,Specialty Business Services
+HOCPY,Healthcare,Medical Instruments & Supplies
+DFKCY,Industrials,Specialty Industrial Machinery
+DNNGY,Utilities,Utilities - Renewable
+OMRNY,Technology,Electronic Components
+SUTNY,Financial Services,Banks - Regional
+CMSQY,Financial Services,Capital Markets
+DNBBY,Financial Services,Banks - Regional
+ARKAY,Basic Materials,Specialty Chemicals
+ATEYY,Technology,Semiconductor Equipment & Materials
+SHECY,Basic Materials,Chemicals
+UPMMY,Basic Materials,Paper & Paper Products
+SOAGY,Healthcare,Medical Instruments & Supplies
+TRYIY,Consumer Cyclical,Textile Manufacturing
+SMMNY,Healthcare,Medical Devices
+AXAHY,Financial Services,Insurance - Diversified
+SMTOY,Consumer Cyclical,Auto Parts
+CGEMY,Technology,Information Technology Services
+BNTGY,Basic Materials,Specialty Chemicals
+YASKY,Industrials,Electrical Equipment & Parts
+CLPBY,Healthcare,Medical Instruments & Supplies
+UMICY,Industrials,Pollution & Treatment Controls
+NCBDY,Consumer Cyclical,Leisure
+DWAHY,Real Estate,Real Estate - Development
+BRDCY,Consumer Cyclical,Auto Parts
+TLPFY,Industrials,Specialty Business Services
+PROSY,Communication Services,Internet Content & Information
+PRYMY,Industrials,Electrical Equipment & Parts
+LYG,Financial Services,Banks - Regional
+SWDBY,Financial Services,Banks - Regional
+CZMWY,Healthcare,Medical Instruments & Supplies
+NTES,Communication Services,Electronic Gaming & Multimedia
+KHNGY,Industrials,Integrated Freight & Logistics
+SONVY,Healthcare,Medical Devices
+MGDDY,Not Found,Not Found
+SYIEY,Basic Materials,Specialty Chemicals
+BDRFY,Consumer Defensive,Household & Personal Products
+BMRRY,Consumer Defensive,Discount Stores
+IBDRY,Utilities,Utilities - Diversified
+FMS,Healthcare,Medical Care Facilities
+TTNDY,Industrials,Tools & Accessories
+TOELY,Technology,Semiconductor Equipment & Materials
+WPP,Communication Services,Advertising Agencies
+ALLE,Industrials,Security & Protection Services
+DSCSY,Technology,Semiconductor Equipment & Materials
+IDEXY,Consumer Cyclical,Apparel Retail
+DRPRY,Consumer Cyclical,Auto Manufacturers
+HSQVY,Industrials,Tools & Accessories
+DLICY,Financial Services,Insurance - Life
+MSSMY,Industrials,Tools & Accessories
+CSLLY,Healthcare,Biotechnology
+KNBWY,Consumer Defensive,Beverages - Brewers
+UOVEY,Financial Services,Banks - Regional
+HMC,Consumer Cyclical,Auto Manufacturers
+KGFHY,Consumer Cyclical,Home Improvement Retail
+KRYAY,Consumer Defensive,Packaged Foods
+HVRRY,Financial Services,Insurance - Reinsurance
+ZLNDY,Consumer Cyclical,Internet Retail
+SIEGY,Industrials,Specialty Industrial Machinery
+JRONY,Consumer Defensive,Food Distribution
+SMCAY,Industrials,Specialty Industrial Machinery
+NSANY,Consumer Cyclical,Auto Manufacturers
+SXYAY,Basic Materials,Specialty Chemicals
+ENLAY,Utilities,Utilities - Diversified
+DNTUY,Communication Services,Advertising Agencies
+FUJIY,Industrials,Conglomerates
+MDIBY,Financial Services,Banks - Regional
+DB,Financial Services,Banks - Regional
+SKHHY,Healthcare,Diagnostics & Research
+GASNY,Utilities,Utilities - Regulated Gas
+TMSNY,Technology,Software - Application
+GBERY,Industrials,Building Products & Equipment
+ERIC,Technology,Communication Equipment
+OTSKY,Healthcare,Drug Manufacturers - General
+SPKKY,Communication Services,Telecom Services
+JAPAY,Consumer Defensive,Tobacco
+SE,Consumer Cyclical,Internet Retail
+FSUGY,Basic Materials,Other Industrial Metals & Mining
+NABZY,Financial Services,Banks - Diversified
+DKILY,Industrials,Building Products & Equipment
+EADSY,Industrials,Aerospace & Defense
+SNN,Healthcare,Medical Devices
+ESLOY,Healthcare,Medical Instruments & Supplies
+NMR,Financial Services,Capital Markets
+UUGRY,Utilities,Utilities - Regulated Water
+SCGLY,Financial Services,Banks - Regional
+CMWAY,Financial Services,Banks - Diversified
+MURGY,Financial Services,Insurance - Reinsurance
+DSNKY,Healthcare,Drug Manufacturers - General
+BNPQY,Financial Services,Banks - Regional
+NTDOY,Communication Services,Electronic Gaming & Multimedia
+ALC,Healthcare,Medical Instruments & Supplies
+BAYRY,Healthcare,Drug Manufacturers - General
+AONNY,Consumer Cyclical,Department Stores
+CRH,Basic Materials,Building Materials
+HDELY,Basic Materials,Building Materials
+MZDAY,Consumer Cyclical,Auto Manufacturers
+SAXPY,Financial Services,Insurance - Diversified
+OCDDY,Consumer Defensive,Grocery Stores
+JSAIY,Consumer Defensive,Grocery Stores
+CAJPY,Technology,Computer Hardware
+ASHTY,Industrials,Rental & Leasing Services
+BTI,Consumer Defensive,Tobacco
+AMADY,Consumer Cyclical,Travel Services
+TRUMY,Healthcare,Medical Instruments & Supplies
+BXBLY,Industrials,Specialty Business Services
+JTKWY,Consumer Cyclical,Internet Retail
+AHEXY,Industrials,Staffing & Employment Services
+BCS,Financial Services,Banks - Diversified
+OLCLY,Consumer Cyclical,Leisure
+DQJCY,Consumer Defensive,Discount Stores
+TEZNY,Utilities,Utilities - Regulated Electric
+HCMLY,Basic Materials,Building Materials
+JSGRY,Industrials,Building Products & Equipment
+ALPMY,Healthcare,Drug Manufacturers - General
+ADRNY,Consumer Defensive,Grocery Stores
+MKTAY,Industrials,Tools & Accessories
+CCOEY,Communication Services,Electronic Gaming & Multimedia
+HSBC,Financial Services,Banks - Diversified
+SDVKY,Industrials,Specialty Industrial Machinery
+YARIY,Basic Materials,Agricultural Inputs
+FJTSY,Technology,Information Technology Services
+ICL,Basic Materials,Agricultural Inputs
+HXGBY,Technology,Scientific & Technical Instruments
+OPHLY,Healthcare,Drug Manufacturers - General
+SNY,Healthcare,Drug Manufacturers - General
+SFTBY,Communication Services,Telecom Services
+TOTDY,Industrials,Building Products & Equipment
+RPT,Not Found,Not Found
+HESAY,Consumer Cyclical,Luxury Goods
+AZN,Healthcare,Drug Manufacturers - General
+RHHBY,Healthcare,Drug Manufacturers - General
+HTHIY,Industrials,Conglomerates
+KMTUY,Industrials,Farm & Heavy Construction Machinery
+DTEGY,Communication Services,Telecom Services
+GVDNY,Basic Materials,Specialty Chemicals
+RIO,Basic Materials,Other Industrial Metals & Mining
+SVNLY,Financial Services,Banks - Diversified
+MTSFY,Real Estate,Real Estate - Diversified
+JHX,Basic Materials,Building Materials
+LGRDY,Industrials,Electrical Equipment & Parts
+BDNNY,Basic Materials,Other Industrial Metals & Mining
+AAVMY,Financial Services,Banks - Diversified
+NOK,Technology,Communication Equipment
+WJRYY,Industrials,Railroads
+DNZOY,Consumer Cyclical,Auto Parts
+MIELY,Industrials,Electrical Equipment & Parts
+NRILY,Technology,Information Technology Services
+MRAAY,Technology,Electronic Components
+SWRAY,Industrials,Conglomerates
+SSMXY,Healthcare,Medical Instruments & Supplies
+IFJPY,Communication Services,Publishing
+ISUZY,Consumer Cyclical,Auto Manufacturers
+SKLTY,Communication Services,Internet Content & Information
+STBFY,Consumer Defensive,Beverages - Brewers
+BTLCY,Real Estate,REIT - Diversified
+KNRRY,Consumer Cyclical,Auto Parts
+EPOKY,Industrials,Farm & Heavy Construction Machinery
+VWAGY,Consumer Cyclical,Auto Manufacturers
+ANYYY,Industrials,Airports & Air Services
+CJPRY,Industrials,Railroads
+CODYY,Industrials,Building Products & Equipment
+VCISY,Industrials,Engineering & Construction
+NCMGY,Not Found,Not Found
+KKPNY,Communication Services,Telecom Services
+NTTYY,Communication Services,Telecom Services
+UCBJY,Healthcare,Biotechnology
+OLYMY,Healthcare,Medical Instruments & Supplies
+IHG,Consumer Cyclical,Lodging
+HKXCY,Financial Services,Financial Data & Stock Exchanges
+STM,Technology,Semiconductors
+MFG,Financial Services,Banks - Regional
+RELX,Industrials,Specialty Business Services
+SALRY,Consumer Defensive,Farm Products
+SVNDY,Consumer Defensive,Grocery Stores
+FRRVY,Not Found,Not Found
+BAESY,Industrials,Aerospace & Defense
+NRDBY,Financial Services,Banks - Regional
+DBOEY,Financial Services,Financial Data & Stock Exchanges
+QBIEY,Financial Services,Insurance - Property & Casualty
+PUBGY,Communication Services,Advertising Agencies
+BUD,Consumer Defensive,Beverages - Brewers
+TEF,Communication Services,Telecom Services
+SAFRY,Industrials,Aerospace & Defense
+UBS,Financial Services,Banks - Diversified
+ANZGY,Financial Services,Banks - Diversified
+DHLGY,Industrials,Integrated Freight & Logistics
+IMBBY,Consumer Defensive,Tobacco
+VEOEY,Industrials,Waste Management
+AJINY,Consumer Defensive,Packaged Foods
+MSADY,Financial Services,Insurance - Property & Casualty
+CRZBY,Financial Services,Banks - Regional
+FBP,Financial Services,Banks - Regional
+ING,Financial Services,Banks - Diversified
+KIM,Real Estate,REIT - Retail
+LOGI,Technology,Computer Hardware
+SGSOY,Industrials,Consulting Services
+ALIZY,Financial Services,Insurance - Diversified
+CHEOY,Healthcare,Medical Devices
+ISNPY,Financial Services,Banks - Regional
+MSLOY,Industrials,Marine Shipping
+MBGYY,Consumer Cyclical,Auto Manufacturers
+SZKMY,Consumer Cyclical,Auto Manufacturers
+EBKDY,Financial Services,Banks - Regional
+TM,Consumer Cyclical,Auto Manufacturers
+NINOY,Consumer Cyclical,Leisure
+ITTOY,Technology,Information Technology Services
+MTHRY,Healthcare,Health Information Services
+ENGIY,Utilities,Utilities - Diversified
+RANJY,Industrials,Staffing & Employment Services
+KBCSY,Financial Services,Banks - Regional
+AMKBY,Industrials,Marine Shipping
+NNGRY,Financial Services,Insurance - Diversified
+NWG,Financial Services,Banks - Regional
+PUK,Financial Services,Insurance - Life
+AHKSY,Basic Materials,Chemicals
+AIQUY,Basic Materials,Specialty Chemicals
+ADDYY,Consumer Cyclical,Footwear & Accessories
+NICE,Technology,Software - Application
+VACNY,Industrials,Specialty Industrial Machinery
+MHGVY,Consumer Defensive,Farm Products
+SSREY,Financial Services,Insurance - Reinsurance
+SAN,Financial Services,Banks - Diversified
+NEXOY,Communication Services,Electronic Gaming & Multimedia
+TTDKY,Technology,Electronic Components
+SMFG,Financial Services,Banks - Diversified
+SMNEY,Industrials,Specialty Industrial Machinery
+DANOY,Consumer Defensive,Packaged Foods
+WRDLY,Technology,Software - Infrastructure
+NJDCY,Industrials,Specialty Industrial Machinery
+TKAMY,Industrials,Metal Fabrication
+ALFVY,Industrials,Specialty Industrial Machinery
+SSEZY,Utilities,Utilities - Diversified
+TCEHY,Communication Services,Internet Content & Information
+CTSH,Technology,Information Technology Services
+"8.WEEK, MATURE",Not Found,Not Found
+PAYX,Industrials,Staffing & Employment Services
+MSI,Technology,Communication Equipment
+SNV,Financial Services,Banks - Regional
+COF,Financial Services,Credit Services
+BROS,Consumer Cyclical,Restaurants
+FDX,Industrials,Integrated Freight & Logistics
+OLPX,Consumer Cyclical,Specialty Retail
+LCID,Consumer Cyclical,Auto Manufacturers
+QS,Consumer Cyclical,Auto Parts
+DISH,Not Found,Not Found
+ATUS,Communication Services,Telecom Services
+VAL,Energy,Oil & Gas Equipment & Services
+SRE$A,Not Found,Not Found
+SNPS,Technology,Software - Infrastructure
+HUBS,Technology,Software - Application
+BIDU,Communication Services,Internet Content & Information
+FTV,Technology,Scientific & Technical Instruments
+ARGO,Not Found,Not Found
+MATURE,Not Found,Not Found
+GPN,Industrials,Specialty Business Services
+SIRI,Communication Services,Entertainment
+PTON,Consumer Cyclical,Leisure
+GLD,Not Found,Not Found
+NTAP,Technology,Computer Hardware
+AEP,Utilities,Utilities - Regulated Electric
+SIRE,Not Found,Not Found
+WBK,Not Found,Not Found
+OCLCF,Technology,Software - Application
+BELGIUM,Not Found,Not Found
+BMO,Financial Services,Banks - Diversified
+FHN,Financial Services,Banks - Regional
+REIT,Not Found,Not Found
+JEF,Financial Services,Capital Markets
+AGR,Utilities,Utilities - Regulated Electric
+TRU,Industrials,Consulting Services
+CTAS,Industrials,Specialty Business Services
+AWK,Utilities,Utilities - Regulated Water
+SON,Consumer Cyclical,Packaging & Containers
+NNN,Real Estate,REIT - Retail
+IPG,Communication Services,Advertising Agencies
+DECK,Consumer Cyclical,Footwear & Accessories
+CINF,Financial Services,Insurance - Property & Casualty
+BCE,Communication Services,Telecom Services
+USPH,Healthcare,Medical Care Facilities
+CEG,Utilities,Utilities - Renewable
+KEYS,Technology,Scientific & Technical Instruments
+LNG,Energy,Oil & Gas Midstream
+TDG,Industrials,Aerospace & Defense
+ABB,Not Found,Not Found
+STATE OF,Not Found,Not Found
+AQUA,Not Found,Not Found
+IQV,Healthcare,Diagnostics & Research
+ETSY,Consumer Cyclical,Internet Retail
+UI,Technology,Communication Equipment
+MDB,Technology,Software - Infrastructure
+TTD,Technology,Software - Application
+PINS,Communication Services,Internet Content & Information
+SNAP,Communication Services,Internet Content & Information
+CCCS,Technology,Software - Infrastructure
+VFC,Consumer Cyclical,Apparel Manufacturing
+LPLA,Financial Services,Capital Markets
+AJG,Financial Services,Insurance Brokers
+FQAL,Not Found,Not Found
+IVV,Not Found,Not Found
+CCK,Consumer Cyclical,Packaging & Containers
+LGI,Financial Services,Asset Management
+SNDR,Industrials,Trucking
+FIMKX,Not Found,Not Found
+FDN,Not Found,Not Found
+FCPIX,Not Found,Not Found
+RTH,Not Found,Not Found
+VSH,Technology,Semiconductors
+DGRS,Not Found,Not Found
+SBIO,Not Found,Not Found
+BRKR,Healthcare,Medical Devices
+JHMM,Not Found,Not Found
+AVNT,Basic Materials,Specialty Chemicals
+MRVL,Technology,Semiconductors
+PEG,Utilities,Utilities - Regulated Electric
+BHF,Financial Services,Insurance - Life
+MRO,Energy,Oil & Gas E&P
+UA,Consumer Cyclical,Apparel Manufacturing
+IWD,Not Found,Not Found
+RSP,Not Found,Not Found
+IYY,Not Found,Not Found
+WFAFY,Consumer Cyclical,Home Improvement Retail
+CARG,Consumer Cyclical,Auto & Truck Dealerships
+GTLB,Technology,Software - Infrastructure
+APO,Financial Services,Asset Management
+SYF,Financial Services,Credit Services
+ZS,Technology,Software - Infrastructure
+NTRA,Healthcare,Diagnostics & Research
+COLB,Financial Services,Banks - Regional
+NFG,Energy,Oil & Gas Integrated
+INSP,Healthcare,Medical Devices
+OUT,Real Estate,REIT - Specialty
+AIG,Financial Services,Insurance - Diversified
+CWK,Real Estate,Real Estate Services
+OPEN,Real Estate,Real Estate Services
+WY,Real Estate,REIT - Specialty
+GM,Consumer Cyclical,Auto Manufacturers
+LPSN,Technology,Software - Application
+QTWO,Technology,Software - Application
+NYCB,Financial Services,Banks - Regional
+UGI,Utilities,Utilities - Regulated Gas
+NOV,Energy,Oil & Gas Equipment & Services
+EDIT,Healthcare,Biotechnology
+BILL,Technology,Software - Application
+FOLD,Healthcare,Biotechnology
+MDGL,Healthcare,Biotechnology
+ESRT,Real Estate,REIT - Diversified
+WBS,Financial Services,Banks - Regional
+KRTX,Healthcare,Biotechnology
+AXS,Financial Services,Insurance - Specialty
+YOU,Technology,Software - Application
+ROKU,Communication Services,Entertainment
+SBRA,Real Estate,REIT - Healthcare Facilities
+EWBC,Financial Services,Banks - Diversified
+NEM,Basic Materials,Gold
+MRVI,Healthcare,Biotechnology
+AAT,Real Estate,REIT - Diversified
+RNG,Technology,Software - Application
+VNO,Real Estate,REIT - Office
+RITM,Real Estate,REIT - Mortgage
+DLR,Real Estate,REIT - Specialty
+NTNX,Technology,Software - Infrastructure
+TEX,Industrials,Farm & Heavy Construction Machinery
+PLUG,Industrials,Electrical Equipment & Parts
+MRTX,Not Found,Not Found
+FCNCA,Financial Services,Banks - Regional
+TAP,Consumer Defensive,Beverages - Brewers
+RGA,Financial Services,Insurance - Reinsurance
+ARRY,Technology,Solar
+HUN,Basic Materials,Chemicals
+VAC,Consumer Cyclical,Resorts & Casinos
+MLKN,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+LC,Financial Services,Credit Services
+CSGP,Real Estate,Real Estate Services
+FLO,Consumer Defensive,Packaged Foods
+UAL,Industrials,Airlines
+AKR,Real Estate,REIT - Retail
+AGNC,Real Estate,REIT - Mortgage
+CONN,Consumer Cyclical,Specialty Retail
+VTRS,Healthcare,Drug Manufacturers - Specialty & Generic
+JLL,Real Estate,Real Estate Services
+CPT,Real Estate,REIT - Residential
+CAR,Industrials,Rental & Leasing Services
+FCEL,Industrials,Electrical Equipment & Parts
+FWONK,Communication Services,Entertainment
+UNM,Financial Services,Insurance - Life
+ENPH,Technology,Solar
+DNB,Financial Services,Financial Data & Stock Exchanges
+AHCO,Healthcare,Medical Devices
+CHDN,Consumer Cyclical,Gambling
+CSII,Not Found,Not Found
+QSR,Consumer Cyclical,Restaurants
+MTD,Healthcare,Diagnostics & Research
+TREX,Industrials,Building Products & Equipment
+SCI,Consumer Cyclical,Personal Services
+SSD,Basic Materials,Lumber & Wood Production
+APPF,Technology,Software - Application
+CROX,Consumer Cyclical,Footwear & Accessories
+VCTR,Financial Services,Asset Management
+NDSN,Industrials,Specialty Industrial Machinery
+MKSI,Technology,Scientific & Technical Instruments
+LMST,Not Found,Not Found
+DQ,Technology,Semiconductor Equipment & Materials
+GFI,Basic Materials,Gold
+FLT,Technology,Software - Infrastructure
+GRMN,Technology,Scientific & Technical Instruments
+RH,Consumer Cyclical,Specialty Retail
+VONOY,Real Estate,Real Estate Services
+MONOY,Consumer Cyclical,Internet Retail
+SKBSY,Industrials,Engineering & Construction
+CNHI,Industrials,Farm & Heavy Construction Machinery
+ECL,Basic Materials,Specialty Chemicals
+NTDTY,Technology,Information Technology Services
+MITEY,Real Estate,Real Estate - Diversified
+ASXFY,Financial Services,Financial Data & Stock Exchanges
+SMPNY,Financial Services,Insurance - Property & Casualty
+GRFS,Healthcare,Drug Manufacturers - General
+BHKLY,Financial Services,Banks - Regional
+DPSGY,Not Found,Not Found
+SSB,Financial Services,Banks - Regional
+VIASP,Utilities,Utilities - Regulated Electric
+LTRPA,Communication Services,Internet Content & Information
+BOH,Financial Services,Banks - Regional
+CS,Not Found,Not Found
+FRC,Not Found,Not Found
+MPC,Energy,Oil & Gas Refining & Marketing
+WCC,Industrials,Industrial Distribution
+O,Real Estate,REIT - Retail
+ABCB,Financial Services,Banks - Regional
+CIVI,Energy,Oil & Gas E&P
+TYG,Financial Services,Asset Management
+NUE,Basic Materials,Steel
+WDS,Energy,Oil & Gas E&P
+SIVB,Not Found,Not Found
+SVC,Real Estate,REIT - Hotel & Motel
+SCHD,Not Found,Not Found
+OHI,Real Estate,REIT - Healthcare Facilities
+CTLT,Healthcare,Drug Manufacturers - Specialty & Generic
+CPB,Consumer Defensive,Packaged Foods
+BCC,Basic Materials,Building Materials
+CNP,Utilities,Utilities - Regulated Electric
+SILK,Healthcare,Medical Devices
+BMRN,Healthcare,Biotechnology
+IBRX,Healthcare,Biotechnology
+GO,Consumer Defensive,Grocery Stores
+CDNA,Healthcare,Diagnostics & Research
+HPP,Real Estate,REIT - Office
+IONS,Healthcare,Biotechnology
+DAL,Industrials,Airlines
+K,Consumer Defensive,Packaged Foods
+PACW,Not Found,Not Found
+PAYC,Technology,Software - Application
+RTN,Not Found,Not Found
+MKC,Consumer Defensive,Packaged Foods
+Z,Communication Services,Internet Content & Information
+GMED,Healthcare,Medical Devices
+RJF,Financial Services,Capital Markets
+ED,Utilities,Utilities - Regulated Electric
+ATO,Utilities,Utilities - Regulated Gas
+NLY,Real Estate,REIT - Mortgage
+ELAN,Healthcare,Drug Manufacturers - Specialty & Generic
+INCY,Healthcare,Biotechnology
+HE,Utilities,Utilities - Regulated Electric
+SRE,Utilities,Utilities - Diversified
+SBNY,Financial Services,Banks - Regional
+BRO,Financial Services,Insurance Brokers
+APPS,Technology,Software - Application
+BIIB,Healthcare,Drug Manufacturers - General
+DEI,Real Estate,REIT - Office
+ALLY,Financial Services,Credit Services
+RIVN,Consumer Cyclical,Auto Manufacturers
+BLNK,Industrials,Engineering & Construction
+PFF,Not Found,Not Found
+RUN,Technology,Solar
+FIVE,Consumer Cyclical,Specialty Retail
+UNICY,Consumer Defensive,Household & Personal Products
+UNVGY,Communication Services,Entertainment
+ELUXY,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+KKOYY,Consumer Defensive,Grocery Stores
+SGAPY,Communication Services,Telecom Services
+RCRUY,Communication Services,Internet Content & Information
+NPPNY,Healthcare,Drug Manufacturers - Specialty & Generic
+TELNY,Communication Services,Telecom Services
+TOSYY,Industrials,Conglomerates
+ITC,Not Found,Not Found
+PFGC,Consumer Defensive,Food Distribution
+MATURIT,Not Found,Not Found
+CBZ,Industrials,Specialty Business Services
+BRK.A,Not Found,Not Found
+SQM,Basic Materials,Specialty Chemicals
+BSM,Energy,Oil & Gas E&P
+VFH,Not Found,Not Found
+KBE,Not Found,Not Found
+FPI,Real Estate,REIT - Specialty
+CANO,Healthcare,Medical Care Facilities
+GNR,Not Found,Not Found
+MBXIX,Not Found,Not Found
+ABYIX,Not Found,Not Found
+LDP,Not Found,Not Found
+IGHG,Not Found,Not Found
+MOO,Not Found,Not Found
+SPGP,Not Found,Not Found
+VHT,Not Found,Not Found
+NXTG,Not Found,Not Found
+LUBYX,Not Found,Not Found
+QTEC,Not Found,Not Found
+CDL,Not Found,Not Found
+VEEV,Healthcare,Health Information Services
+WDAY,Technology,Software - Application
+VRSK,Industrials,Consulting Services
+IBN,Financial Services,Banks - Regional
+ARWR,Healthcare,Biotechnology
+MTCH,Communication Services,Internet Content & Information
+ORLY,Consumer Cyclical,Specialty Retail
+RBLX,Communication Services,Electronic Gaming & Multimedia
+ENVX,Industrials,Electrical Equipment & Parts
+HAS,Consumer Cyclical,Leisure
+MAXR,Not Found,Not Found
+HZNP,Not Found,Not Found
+SPWR,Technology,Solar
+SWAV,Healthcare,Medical Devices
+SYNH,Not Found,Not Found
+CHE,Healthcare,Medical Care Facilities
+ICLR,Healthcare,Diagnostics & Research
+FATE,Healthcare,Biotechnology
+RSG,Industrials,Waste Management
+WIW,Financial Services,Asset Management
+ESALY,Not Found,Not Found
+BAC.PL,Not Found,Not Found
+RDSMY,Not Found,Not Found
+AGI,Basic Materials,Gold
+MTSI,Technology,Semiconductors
+CG,Financial Services,Asset Management
+CMPS,Healthcare,Medical Care Facilities
+CHRS,Healthcare,Biotechnology
+BAX,Healthcare,Medical Instruments & Supplies
+TTWO,Communication Services,Electronic Gaming & Multimedia
+MUNI,Not Found,Not Found
+4.WEEK MATURE,Not Found,Not Found
+JAPSY,Industrials,Airlines
+PSO,Communication Services,Publishing
+13.WEEK MATURE,Not Found,Not Found
+SRVR,Not Found,Not Found
+ATKR,Industrials,Electrical Equipment & Parts
+TU,Communication Services,Telecom Services
+FAST,Industrials,Industrial Distribution
+BHP,Basic Materials,Other Industrial Metals & Mining
+SAND,Basic Materials,Gold
+WTRG,Utilities,Utilities - Regulated Water
+HOLX,Healthcare,Medical Instruments & Supplies
+GEHC,Healthcare,Health Information Services
+MGM,Consumer Cyclical,Resorts & Casinos
+GE,Industrials,Specialty Industrial Machinery
+RNWK,Not Found,Not Found
+SUPN,Healthcare,Drug Manufacturers - Specialty & Generic
+91282CFN6,Not Found,Not Found
+COHR,Technology,Scientific & Technical Instruments
+AKAM,Technology,Software - Infrastructure
+GNRC,Industrials,Specialty Industrial Machinery
+FISV,Not Found,Not Found
+MASI,Healthcare,Medical Devices
+ARCB,Industrials,Trucking
+BLL,Not Found,Not Found
+SWK,Industrials,Tools & Accessories
+WYNN,Consumer Cyclical,Resorts & Casinos
+NESR,Energy,Oil & Gas Equipment & Services
+AROC,Energy,Oil & Gas Equipment & Services
+SWTX,Healthcare,Biotechnology
+KURA,Healthcare,Biotechnology
+PCVX,Healthcare,Biotechnology
+NOTV,Healthcare,Diagnostics & Research
+KALV,Healthcare,Biotechnology
+CMTG,Real Estate,REIT - Mortgage
+KRYS,Healthcare,Biotechnology
+BLFS,Healthcare,Medical Instruments & Supplies
+XPRO,Energy,Oil & Gas Equipment & Services
+COGT,Healthcare,Biotechnology
+CTRA,Energy,Oil & Gas E&P
+SAVA,Healthcare,Biotechnology
+HLX,Energy,Oil & Gas Equipment & Services
+RLMD,Healthcare,Biotechnology
+ATHA,Healthcare,Biotechnology
+INSW.V,Not Found,Not Found
+AVXL,Healthcare,Biotechnology
+GEVO,Basic Materials,Specialty Chemicals
+TELL,Energy,Oil & Gas E&P
+CRGY,Energy,Oil & Gas E&P
+DOC,Real Estate,REIT - Healthcare Facilities
+912796ZP7,Not Found,Not Found
+MNRL,Not Found,Not Found
+NTST,Real Estate,REIT - Retail
+HP,Energy,Oil & Gas Drilling
+912796YJ2,Not Found,Not Found
+INSM,Healthcare,Biotechnology
+SGENX,Not Found,Not Found
+SCHP,Not Found,Not Found
+BLDR,Industrials,Building Products & Equipment
+DSEY,Not Found,Not Found
+SMG,Basic Materials,Agricultural Inputs
+XYL,Industrials,Specialty Industrial Machinery
+VRT,Industrials,Electrical Equipment & Parts
+GFL,Industrials,Waste Management
+ENTG,Technology,Semiconductor Equipment & Materials
+LYV,Communication Services,Entertainment
+FFIV,Technology,Software - Infrastructure
+BERY,Consumer Cyclical,Packaging & Containers
+CZR,Consumer Cyclical,Resorts & Casinos
+MAT,Consumer Cyclical,Leisure
+QRVO,Technology,Semiconductors
+LESL,Consumer Cyclical,Specialty Retail
+PLNT,Consumer Cyclical,Leisure
+MLM,Basic Materials,Building Materials
+GT,Consumer Cyclical,Auto Parts
+BFAM,Consumer Cyclical,Personal Services
+USFD,Consumer Defensive,Food Distribution
+FOUR,Technology,Software - Infrastructure
+VICI,Real Estate,REIT - Diversified
+AZEK,Industrials,Building Products & Equipment
+REZI,Industrials,Security & Protection Services
+CDW,Technology,Information Technology Services
+ESI,Basic Materials,Specialty Chemicals
+BBWI,Consumer Cyclical,Specialty Retail
+BKI,Not Found,Not Found
+ACHC,Healthcare,Medical Care Facilities
+CLR,Not Found,Not Found
+TREASURY INFLATIO,Not Found,Not Found
+ZIMV,Healthcare,Medical Devices
+SSLTY,Not Found,Not Found
+ZBH,Healthcare,Medical Devices
+6.MONTH,Not Found,Not Found
+AMP,Financial Services,Asset Management
+BATRA,Communication Services,Entertainment
+CR,Industrials,Specialty Industrial Machinery
+EFA,Not Found,Not Found
+LBRDA,Communication Services,Telecom Services
+BTEC,Not Found,Not Found
+FLYW,Technology,Software - Infrastructure
+FSMDX,Not Found,Not Found
+QYLD,Not Found,Not Found
+COUP,Not Found,Not Found
+IRBT,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+OCGN,Healthcare,Biotechnology
+AKRO,Healthcare,Biotechnology
+HSAC,Not Found,Not Found
+BCEL,Healthcare,Biotechnology
+ENOB,Not Found,Not Found
+TLRN,Not Found,Not Found
+KOD,Healthcare,Biotechnology
+SI,Not Found,Not Found
+U,Technology,Software - Application
+FDEV,Not Found,Not Found
+BAGIX,Not Found,Not Found
+MAIIX,Not Found,Not Found
+VYM,Not Found,Not Found
+FHYS,Not Found,Not Found
+TWTR,Not Found,Not Found
+KBH,Consumer Cyclical,Residential Construction
+BMN,Financial Services,Asset Management
+FB,Not Found,Not Found
+AE,Energy,Oil & Gas Refining & Marketing
+JOE,Real Estate,Real Estate - Diversified
+USO,Not Found,Not Found
+FAS,Not Found,Not Found
+FTBFX,Not Found,Not Found
+CPXWF,Utilities,Utilities - Independent Power Producers
+ANDE,Consumer Defensive,Food Distribution
+CCXI,Not Found,Not Found
+GMRE,Real Estate,REIT - Healthcare Facilities
+EFAD,Not Found,Not Found
+GSMYX,Not Found,Not Found
+BRCM,Not Found,Not Found
+PPL,Utilities,Utilities - Regulated Electric
+AMLX,Healthcare,Biotechnology
+ISEE,Not Found,Not Found
+PLL,Basic Materials,Other Industrial Metals & Mining
+AEE,Utilities,Utilities - Regulated Electric
+PCTY,Technology,Software - Application
+BRMK,Not Found,Not Found
+EXPE,Consumer Cyclical,Travel Services
+912796U31,Not Found,Not Found
+912796X87,Not Found,Not Found
+VTNR,Energy,Oil & Gas Refining & Marketing
+ELS,Real Estate,REIT - Residential
+SH,Not Found,Not Found
+TROW,Financial Services,Asset Management
+SEIC,Financial Services,Asset Management
+WIT,Technology,Information Technology Services
+NID,Not Found,Not Found
+HQL,Financial Services,Asset Management
+DGRO,Not Found,Not Found
+IMKTA,Consumer Defensive,Grocery Stores
+GOGL,Industrials,Marine Shipping
+AA,Basic Materials,Aluminum
+MGY,Energy,Oil & Gas E&P
+WRK,Consumer Cyclical,Packaging & Containers
+NEWT,Financial Services,Banks - Regional
+SJT,Energy,Oil & Gas E&P
+KMX,Consumer Cyclical,Auto & Truck Dealerships
+ARKK,Not Found,Not Found
+912796YH6,Not Found,Not Found
+91282CFG1,Not Found,Not Found
+MFH,Financial Services,Capital Markets
+STAG,Real Estate,REIT - Industrial
+CVET,Not Found,Not Found
+ABMD,Not Found,Not Found
+LGF.B,Not Found,Not Found
+FCNTX,Not Found,Not Found
+IVW,Not Found,Not Found
+ONEQ,Not Found,Not Found
+CHTR,Communication Services,Telecom Services
+ROST,Consumer Cyclical,Apparel Retail
+FBKWX,Not Found,Not Found
+ECOM,Not Found,Not Found
+NHI,Real Estate,REIT - Healthcare Facilities
+SSYS,Technology,Computer Hardware
+PTC,Technology,Software - Application
+BKEPP,Not Found,Not Found
+XLE,Not Found,Not Found
+912796XQ7,Not Found,Not Found
+CDNS,Technology,Software - Application
+OZKAP,Financial Services,Banks - Regional
+HIL,Not Found,Not Found
+AMC,Communication Services,Entertainment
+CFA,Not Found,Not Found
+IJS,Not Found,Not Found
+RPD,Technology,Software - Infrastructure
+CIBR,Not Found,Not Found
+GSSC,Not Found,Not Found
+MS$P,Not Found,Not Found
+GDXJ,Not Found,Not Found
+CEF,Not Found,Not Found
+FINX,Not Found,Not Found
+EELV,Not Found,Not Found
+GSIMX,Not Found,Not Found
+PRF,Not Found,Not Found
+KRE,Not Found,Not Found
+FIASX,Not Found,Not Found
+PYPLV,Not Found,Not Found
+FICO,Technology,Software - Application
+EMN,Basic Materials,Specialty Chemicals
+L,Financial Services,Insurance - Property & Casualty
+CARR,Industrials,Building Products & Equipment
+VRAI,Not Found,Not Found
+NVR,Consumer Cyclical,Residential Construction
+DRI,Consumer Cyclical,Restaurants
+MAS,Industrials,Building Products & Equipment
+WHR,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+DPZ,Consumer Cyclical,Restaurants
+REG,Real Estate,REIT - Retail
+CMA,Financial Services,Banks - Regional
+CE,Basic Materials,Chemicals
+DURA,Not Found,Not Found
+KNOP,Industrials,Marine Shipping
+FIP,Industrials,Conglomerates
+DHS,Not Found,Not Found
+PCNNX,Not Found,Not Found
+OC,Industrials,Building Products & Equipment
+XLY,Not Found,Not Found
+JHCBX,Not Found,Not Found
+IDV,Not Found,Not Found
+ABNFX,Not Found,Not Found
+XLC,Not Found,Not Found
+EFAV,Not Found,Not Found
+MUB,Not Found,Not Found
+SCHF,Not Found,Not Found
+BURL,Consumer Cyclical,Apparel Retail
+PHG,Healthcare,Medical Devices
+GXO,Industrials,Integrated Freight & Logistics
+NOVT,Technology,Scientific & Technical Instruments
+AATC,Technology,Scientific & Technical Instruments
+AR,Energy,Oil & Gas E&P
+ASBC,Not Found,Not Found
+CDEV,Not Found,Not Found
+STNG,Energy,Oil & Gas Midstream
+ESTE,Not Found,Not Found
+VTRSV,Not Found,Not Found
+SM,Energy,Oil & Gas E&P
+GNKOQ,Not Found,Not Found
+UBSI,Financial Services,Banks - Regional
+UVV,Consumer Defensive,Tobacco
+PBA,Energy,Oil & Gas Midstream
+TXT,Industrials,Aerospace & Defense
+TIP,Not Found,Not Found
+SPR,Industrials,Aerospace & Defense
+IBDQ,Not Found,Not Found
+IBDO,Not Found,Not Found
+VTIP,Not Found,Not Found
+MFC,Financial Services,Insurance - Life
+BEKE,Real Estate,Real Estate Services
+EPD,Energy,Oil & Gas Midstream
+CWEN.A,Not Found,Not Found
+TXRH,Consumer Cyclical,Restaurants
+LHCG,Not Found,Not Found
+AGCO,Industrials,Farm & Heavy Construction Machinery
+ITT,Industrials,Specialty Industrial Machinery
+RTL,Not Found,Not Found
+NWBI,Financial Services,Banks - Regional
+FNB,Financial Services,Banks - Regional
+IMAX,Communication Services,Entertainment
+EVT,Financial Services,Asset Management
+SHYG,Not Found,Not Found
+NBR,Energy,Oil & Gas Drilling
+IWB,Not Found,Not Found
+IWN,Not Found,Not Found
+CPE,Energy,Oil & Gas E&P
+RC,Real Estate,REIT - Mortgage
+AXSM,Healthcare,Biotechnology
+NEX,Not Found,Not Found
+MAC,Real Estate,REIT - Retail
+ALLK,Healthcare,Biotechnology
+GNK,Industrials,Marine Shipping
+ACAD,Healthcare,Biotechnology
+ASB,Financial Services,Banks - Regional
+PLAN,Not Found,Not Found
+NAT,Industrials,Marine Shipping
+KOS,Energy,Oil & Gas E&P
+UUUU,Energy,Uranium
+FIXD,Not Found,Not Found
+BRBR,Consumer Defensive,Packaged Foods
+CERN,Not Found,Not Found
+AMBP,Consumer Cyclical,Packaging & Containers
+U 3%25CD,Not Found,Not Found
+CMS,Utilities,Utilities - Regulated Electric
+WEC,Utilities,Utilities - Regulated Electric
+912796U49,Not Found,Not Found
+PAVE,Not Found,Not Found
+PPA,Not Found,Not Found
+OXBR,Financial Services,Insurance - Reinsurance
+VCSH,Not Found,Not Found
+UPST,Financial Services,Credit Services
+MTBC,Not Found,Not Found
+FWONA,Communication Services,Entertainment
+FLL,Consumer Cyclical,Resorts & Casinos
+ORI,Financial Services,Insurance - Diversified
+91282CEG2,Not Found,Not Found
+CHKP,Technology,Software - Infrastructure
+DRE,Not Found,Not Found
+LMND,Financial Services,Insurance - Property & Casualty
+MP,Basic Materials,Other Industrial Metals & Mining
+Y,Not Found,Not Found
+NEE$Q,Not Found,Not Found
+JD,Consumer Cyclical,Internet Retail
+SCHH,Not Found,Not Found
+CRNC,Technology,Software - Application
+IWM,Not Found,Not Found
+TLRY,Healthcare,Drug Manufacturers - Specialty & Generic
+USAC,Energy,Oil & Gas Equipment & Services
+SDC,Not Found,Not Found
+UGRO,Industrials,Farm & Heavy Construction Machinery
+SPCE,Industrials,Aerospace & Defense
+ECOL,Not Found,Not Found
+T+A,Not Found,Not Found
+R,Industrials,Rental & Leasing Services
+NEO,Healthcare,Diagnostics & Research
+EXP,Basic Materials,Building Materials
+CP,Industrials,Railroads
+TWST,Healthcare,Diagnostics & Research
+CABO,Communication Services,Telecom Services
+SNA,Industrials,Tools & Accessories
+BKE,Consumer Cyclical,Apparel Retail
+AMH,Real Estate,REIT - Residential
+JBI,Industrials,Building Products & Equipment
+ARKG,Not Found,Not Found
+DOW,Basic Materials,Chemicals
+KWEB,Not Found,Not Found
+VALE,Basic Materials,Other Industrial Metals & Mining
+PWCDF,Financial Services,Insurance - Life
+VOLVY,Not Found,Not Found
+UPMKF,Basic Materials,Paper & Paper Products
+WPC,Real Estate,REIT - Diversified
+NTT,Not Found,Not Found
+TSCDY,Consumer Defensive,Grocery Stores
+DNHBY,Not Found,Not Found
+BTVCY,Consumer Defensive,Beverages - Non-Alcoholic
+NNGPF,Financial Services,Insurance - Diversified
+PSMMY,Consumer Cyclical,Residential Construction
+EVRG,Utilities,Utilities - Regulated Electric
+SKHCY,Not Found,Not Found
+ASX,Technology,Semiconductors
+TGOPY,Financial Services,Asset Management
+CSTL,Healthcare,Diagnostics & Research
+BANC$E,Not Found,Not Found
+MGA,Consumer Cyclical,Auto Parts
+FLEX,Technology,Electronic Components
+BLKB,Technology,Software - Application
+AZSEY,Not Found,Not Found
+GBCI,Financial Services,Banks - Regional
+TACO,Not Found,Not Found
+ANTM,Not Found,Not Found
+IAA,Not Found,Not Found
+KMI.W,Not Found,Not Found
+CVNA,Consumer Cyclical,Auto & Truck Dealerships
+GFS,Technology,Semiconductors
+BBH,Not Found,Not Found
+PBCT,Not Found,Not Found
+ENLC,Energy,Oil & Gas Midstream
+DAIUF,Industrials,Specialty Industrial Machinery
+FANUF,Industrials,Specialty Industrial Machinery
+LVMHF,Consumer Cyclical,Luxury Goods
+CGNX,Technology,Scientific & Technical Instruments
+FNV,Basic Materials,Gold
+TRNO,Real Estate,REIT - Industrial
+KAI,Industrials,Specialty Industrial Machinery
+PI,Technology,Communication Equipment
+IAU,Not Found,Not Found
+GH,Healthcare,Diagnostics & Research
+PDM,Real Estate,REIT - Office
+DISCA,Not Found,Not Found
+XYIGY,Basic Materials,Building Materials
+TRI,Industrials,Specialty Business Services
+AM,Energy,Oil & Gas Midstream
+LVS,Consumer Cyclical,Resorts & Casinos
+PSXP,Not Found,Not Found
+SCHZ,Not Found,Not Found
+ICUI,Healthcare,Medical Instruments & Supplies
+NUVA,Not Found,Not Found
+FE,Utilities,Utilities - Regulated Electric
+PFFV,Not Found,Not Found
+VRP,Not Found,Not Found
+HXL,Industrials,Aerospace & Defense
+FPE,Not Found,Not Found
+XAR,Not Found,Not Found
+GEMIX,Not Found,Not Found
+LUBFX,Not Found,Not Found
+PTMC,Not Found,Not Found
+BOOT,Consumer Cyclical,Apparel Retail
+ITA,Not Found,Not Found
+FSP,Real Estate,REIT - Office
+IEUR,Not Found,Not Found
+SPHB,Not Found,Not Found
+FLGB,Not Found,Not Found
+PBFX,Not Found,Not Found
+EFG,Not Found,Not Found
+ILPT,Real Estate,REIT - Industrial
+AXTE,Not Found,Not Found
+AB,Financial Services,Asset Management
+AXHE,Not Found,Not Found
+IVOO,Not Found,Not Found
+KBA,Not Found,Not Found
+BEN,Financial Services,Asset Management
+PSDTX,Not Found,Not Found
+BTC,Not Found,Not Found
+BXMT,Real Estate,REIT - Mortgage
+PONCX,Not Found,Not Found
+ABC,Not Found,Not Found
+OLP,Real Estate,REIT - Diversified
+HTZWW,Industrials,Rental & Leasing Services
+PATK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+WES,Energy,Oil & Gas Midstream
+DTM,Energy,Oil & Gas Midstream
+GLW,Technology,Electronic Components
+FXI,Not Found,Not Found
+PTNQ,Not Found,Not Found
+KYN,Financial Services,Asset Management
+OTIS,Industrials,Specialty Industrial Machinery
+TDC,Technology,Software - Infrastructure
+AY,Utilities,Utilities - Renewable
+GLAD,Financial Services,Asset Management
+GVA,Industrials,Engineering & Construction
+ORMP,Healthcare,Biotechnology
+ABQCX,Not Found,Not Found
+BF.B,Not Found,Not Found
+NWL,Consumer Defensive,Household & Personal Products
+CLOU,Not Found,Not Found
+FGSCX,Not Found,Not Found
+PEGA,Technology,Software - Application
+FUN,Consumer Cyclical,Leisure
+FUND 2 LTH,Not Found,Not Found
+FUND 2,Not Found,Not Found
+SRLP,Not Found,Not Found
+ZM,Technology,Software - Application
+DCI,Industrials,Specialty Industrial Machinery
+SLB,Energy,Oil & Gas Equipment & Services
+WEX,Technology,Software - Infrastructure
+HSIC,Healthcare,Medical Distribution
+FHLC,Not Found,Not Found
+INFO,Not Found,Not Found
+IS,Not Found,Not Found
+PNFP,Financial Services,Banks - Regional
+CCEP,Consumer Defensive,Beverages - Non-Alcoholic
+ENVA,Financial Services,Credit Services
+NS,Energy,Oil & Gas Midstream
+CLDT,Real Estate,REIT - Hotel & Motel
+BKEP,Not Found,Not Found
+CSL,Industrials,Building Products & Equipment
+RNR,Financial Services,Insurance - Reinsurance
+SPLK,Technology,Software - Infrastructure
+SCU,Not Found,Not Found
+RHP,Real Estate,REIT - Hotel & Motel
+QMCO,Technology,Computer Hardware
+IYZ,Not Found,Not Found
+IXJ,Not Found,Not Found
+SPH,Utilities,Utilities - Regulated Gas
+SHLX,Not Found,Not Found
+MPLX,Energy,Oil & Gas Midstream
+CEM,Financial Services,Asset Management
+ITCI,Healthcare,Drug Manufacturers - Specialty & Generic
+ITUB,Financial Services,Banks - Regional
+FVRR,Communication Services,Internet Content & Information
+ASXC,Healthcare,Medical Devices
+RNGR,Energy,Oil & Gas Equipment & Services
+VRM,Consumer Cyclical,Auto & Truck Dealerships
+PENN,Consumer Cyclical,Resorts & Casinos
+WRK.V,Not Found,Not Found
+PAGS,Technology,Software - Infrastructure
+RXT,Technology,Software - Infrastructure
+MTX,Basic Materials,Specialty Chemicals
+CORPORAT,Not Found,Not Found
+TRUP,Financial Services,Insurance - Specialty
+HBAN,Financial Services,Banks - Regional
+XRAY,Healthcare,Medical Instruments & Supplies
+BCPC,Basic Materials,Specialty Chemicals
+CTAA,Not Found,Not Found
+SLVM,Basic Materials,Paper & Paper Products
+ORCC,Not Found,Not Found
+KPLTW,Technology,Software - Infrastructure
+OFC,Not Found,Not Found
+LITE,Technology,Communication Equipment
+CONE,Not Found,Not Found
+FSK,Financial Services,Asset Management
+FDIS,Not Found,Not Found
+FTEC,Not Found,Not Found
+TDOC,Healthcare,Health Information Services
+HIPO,Financial Services,Insurance - Specialty
+TNC,Industrials,Specialty Industrial Machinery
+FPEI,Not Found,Not Found
+MITK,Technology,Software - Application
+UN,Not Found,Not Found
+VAIAF,Technology,Scientific & Technical Instruments
+KYOCF,Industrials,Conglomerates
+COR,Healthcare,Medical Distribution
+FBND,Not Found,Not Found
+MAIN,Financial Services,Asset Management
+INDB,Financial Services,Banks - Regional
+LZ,Industrials,Specialty Business Services
+CAPL,Energy,Oil & Gas Refining & Marketing
+EBS,Healthcare,Drug Manufacturers - Specialty & Generic
+HTLD,Industrials,Trucking
+SRLN,Not Found,Not Found
+ENBL,Not Found,Not Found
+BEP,Utilities,Utilities - Renewable
+MSB,Basic Materials,Steel
+APAM,Financial Services,Asset Management
+DWAC,Financial Services,Shell Companies
+CARDONA,Not Found,Not Found
+BE,Industrials,Electrical Equipment & Parts
+CLNE,Energy,Oil & Gas Refining & Marketing
+KPLT,Technology,Software - Infrastructure
+FMAT,Not Found,Not Found
+CALX,Technology,Software - Application
+DUKH,Not Found,Not Found
+DIAL,Not Found,Not Found
+GLP,Energy,Oil & Gas Midstream
+COMM,Technology,Communication Equipment
+LRNZ,Not Found,Not Found
+AAL,Industrials,Airlines
+GPS,Consumer Cyclical,Apparel Retail
+OSW,Consumer Cyclical,Leisure
+MDNDF,Consumer Cyclical,Restaurants
+ATHM,Communication Services,Internet Content & Information
+GCGMF,Not Found,Not Found
+NRDY,Technology,Software - Application
+LW,Consumer Defensive,Packaged Foods
+GEL,Energy,Oil & Gas Midstream
+WWD,Industrials,Aerospace & Defense
+WLTW,Not Found,Not Found
+CRSP,Healthcare,Biotechnology
+WCLD,Not Found,Not Found
+PEJ,Not Found,Not Found
+RLGY,Not Found,Not Found
+AVYA,Not Found,Not Found
+GDDY,Technology,Software - Infrastructure
+AMJ,Not Found,Not Found
+MDY,Not Found,Not Found
+BLDP,Industrials,Specialty Industrial Machinery
+PGX,Not Found,Not Found
+PRGS,Technology,Software - Infrastructure
+CREE,Not Found,Not Found
+BWA,Consumer Cyclical,Auto Parts
+LMRK,Not Found,Not Found
+VSCO,Consumer Cyclical,Apparel Retail
+XLRE,Not Found,Not Found
+IBUY,Not Found,Not Found
+NVVE,Consumer Cyclical,Specialty Retail
+CHWY,Consumer Cyclical,Internet Retail
+WW,Consumer Cyclical,Personal Services
+ESGC,Not Found,Not Found
+CNA,Financial Services,Insurance - Property & Casualty
+TRV,Financial Services,Insurance - Property & Casualty
+VIAC,Not Found,Not Found
+ORAN,Communication Services,Telecom Services
+ROLL,Not Found,Not Found
+XPO,Industrials,Trucking
+SAM,Consumer Defensive,Beverages - Brewers
+RDSA,Not Found,Not Found
+QTS,Not Found,Not Found
+"MONTGOMERY, AL .2, SCHAUMBERG, IL .1",Not Found,Not Found
+ALXN,Not Found,Not Found
+DTD,Not Found,Not Found
+MTUM,Not Found,Not Found
+NLOK,Not Found,Not Found
+LTD,Not Found,Not Found
+VXX,Not Found,Not Found
+AESE,Not Found,Not Found
+FDRXX,Not Found,Not Found
+FBALX,Not Found,Not Found
+MRIN,Technology,Software - Application
+NVCR,Healthcare,Medical Devices
+TOTZF,Energy,Oil & Gas Equipment & Services
+ETV,Financial Services,Asset Management
+HNDL,Not Found,Not Found
+AMZA,Not Found,Not Found
+CDK,Not Found,Not Found
+AQB,Consumer Defensive,Farm Products
+RAMP,Technology,Software - Infrastructure
+TRIT,Not Found,Not Found
+OGN,Healthcare,Drug Manufacturers - General
+TNL,Consumer Cyclical,Travel Services
+SITE,Industrials,Industrial Distribution
+MTDR,Energy,Oil & Gas E&P
+BHI,Not Found,Not Found
+STOR,Not Found,Not Found
+GME,Consumer Cyclical,Specialty Retail
+CCC,Not Found,Not Found
+LEA,Consumer Cyclical,Auto Parts
+PLTR,Technology,Software - Infrastructure
+AMRC,Industrials,Engineering & Construction
+TTEK,Industrials,Engineering & Construction
+STAY,Not Found,Not Found
+ALYF,Not Found,Not Found
+TBBC,Financial Services,Banks - Regional
+GBTC,Not Found,Not Found
+DOV,Industrials,Specialty Industrial Machinery
+ETHE,Not Found,Not Found
+CWH,Consumer Cyclical,Auto & Truck Dealerships
+VRSN,Technology,Software - Infrastructure
+WLK,Basic Materials,Specialty Chemicals
+TER,Technology,Semiconductor Equipment & Materials
+TCF,Not Found,Not Found
+SF,Financial Services,Capital Markets
+ATRC,Healthcare,Medical Instruments & Supplies
+JNPR,Technology,Communication Equipment
+MANT,Not Found,Not Found
+IPGP,Technology,Semiconductor Equipment & Materials
+DOCU,Technology,Software - Application
+LEG,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+WSM,Consumer Cyclical,Specialty Retail
+DIN,Consumer Cyclical,Restaurants
+TPCO,Not Found,Not Found
+FFG,Not Found,Not Found
+BALY,Consumer Cyclical,Resorts & Casinos
+CHGG,Consumer Defensive,Education & Training Services
+CELC,Healthcare,Biotechnology
+VVNT,Not Found,Not Found
+BRKS,Not Found,Not Found
+AEIS,Industrials,Electrical Equipment & Parts
+TLK,Communication Services,Telecom Services
+NIO,Consumer Cyclical,Auto Manufacturers
+BOWX,Not Found,Not Found
+FDSWX,Not Found,Not Found
+APPAD,Not Found,Not Found
+VMC,Basic Materials,Building Materials
+FL4.SG,Not Found,Not Found
+LDNXF,Financial Services,Financial Data & Stock Exchanges
+KTOS,Industrials,Aerospace & Defense
+ICSH,Not Found,Not Found
+HNST,Consumer Defensive,Household & Personal Products
+QRTEA,Consumer Cyclical,Internet Retail
+HAE,Healthcare,Medical Instruments & Supplies
+LL,Consumer Cyclical,Home Improvement Retail
+PCRX,Healthcare,Drug Manufacturers - Specialty & Generic
+TREE,Financial Services,Financial Conglomerates
+SABR,Consumer Cyclical,Travel Services
+BRP,Financial Services,Insurance Brokers
+YTRA,Consumer Cyclical,Travel Services
+GSS,Not Found,Not Found
+GFN,Not Found,Not Found
+EMKR,Technology,Semiconductors
+TGNA,Communication Services,Broadcasting
+GPRO,Technology,Consumer Electronics
+PART INTEREST,Not Found,Not Found
+VAR,Not Found,Not Found
+VPU,Not Found,Not Found
+BPMP,Not Found,Not Found
+SU,Energy,Oil & Gas Integrated
+RHHBF,Healthcare,Drug Manufacturers - General
+GAN,Consumer Cyclical,Gambling
+NUAN,Not Found,Not Found
+AMTX,Energy,Oil & Gas Refining & Marketing
+ORA,Utilities,Utilities - Renewable
+NYT,Communication Services,Publishing
+WAB,Industrials,Railroads
+CMLTU,Not Found,Not Found
+OMCL,Healthcare,Health Information Services
+CENT,Consumer Defensive,Packaged Foods
+CWEN,Utilities,Utilities - Renewable
+HOFV,Communication Services,Entertainment
+ETWO.W,Not Found,Not Found
+SHAK,Consumer Cyclical,Restaurants
+FUND,Financial Services,Asset Management
+MCS,Communication Services,Entertainment
+CACI,Technology,Information Technology Services
+QCRH,Financial Services,Banks - Regional
+GTN,Communication Services,Broadcasting
+HRTX,Healthcare,Biotechnology
+IEX,Industrials,Specialty Industrial Machinery
+CNR,Not Found,Not Found
+EBAY,Consumer Cyclical,Internet Retail
+QRTEP,Consumer Cyclical,Internet Retail
+GDRX,Healthcare,Health Information Services
+NASDAQ,Not Found,Not Found
+NI,Utilities,Utilities - Regulated Gas
+ARMK,Industrials,Specialty Business Services
+BJ,Consumer Defensive,Discount Stores
+ACST,Healthcare,Biotechnology
+CTRM,Industrials,Marine Shipping
+RDS.A,Not Found,Not Found
+ESTC,Technology,Software - Application
+ROG,Technology,Electronic Components
+POOL,Industrials,Industrial Distribution
+HCRB,Not Found,Not Found
+CMLFU,Not Found,Not Found
+D/B/A ELLIOTT,Not Found,Not Found
+VOX,Not Found,Not Found
+NCLH,Consumer Cyclical,Travel Services
+SLAB,Technology,Semiconductors
+FIVN,Technology,Software - Infrastructure
+PFPT,Not Found,Not Found
+BKR,Energy,Oil & Gas Equipment & Services
+OSUR,Healthcare,Medical Instruments & Supplies
+VIVO,Not Found,Not Found
+WSC,Industrials,Rental & Leasing Services
+GPC,Consumer Cyclical,Specialty Retail
+APHA,Not Found,Not Found
+DGNR,Not Found,Not Found
+FUPBY,Basic Materials,Specialty Chemicals
+ABEV,Consumer Defensive,Beverages - Brewers
+BL,Technology,Software - Application
+CNI,Industrials,Railroads
+RDS.B,Not Found,Not Found
+ERJ,Industrials,Aerospace & Defense
+LUKOY,Not Found,Not Found
+AL,Industrials,Rental & Leasing Services
+SEE,Consumer Cyclical,Packaging & Containers
+HRC,Not Found,Not Found
+ST,Technology,Scientific & Technical Instruments
+WYND,Not Found,Not Found
+WH,Consumer Cyclical,Lodging
+SC,Not Found,Not Found
+OKTA,Technology,Software - Infrastructure
+TOL,Consumer Cyclical,Residential Construction
+XEC,Not Found,Not Found
+IPWR,Industrials,Electrical Equipment & Parts
+ZG,Communication Services,Internet Content & Information
+UNVR,Not Found,Not Found
+OMF,Financial Services,Credit Services
+LYB,Basic Materials,Specialty Chemicals
+SOLO,Consumer Cyclical,Auto Manufacturers
+ATH,Not Found,Not Found
+AOSL,Technology,Semiconductors
+CLGX,Not Found,Not Found
+EHC,Healthcare,Medical Care Facilities
+DXC,Technology,Information Technology Services
+LYFT,Technology,Software - Application
+ACB,Healthcare,Drug Manufacturers - Specialty & Generic
+ARNA,Not Found,Not Found
+EEM,Not Found,Not Found
+FEMS,Not Found,Not Found
+GRUB,Not Found,Not Found
+CRON,Healthcare,Drug Manufacturers - Specialty & Generic
+CGC,Healthcare,Drug Manufacturers - Specialty & Generic
+GGSM,Basic Materials,Other Precious Metals & Mining
+AAIGF,Financial Services,Insurance - Life
+YETI,Consumer Cyclical,Leisure
+MJNA,Healthcare,Drug Manufacturers - Specialty & Generic
+DOMO,Technology,Software - Application
+QUMU,Not Found,Not Found
+XCAPX,Not Found,Not Found
+HUM,Healthcare,Healthcare Plans
+DMTK,Healthcare,Diagnostics & Research
+DDD,Technology,Computer Hardware
+PPC,Consumer Defensive,Packaged Foods
+FSLY,Technology,Software - Application
+EVOP,Not Found,Not Found
+LEE,Communication Services,Publishing
+LMACU,Not Found,Not Found
+NYMX,Not Found,Not Found
+JIH,Not Found,Not Found
+DKNG,Consumer Cyclical,Gambling
+SJM,Consumer Defensive,Packaged Foods
+GBDC,Financial Services,Asset Management
+ZOOM,Not Found,Not Found
+DAN,Consumer Cyclical,Auto Parts
+JETS,Not Found,Not Found
+SDOG,Not Found,Not Found
+PCPL,Not Found,Not Found
+VIV.V,Healthcare,Drug Manufacturers - Specialty & Generic
+TKC,Communication Services,Telecom Services
+NCMGF,Not Found,Not Found
+PDS,Energy,Oil & Gas Drilling
+MLYNF,Financial Services,Banks - Regional
+AUY,Not Found,Not Found
+MJDLF,Basic Materials,Other Industrial Metals & Mining
+OGFGF,Energy,Oil & Gas Integrated
+RODM,Not Found,Not Found
+CEMCF,Not Found,Not Found
+JGCCF,Industrials,Engineering & Construction
+WOLWF,Consumer Defensive,Grocery Stores
+TSCDF,Consumer Defensive,Grocery Stores
+WAIR,Not Found,Not Found
+AIO,Not Found,Not Found
+CIG,Utilities,Utilities - Diversified
+FSKR,Not Found,Not Found
+VIV,Communication Services,Telecom Services
+FEYE,Not Found,Not Found
+ACGL,Financial Services,Insurance - Diversified
+AJRD,Not Found,Not Found
+TIF,Not Found,Not Found
+LI,Consumer Cyclical,Auto Manufacturers
+CHNG,Not Found,Not Found
+CNF,Financial Services,Mortgage Finance
+FLIR,Not Found,Not Found
+PCPL.U,Not Found,Not Found
+QQXT,Not Found,Not Found
+LB,Not Found,Not Found
+ASMB,Healthcare,Biotechnology
+SRNE,Not Found,Not Found
+XLF,Not Found,Not Found
+RETA,Not Found,Not Found
+ARW,Technology,Electronics & Computer Distribution
+XLB,Not Found,Not Found
+EDU,Consumer Defensive,Education & Training Services
+HII,Industrials,Aerospace & Defense
+PSTH,Not Found,Not Found
+FTDR,Consumer Cyclical,Personal Services
+HDS,Not Found,Not Found
+ETY,Financial Services,Asset Management
+EXPI,Real Estate,Real Estate Services
+NBIX,Healthcare,Drug Manufacturers - Specialty & Generic
+CHL,Not Found,Not Found
+NGLS,Not Found,Not Found
+CTXS,Not Found,Not Found
+ARNC,Not Found,Not Found
+VSAT,Technology,Communication Equipment
+CATM,Not Found,Not Found
+RAD,Not Found,Not Found
+SNE,Not Found,Not Found
+PRAH,Not Found,Not Found
+DNKN,Not Found,Not Found
+AIV,Real Estate,REIT - Residential
+THR,Industrials,Specialty Industrial Machinery
+NVGS,Energy,Oil & Gas Midstream
+ZUO,Technology,Software - Infrastructure
+BLUE,Healthcare,Biotechnology
+GSLC,Not Found,Not Found
+WORK,Not Found,Not Found
+CEQP,Not Found,Not Found
+NTRP,Consumer Cyclical,Travel Services
+ZBRA,Technology,Communication Equipment
+LAND,Real Estate,REIT - Specialty
+CCMP,Not Found,Not Found
+BGG,Not Found,Not Found
+YEXT,Technology,Software - Infrastructure
+WIX,Technology,Software - Infrastructure
+GMLP,Not Found,Not Found
+SWN,Energy,Oil & Gas E&P
+FVD,Not Found,Not Found
+CTRCF,Not Found,Not Found
+REGL,Not Found,Not Found
+PASO,Healthcare,Health Information Services
+VRTU,Not Found,Not Found
+PAAS,Basic Materials,Gold
+PSIX,Industrials,Specialty Industrial Machinery
+RBCAA,Financial Services,Banks - Regional
+BIP,Utilities,Utilities - Diversified
+PTLC,Not Found,Not Found
+ACIW,Technology,Software - Infrastructure
+HBI,Consumer Cyclical,Apparel Manufacturing
+FISI,Financial Services,Banks - Regional
+IPHI,Not Found,Not Found
+FUBO,Communication Services,Broadcasting
+OIH,Not Found,Not Found
+SMLP,Energy,Oil & Gas Midstream
+DBX,Technology,Software - Infrastructure
+ATASY,Not Found,Not Found
+IX,Financial Services,Credit Services
+SDXAY,Industrials,Specialty Business Services
+TOT,Not Found,Not Found
+GLPEY,Energy,Oil & Gas Integrated
+NTXFY,Not Found,Not Found
+MLCO,Consumer Cyclical,Resorts & Casinos
+CSLT,Not Found,Not Found
+ANZBY,Not Found,Not Found
+MITSY,Industrials,Conglomerates
+OMVKY,Energy,Oil & Gas Integrated
+RYCEY,Industrials,Aerospace & Defense
+DLAKY,Industrials,Airlines
+ACSAY,Industrials,Engineering & Construction
+AER,Industrials,Rental & Leasing Services
+EJPRY,Industrials,Railroads
+IPXHY,Energy,Oil & Gas E&P
+CUK,Consumer Cyclical,Leisure
+WOPEY,Not Found,Not Found
+CAJ,Not Found,Not Found
+BASFY,Basic Materials,Chemicals
+MRWSY,Not Found,Not Found
+HLPPY,Real Estate,Real Estate Services
+CNS,Financial Services,Asset Management
+TLSYY,Not Found,Not Found
+TEVA,Healthcare,Drug Manufacturers - Specialty & Generic
+E,Energy,Oil & Gas Integrated
+MFGP,Not Found,Not Found
+HLDCY,Real Estate,Real Estate - Diversified
+FUJHY,Consumer Cyclical,Auto Manufacturers
+KPELY,Industrials,Conglomerates
+FINMY,Industrials,Aerospace & Defense
+HSNGY,Financial Services,Banks - Regional
+AGESY,Financial Services,Insurance - Diversified
+POAHY,Consumer Cyclical,Auto Manufacturers
+NTOIY,Energy,Oil & Gas Refining & Marketing
+VOPKY,Energy,Oil & Gas Midstream
+TLSNY,Communication Services,Telecom Services
+SSUMY,Industrials,Conglomerates
+REPYY,Energy,Oil & Gas Integrated
+TS,Energy,Oil & Gas Equipment & Services
+MPLN,Healthcare,Health Information Services
+HRI,Industrials,Rental & Leasing Services
+CVI,Energy,Oil & Gas Refining & Marketing
+MMLP,Energy,Oil & Gas Midstream
+GLOP,Not Found,Not Found
+BYND,Consumer Defensive,Packaged Foods
+AMN,Healthcare,Medical Care Facilities
+GWPH,Not Found,Not Found
+VAW,Not Found,Not Found
+BEEM,Technology,Solar
+SKX,Consumer Cyclical,Footwear & Accessories
+ACM,Industrials,Engineering & Construction
+XLNX,Not Found,Not Found
+RCI,Communication Services,Telecom Services
+APEN,Not Found,Not Found
+PPBI,Financial Services,Banks - Regional
+CSIQ,Technology,Solar
+PRLB,Industrials,Metal Fabrication
+GWRE,Technology,Software - Application
+LGND,Healthcare,Biotechnology
+NBLX,Not Found,Not Found
+OLED,Technology,Electronic Components
+PRAA,Financial Services,Credit Services
+VDC,Not Found,Not Found
+CRY,Not Found,Not Found
+VWO,Not Found,Not Found
+CATY,Financial Services,Banks - Regional
+EBSB,Not Found,Not Found
+FLCO,Not Found,Not Found
+GOVT,Not Found,Not Found
+SPTM,Not Found,Not Found
+FLQL,Not Found,Not Found
+VEA,Not Found,Not Found
+FLCB,Not Found,Not Found
+PRA,Financial Services,Insurance - Property & Casualty
+ANSS,Technology,Software - Application
+NVAX,Healthcare,Biotechnology
+AMED,Healthcare,Medical Care Facilities
+ROL,Consumer Cyclical,Personal Services
+CMLF,Not Found,Not Found
+LII,Industrials,Building Products & Equipment
+TECH,Healthcare,Biotechnology
+NEOG,Healthcare,Diagnostics & Research
+WSTL,Technology,Communication Equipment
+VTI,Not Found,Not Found
+USMV,Not Found,Not Found
+IHI,Not Found,Not Found
+BTZ,Financial Services,Asset Management
+ESGU,Not Found,Not Found
+DSU,Financial Services,Asset Management
+XSOE,Not Found,Not Found
+IEF,Not Found,Not Found
+PUTW,Not Found,Not Found
+VLUE,Not Found,Not Found
+DIV,Not Found,Not Found
+IEFA,Not Found,Not Found
+EVV,Financial Services,Asset Management
+YNDX,Communication Services,Internet Content & Information
+CDAY,Technology,Software - Application
+NBL,Not Found,Not Found
+AMTD,Financial Services,Asset Management
+WKHS,Consumer Cyclical,Auto Manufacturers
+ETFC,Not Found,Not Found
+BREW,Not Found,Not Found
+PBF,Energy,Oil & Gas Refining & Marketing
+WPX,Not Found,Not Found
+LEVI,Consumer Cyclical,Apparel Manufacturing
+AVLR,Not Found,Not Found
+PKI,Not Found,Not Found
+SVCBY,Not Found,Not Found
+ATOAX,Not Found,Not Found
+RHI,Industrials,Staffing & Employment Services
+ENR,Industrials,Electrical Equipment & Parts
+CHUY,Consumer Cyclical,Restaurants
+DRQ,Energy,Oil & Gas Equipment & Services
+POST,Consumer Defensive,Packaged Foods
+FHB,Financial Services,Banks - Regional
+SNX,Technology,Electronics & Computer Distribution
+INO,Healthcare,Biotechnology
+BAND,Technology,Software - Infrastructure
+TGTX,Healthcare,Biotechnology
+USMC,Not Found,Not Found
+ANY,Technology,Software - Application
+POWI,Technology,Semiconductors
+FTA,Not Found,Not Found
+CCXX,Not Found,Not Found
+BHC,Healthcare,Drug Manufacturers - Specialty & Generic
+AMWD,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+RUSHA,Consumer Cyclical,Auto & Truck Dealerships
+MYE,Consumer Cyclical,Packaging & Containers
+DOX,Technology,Software - Infrastructure
+SKVKY,Not Found,Not Found
+KMPR,Financial Services,Insurance - Property & Casualty
+SDY,Not Found,Not Found
+CWB,Not Found,Not Found
+XLV,Not Found,Not Found
+WDC,Technology,Computer Hardware
+BGFV,Consumer Cyclical,Specialty Retail
+DCP,Not Found,Not Found
+RAND,Financial Services,Asset Management
+HFC,Not Found,Not Found
+ZI,Technology,Software - Application
+NWE,Utilities,Utilities - Diversified
+OSK,Industrials,Farm & Heavy Construction Machinery
+WDFC,Basic Materials,Specialty Chemicals
+PGNY,Healthcare,Health Information Services
+CBRE,Real Estate,Real Estate Services
+BECN,Industrials,Industrial Distribution
+SPKE,Not Found,Not Found
+SIL,Not Found,Not Found
+SYPR,Consumer Cyclical,Auto Parts
+IAC,Communication Services,Internet Content & Information
+BIPC,Utilities,Utilities - Regulated Gas
+RXN,Not Found,Not Found
+PROF,Healthcare,Medical Devices
+HUYA,Communication Services,Entertainment
+NKLA,Industrials,Farm & Heavy Construction Machinery
+TMUSR,Not Found,Not Found
+MSBHY,Not Found,Not Found
+NMIH,Financial Services,Insurance - Specialty
+TCOM,Consumer Cyclical,Travel Services
+DUSA,Not Found,Not Found
+GGT,Financial Services,Asset Management
+VSLR,Not Found,Not Found
+DLS,Not Found,Not Found
+CXW,Industrials,Security & Protection Services
+SFST,Financial Services,Banks - Regional
+BAM,Financial Services,Asset Management
+WK,Technology,Software - Application
+LTHM,Not Found,Not Found
+BLFSD,Not Found,Not Found
+LEN.B,Not Found,Not Found
+LEN,Consumer Cyclical,Residential Construction
+KIDS,Healthcare,Medical Devices
+BDC,Technology,Communication Equipment
+STWD,Real Estate,REIT - Mortgage
+TFFP,Healthcare,Biotechnology
+INFR,Not Found,Not Found
+VV,Not Found,Not Found
+ISD,Financial Services,Asset Management
+EFV,Not Found,Not Found
+REYN,Consumer Cyclical,Packaging & Containers
+NVIGF,Not Found,Not Found
+BDN,Real Estate,REIT - Office
+SKYY,Not Found,Not Found
+PRJAX,Not Found,Not Found
+SPSC,Technology,Software - Infrastructure
+ETP,Not Found,Not Found
+ITOT,Not Found,Not Found
+PSNL,Healthcare,Diagnostics & Research
+AGN,Not Found,Not Found
+FLS,Industrials,Specialty Industrial Machinery
+IVZ,Financial Services,Asset Management
+ADS,Not Found,Not Found
+FLXN,Not Found,Not Found
+EVH,Healthcare,Health Information Services
+FNMA,Financial Services,Mortgage Finance
+CMD,Not Found,Not Found
+MORN,Financial Services,Financial Data & Stock Exchanges
+IBKR,Financial Services,Capital Markets
+BRY,Energy,Oil & Gas E&P
+SERV,Not Found,Not Found
+BIF,Not Found,Not Found
+CTECBX,Not Found,Not Found
+ONTO,Technology,Semiconductor Equipment & Materials
+HCSG,Healthcare,Medical Care Facilities
+HRB,Consumer Cyclical,Personal Services
+AYI,Industrials,Electrical Equipment & Parts
+NWSA,Communication Services,Entertainment
+HOG,Consumer Cyclical,Recreational Vehicles
+CTL,Not Found,Not Found
+NWS,Communication Services,Entertainment
+LBDAV,Not Found,Not Found
+GLIBA,Not Found,Not Found
+ASGN,Technology,Information Technology Services
+POEFF,Not Found,Not Found
+DEACU,Not Found,Not Found
+PS,Not Found,Not Found
+RQI,Financial Services,Asset Management
+SOJA,Not Found,Not Found
+CAIFX,Not Found,Not Found
+FRIAX,Not Found,Not Found
+SSL,Basic Materials,Specialty Chemicals
+TRP,Energy,Oil & Gas Midstream
+TRGP,Energy,Oil & Gas Midstream
+TCP,Not Found,Not Found
+PAGP,Energy,Oil & Gas Midstream
+SUN,Energy,Oil & Gas Refining & Marketing
+EQM,Not Found,Not Found
+BOIVF,Communication Services,Entertainment
+AXTA,Basic Materials,Specialty Chemicals
+UTX,Not Found,Not Found
+URBN,Consumer Cyclical,Apparel Retail
+RL,Consumer Cyclical,Apparel Manufacturing
+FOXA,Communication Services,Entertainment
+FOX,Communication Services,Entertainment
+ACA,Industrials,Engineering & Construction
+EAF,Industrials,Electrical Equipment & Parts
+UHAL,Industrials,Rental & Leasing Services
+MSM,Industrials,Industrial Distribution
+PNQI,Not Found,Not Found
+M,Consumer Cyclical,Department Stores
+DIA,Not Found,Not Found
+UPLD,Technology,Software - Application
+HAYN,Industrials,Metal Fabrication
+GLNCY,Basic Materials,Other Industrial Metals & Mining
+NNVC,Healthcare,Biotechnology
+AIZ,Financial Services,Insurance - Specialty
+AIMC,Not Found,Not Found
+MTSC,Not Found,Not Found
+NXST,Communication Services,Entertainment
+BOTZ,Not Found,Not Found
+IAT,Not Found,Not Found
+GEM,Not Found,Not Found
+KNX,Industrials,Trucking
+QLEIX,Not Found,Not Found
+HCN,Not Found,Not Found
+KSS,Consumer Cyclical,Department Stores
+DISCK,Not Found,Not Found
+FPL,Financial Services,Asset Management
+JWN,Consumer Cyclical,Department Stores
+OAYIX,Not Found,Not Found
+ZION,Financial Services,Banks - Regional
+PFG,Financial Services,Asset Management
+AMG,Financial Services,Asset Management
+IDA,Utilities,Utilities - Regulated Electric
+DSGX,Technology,Software - Application
+UNF,Industrials,Specialty Business Services
+GLOB,Technology,Information Technology Services
+AIR,Industrials,Aerospace & Defense
+FEI,Financial Services,Asset Management
+PLYA,Consumer Cyclical,Resorts & Casinos
+HTZ,Industrials,Rental & Leasing Services
+VONE,Not Found,Not Found
+GOOS,Consumer Cyclical,Apparel Manufacturing
+FRT,Real Estate,REIT - Retail
+CIM,Real Estate,REIT - Mortgage
+QGEN,Healthcare,Diagnostics & Research
+AAN,Industrials,Rental & Leasing Services
+BYD,Consumer Cyclical,Resorts & Casinos
+HTA,Not Found,Not Found
+AVT,Technology,Electronics & Computer Distribution
+TLND,Not Found,Not Found
+SZEVY,Not Found,Not Found
+CEMI,Not Found,Not Found
+CRRFY,Consumer Defensive,Grocery Stores
+BG,Consumer Defensive,Farm Products
+RNLSY,Consumer Cyclical,Auto Manufacturers
+PRGO,Healthcare,Drug Manufacturers - Specialty & Generic
+CPRI,Consumer Cyclical,Luxury Goods
+VC,Consumer Cyclical,Auto Parts
+HNNMY,Consumer Cyclical,Apparel Manufacturing
+HLUYY,Not Found,Not Found
+CDLX,Communication Services,Advertising Agencies
+DSDVY,Industrials,Integrated Freight & Logistics
+HPE,Technology,Communication Equipment
+SWMAY,Not Found,Not Found
+PCRFY,Technology,Consumer Electronics
+WCAGY,Not Found,Not Found
+NATI,Not Found,Not Found
+COTY,Consumer Defensive,Household & Personal Products
+RBS,Not Found,Not Found
+PVH,Consumer Cyclical,Apparel Manufacturing
+ENGGY,Utilities,Utilities - Regulated Gas
+JBAXY,Financial Services,Asset Management
+UHS,Healthcare,Medical Care Facilities
+SWGAY,Consumer Cyclical,Luxury Goods
+STE,Healthcare,Medical Devices
+RWEOY,Utilities,Utilities - Diversified
+RDEIY,Utilities,Utilities - Regulated Electric
+PDYPY,Consumer Cyclical,Gambling
+CCLAY,Not Found,Not Found
+GEAGY,Not Found,Not Found
+SNP,Not Found,Not Found
+AVNS,Healthcare,Medical Devices
+NVEE,Industrials,Engineering & Construction
+MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+EGHT,Technology,Software - Application
+JBT,Industrials,Specialty Industrial Machinery
+MEOH,Basic Materials,Chemicals
+JMP,Not Found,Not Found
+RP,Not Found,Not Found
+KTB,Consumer Cyclical,Apparel Manufacturing
+ANIK,Healthcare,Medical Instruments & Supplies
+ENS,Industrials,Electrical Equipment & Parts
+NEWR,Not Found,Not Found
+BBBY,Not Found,Not Found
+FTSM,Not Found,Not Found
+WCMIX,Not Found,Not Found
+FDL,Not Found,Not Found
+COO,Healthcare,Medical Instruments & Supplies
+MTN,Consumer Cyclical,Resorts & Casinos
+ENV,Technology,Software - Application
+INMD,Healthcare,Medical Devices
+BSTZ,Financial Services,Asset Management
+IGV,Not Found,Not Found
+SPYG,Not Found,Not Found
+CNK,Communication Services,Entertainment
+NULG,Not Found,Not Found
+CFR,Financial Services,Banks - Regional
+HZN,Not Found,Not Found
+QSY,Not Found,Not Found
+DENN,Consumer Cyclical,Restaurants
+FNKO,Consumer Cyclical,Leisure
+EEFT,Technology,Software - Infrastructure
+PRSP,Not Found,Not Found
+VWDRY,Industrials,Specialty Industrial Machinery
+KRNT,Industrials,Specialty Industrial Machinery
+SNNUF,Healthcare,Medical Devices
+CSQ,Financial Services,Asset Management
+OMC,Communication Services,Advertising Agencies
+TCO,Not Found,Not Found
+CHRW,Industrials,Integrated Freight & Logistics
+POL,Consumer Cyclical,Specialty Retail
+WMGI,Not Found,Not Found
+KL,Not Found,Not Found
+912796WX3,Not Found,Not Found
+BMEZ,Not Found,Not Found
+FRFHF,Financial Services,Insurance - Property & Casualty
+GSAH,Not Found,Not Found
+WCG,Not Found,Not Found
+LPT,Not Found,Not Found
+SANM,Technology,Electronic Components
+AROW,Financial Services,Banks - Regional
+FMCMF,Not Found,Not Found
+GRA,Not Found,Not Found
+CENTA,Consumer Defensive,Packaged Foods
+GCP,Not Found,Not Found
+XRT,Not Found,Not Found
+ADTN,Technology,Communication Equipment
+IVE,Not Found,Not Found
+VFIJX,Not Found,Not Found
+BIV,Not Found,Not Found
+FIKMX,Not Found,Not Found
+IHS,Communication Services,Telecom Services
+TSS,Not Found,Not Found
+GTX,Consumer Cyclical,Auto Parts
+TGBAX,Not Found,Not Found
+FBSI,Financial Services,Banks - Regional
+SPN,Not Found,Not Found
+EXPO,Industrials,Engineering & Construction
+HACK,Not Found,Not Found
+CWST,Industrials,Waste Management
+QUAD,Industrials,Specialty Business Services
+ERH,Financial Services,Asset Management
+CBS,Not Found,Not Found
+NLSN,Not Found,Not Found
+VIAB,Not Found,Not Found
+MYL,Not Found,Not Found
+CLNC,Not Found,Not Found
+CBT,Basic Materials,Specialty Chemicals
+CMPR,Communication Services,Advertising Agencies
+NPSNY,Communication Services,Internet Content & Information
+CELG,Not Found,Not Found
+GCI,Communication Services,Publishing
+DDAIF,Not Found,Not Found
+ECA,Not Found,Not Found
+FND,Consumer Cyclical,Home Improvement Retail
+TRHC,Not Found,Not Found
+CLB,Energy,Oil & Gas Equipment & Services
+RGNX,Healthcare,Biotechnology
+AYR,Not Found,Not Found
+CLS,Technology,Electronic Components
+IIVI,Not Found,Not Found
+IBKC,Not Found,Not Found
+TWO,Real Estate,REIT - Mortgage
+SIX,Consumer Cyclical,Leisure
+CAE,Industrials,Aerospace & Defense
+MN,Not Found,Not Found
+12/01/37,Not Found,Not Found
+CBM,Not Found,Not Found
+ZEN,Not Found,Not Found
+INDA,Not Found,Not Found
+MD,Healthcare,Medical Care Facilities
+MIDD,Industrials,Specialty Industrial Machinery
+TYL,Technology,Software - Application
+MDRX,Healthcare,Health Information Services
+TWOU,Consumer Defensive,Education & Training Services
+ERI,Not Found,Not Found
+XBI,Not Found,Not Found
+RYAOF,Industrials,Airlines
+JNK,Not Found,Not Found
+3V64.TI,Not Found,Not Found
+0QZI.IL,Communication Services,Internet Content & Information
+LM,Not Found,Not Found
+PRO,Technology,Software - Application
+BPL,Not Found,Not Found
+UPMKY,Not Found,Not Found
+ATR,Healthcare,Medical Instruments & Supplies
+LNN,Industrials,Farm & Heavy Construction Machinery
+BZLFY,Consumer Defensive,Food Distribution
+JMHLY,Industrials,Conglomerates
+GFSZY,Not Found,Not Found
+PBSFY,Communication Services,Broadcasting
+SNH,Not Found,Not Found
+TVTY,Not Found,Not Found
+CBL,Real Estate,REIT - Retail
+DIFTY,Real Estate,Real Estate - Diversified
+CLNY,Not Found,Not Found
+ETM,Not Found,Not Found
+HENOY,Consumer Defensive,Household & Personal Products
+DNSKY,Not Found,Not Found
+SEMG,Not Found,Not Found
+CARS,Consumer Cyclical,Auto & Truck Dealerships
+RCKY,Consumer Cyclical,Footwear & Accessories
+UCON,Not Found,Not Found
+DUE 7/01/20,Not Found,Not Found
+912796SH3,Not Found,Not Found
+APC,Not Found,Not Found
+JEC,Not Found,Not Found
+MDSO,Not Found,Not Found
+VST,Utilities,Utilities - Independent Power Producers
+TUP,Consumer Cyclical,Packaging & Containers
+MGP,Not Found,Not Found
+MSTR,Technology,Software - Application
+KAR,Consumer Cyclical,Auto & Truck Dealerships
+COT,Not Found,Not Found
+PLAY,Communication Services,Entertainment
+NEU,Basic Materials,Specialty Chemicals
+APT,Industrials,Building Products & Equipment
+DUE 10/01/37,Not Found,Not Found
+DUE 08/01/25,Not Found,Not Found
+APNHY,Healthcare,Drug Manufacturers - Specialty & Generic
+REVB,Healthcare,Biotechnology
+MINI,Not Found,Not Found
+ANDX,Not Found,Not Found
+PDCE,Not Found,Not Found
+IJH,Not Found,Not Found
+ALRM,Technology,Software - Application
+NRG,Utilities,Utilities - Independent Power Producers
+MALOX,Not Found,Not Found
+TSCIX,Not Found,Not Found
+IWF,Not Found,Not Found
+VPMAX,Not Found,Not Found
+GTCSX,Not Found,Not Found
+TCBI,Financial Services,Banks - Regional
+RHT,Not Found,Not Found
+BAMXY,Not Found,Not Found
+STI,Industrials,Electrical Equipment & Parts
+HUB.A,Not Found,Not Found
+WAGE,Not Found,Not Found
+BXS,Not Found,Not Found
+G,Technology,Information Technology Services
+RDUS,Basic Materials,Steel
+CXP,Not Found,Not Found
+FBC,Not Found,Not Found
+TRMB,Technology,Scientific & Technical Instruments
+EGBN,Financial Services,Banks - Regional
+GBT,Not Found,Not Found
+HL,Basic Materials,Other Precious Metals & Mining
+SITC,Real Estate,REIT - Retail
+CVLT,Technology,Software - Application
+PNR,Industrials,Specialty Industrial Machinery
+PB,Financial Services,Banks - Regional
+FIBK,Financial Services,Banks - Regional
+ADUS,Healthcare,Medical Care Facilities
+MANH,Technology,Software - Application
+DNOW,Industrials,Specialty Industrial Machinery
+TMK,Not Found,Not Found
+HCP,Technology,Software - Infrastructure
+VRNS,Technology,Software - Infrastructure
+CCOI,Communication Services,Telecom Services
+IRTC,Healthcare,Medical Devices
+APVO,Healthcare,Biotechnology
+AMBA,Technology,Semiconductor Equipment & Materials
+OXM,Consumer Cyclical,Apparel Manufacturing
+PGRE,Real Estate,REIT - Office
+LLL,Not Found,Not Found
+PNW,Utilities,Utilities - Regulated Electric
+PLCE,Consumer Cyclical,Apparel Retail
+WAFD,Financial Services,Banks - Regional
+UMPQ,Not Found,Not Found
+WING,Consumer Cyclical,Restaurants
+CHH,Consumer Cyclical,Lodging
+BKU,Financial Services,Banks - Regional
+FII,Not Found,Not Found
+DLB,Industrials,Specialty Business Services
+ARI,Real Estate,REIT - Mortgage
+MED,Consumer Cyclical,Personal Services
+FFIN,Financial Services,Banks - Regional
+LAUR,Consumer Defensive,Education & Training Services
+AXGN,Healthcare,Medical Devices
+AWI,Industrials,Building Products & Equipment
+CDE,Basic Materials,Gold
+H,Consumer Cyclical,Lodging
+BOOM,Energy,Oil & Gas Equipment & Services
+TRMK,Financial Services,Banks - Regional
+REXR,Real Estate,REIT - Industrial
+SRC,Not Found,Not Found
+HIW,Real Estate,REIT - Office
+LANC,Consumer Defensive,Packaged Foods
+APLE,Real Estate,REIT - Hotel & Motel
+WTS,Industrials,Specialty Industrial Machinery
+SMGZY,Industrials,Specialty Industrial Machinery
+BBT,Not Found,Not Found
+RDSA.AS,Not Found,Not Found
+AZPN,Technology,Software - Application
+FDC,Not Found,Not Found
+EXEL,Healthcare,Biotechnology
+ARR,Real Estate,REIT - Mortgage
+MTH,Consumer Cyclical,Residential Construction
+40056FN84,Not Found,Not Found
+MDXG,Healthcare,Biotechnology
+WBC,Not Found,Not Found
+FFRHX,Not Found,Not Found
+INFY,Technology,Information Technology Services
+AMRX,Healthcare,Drug Manufacturers - Specialty & Generic
+CABGY,Consumer Defensive,Beverages - Brewers
+RBGLY,Consumer Defensive,Household & Personal Products
+KYCCF,Technology,Scientific & Technical Instruments
+GMXAY,Not Found,Not Found
+PDRDY,Not Found,Not Found
+NJ,Not Found,Not Found
+RYDBF,Not Found,Not Found
+PKCOY,Industrials,Infrastructure Operations
+OOCP,Not Found,Not Found
+SMECF,Industrials,Specialty Industrial Machinery
+KOSCF,Consumer Defensive,Household & Personal Products
+40055AY43,Not Found,Not Found
+AVP,Not Found,Not Found
+IEMG,Not Found,Not Found
+CTRL,Not Found,Not Found
+ESGR,Financial Services,Insurance - Diversified
+JGCCY,Industrials,Engineering & Construction
+DWDP,Not Found,Not Found
+GDV,Financial Services,Asset Management
+AMBR,Not Found,Not Found
+PBYI,Healthcare,Biotechnology
+TPX,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+KMT,Industrials,Tools & Accessories
+EGY,Energy,Oil & Gas E&P
+HPT,Not Found,Not Found
+CNDT,Technology,Information Technology Services
+07/01/36,Not Found,Not Found
+07/01/28,Not Found,Not Found
+TDS,Communication Services,Telecom Services
+XRX,Technology,Information Technology Services
+DMRC,Technology,Information Technology Services
+DBD,Technology,Software - Application
+ABM,Industrials,Specialty Business Services
+RDFN,Real Estate,Real Estate Services
+MGPI,Consumer Defensive,Beverages - Wineries & Distilleries
+SCHN,Not Found,Not Found
+UBNT,Not Found,Not Found
+WP,Not Found,Not Found
+ULTI,Not Found,Not Found
+VCRA,Not Found,Not Found
+ESNT,Financial Services,Insurance - Specialty
+LLDTF,Financial Services,Banks - Regional
+EAT,Consumer Cyclical,Restaurants
+BIG,Consumer Defensive,Discount Stores
+ADSW,Not Found,Not Found
+SFTBF,Communication Services,Telecom Services
+NTDMF,Not Found,Not Found
+UNCHF,Consumer Defensive,Household & Personal Products
+WGO,Consumer Cyclical,Recreational Vehicles
+VIOT,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+SWH,Not Found,Not Found
+PUMP,Energy,Oil & Gas Equipment & Services
+TMHC,Consumer Cyclical,Residential Construction
+CCS,Consumer Cyclical,Residential Construction
+WDR,Not Found,Not Found
+CRI,Consumer Cyclical,Apparel Retail
+TORIX,Not Found,Not Found
+II,Not Found,Not Found
+SUP,Consumer Cyclical,Auto Parts
+ELLI,Not Found,Not Found
+CNSL,Communication Services,Telecom Services
+MSA,Industrials,Security & Protection Services
+DK,Energy,Oil & Gas Refining & Marketing
+CM,Financial Services,Banks - Diversified
+HA,Industrials,Airlines
+DUK PA,Not Found,Not Found
+BGCP,Not Found,Not Found
+DCM,Not Found,Not Found
+ALV,Consumer Cyclical,Auto Parts
+WGHPY,Not Found,Not Found
+BLX,Financial Services,Banks - Regional
+OZK,Financial Services,Banks - Regional
+VET,Energy,Oil & Gas E&P
+AIN,Consumer Cyclical,Textile Manufacturing
+LCII,Consumer Cyclical,Recreational Vehicles
+HNI,Industrials,Business Equipment & Supplies
+GOLF,Consumer Cyclical,Leisure
+AGO,Financial Services,Insurance - Specialty
+BGS,Consumer Defensive,Packaged Foods
+LECO,Industrials,Tools & Accessories
+LFUS,Technology,Electronic Components
+CHEUY,Not Found,Not Found
+HOPE,Financial Services,Banks - Regional
+FUL,Basic Materials,Specialty Chemicals
+EGP,Real Estate,REIT - Industrial
+ALE,Utilities,Utilities - Diversified
+JRVR,Financial Services,Insurance - Specialty
+BOKF,Financial Services,Banks - Regional
+INGR,Consumer Defensive,Packaged Foods
+PNM,Utilities,Utilities - Regulated Electric
+JCOM,Not Found,Not Found
+NMRK,Real Estate,Real Estate Services
+CNMD,Healthcare,Medical Devices
+MAN,Industrials,Staffing & Employment Services
+AHONY,Not Found,Not Found
+DKS,Consumer Cyclical,Specialty Retail
+FTS,Utilities,Utilities - Regulated Electric
+WASH,Financial Services,Banks - Regional
+PRNHX,Not Found,Not Found
+FSTFX,Not Found,Not Found
+FFHRX,Not Found,Not Found
+FLMVX,Not Found,Not Found
+HRS,Not Found,Not Found
+EYE,Consumer Cyclical,Specialty Retail
+PER,Not Found,Not Found
+UTGN,Financial Services,Insurance - Life
+TFCF,Not Found,Not Found
+DOOR,Industrials,Building Products & Equipment
+OGE,Utilities,Utilities - Regulated Electric
+TFCFA,Not Found,Not Found
+GBX,Industrials,Railroads
+RCII,Not Found,Not Found
+FF,Basic Materials,Specialty Chemicals
+CTRP,Not Found,Not Found
+XSLV,Not Found,Not Found
+CTB,Not Found,Not Found
+UTHR,Healthcare,Biotechnology
+XENT,Not Found,Not Found
+DPLO,Not Found,Not Found
+BH,Consumer Cyclical,Restaurants
+IBP,Consumer Cyclical,Residential Construction
+DEA,Real Estate,REIT - Office
+GBOOY,Financial Services,Banks - Regional
+EXG,Financial Services,Asset Management
+MSG,Not Found,Not Found
+CPRT,Industrials,Specialty Business Services
+JJSF,Consumer Defensive,Packaged Foods
+APU,Not Found,Not Found
+CNXM,Not Found,Not Found
+SPKEP,Not Found,Not Found
+CINR,Not Found,Not Found
+ZAYO,Not Found,Not Found
+HESM,Energy,Oil & Gas Midstream
+SAVE,Industrials,Airlines
+ORBK,Not Found,Not Found
+912796QV4,Not Found,Not Found
+ATHN,Not Found,Not Found
+BFET,Not Found,Not Found
+ESRX,Not Found,Not Found
+PSB,Not Found,Not Found
+GCO,Consumer Cyclical,Apparel Retail
+UFS,Not Found,Not Found
+ANCX,Not Found,Not Found
+TNTOF,Not Found,Not Found
+SNHY,Not Found,Not Found
+NAVI,Financial Services,Credit Services
+AX,Financial Services,Banks - Regional
+OPI,Real Estate,REIT - Office
+CCT,Not Found,Not Found
+THG,Financial Services,Insurance - Property & Casualty
+IXP,Not Found,Not Found
+LABL,Not Found,Not Found
+AMSF,Financial Services,Insurance - Specialty
+BEL,Not Found,Not Found
+AOBC,Not Found,Not Found
+TVPT,Not Found,Not Found
+WB,Communication Services,Internet Content & Information
+PETQ,Healthcare,Drug Manufacturers - Specialty & Generic
+LLESY,Real Estate,Real Estate - Diversified
+VGT,Not Found,Not Found
+MC,Financial Services,Capital Markets
+CVGW,Consumer Defensive,Food Distribution
+PEGI,Not Found,Not Found
+KN,Technology,Communication Equipment
+PCG,Utilities,Utilities - Regulated Electric
+ESL,Not Found,Not Found
+PTLA,Not Found,Not Found
+SCG,Not Found,Not Found
+SONO,Technology,Consumer Electronics
+VB,Not Found,Not Found
+CXO,Not Found,Not Found
+ARAV,Healthcare,Biotechnology
+VOE,Not Found,Not Found
+FTAI,Industrials,Rental & Leasing Services
+RA,Financial Services,Asset Management
+MZOR,Not Found,Not Found
+MIC,Not Found,Not Found
+BKCC,Financial Services,Asset Management
+MMS,Industrials,Specialty Business Services
+VTV,Not Found,Not Found
+VCR,Not Found,Not Found
+CPYYY,Utilities,Utilities - Independent Power Producers
+LN,Not Found,Not Found
+MRT,Technology,Software - Application
+INGIY,Not Found,Not Found
+GOV,Not Found,Not Found
+SIR,Not Found,Not Found
+SEKEY,Technology,Computer Hardware
+NRBAY,Not Found,Not Found
+BHR,Real Estate,REIT - Hotel & Motel
+ASOMY,Consumer Cyclical,Internet Retail
+GFAFX,Not Found,Not Found
+CATO,Consumer Cyclical,Apparel Retail
+OMI,Healthcare,Medical Distribution
+AMCRY,Not Found,Not Found
+STAR,Not Found,Not Found
+SMTA,Not Found,Not Found
+VLEEY,Consumer Cyclical,Auto Parts
+AHT,Real Estate,REIT - Hotel & Motel
+SHPG,Not Found,Not Found
+FSNUY,Healthcare,Medical Care Facilities
+EMLP,Not Found,Not Found
+VLP,Not Found,Not Found
+LM09.SG,Not Found,Not Found
+VWNAX,Not Found,Not Found
+SAFM,Not Found,Not Found
+HR,Real Estate,REIT - Healthcare Facilities
+XON,Not Found,Not Found
+MAIPX,Not Found,Not Found
+WGP,Not Found,Not Found
+BBAVY,Not Found,Not Found
+EQGP,Not Found,Not Found
+SRCL,Industrials,Waste Management
+HAINX,Not Found,Not Found
+IWO,Not Found,Not Found
+PCY,Not Found,Not Found
+PKB,Not Found,Not Found
+MT,Basic Materials,Steel
+STLD,Basic Materials,Steel
+ICAGY,Industrials,Airlines
+BBL,Not Found,Not Found
+EMB,Not Found,Not Found
+SLQD,Not Found,Not Found
+PGF,Not Found,Not Found
+EMLC,Not Found,Not Found
+BHGE,Not Found,Not Found
+AMGP,Not Found,Not Found
+BRKB,Not Found,Not Found
+DM,Technology,Computer Hardware
+WBT,Not Found,Not Found
+BV,Industrials,Specialty Business Services
+AET,Not Found,Not Found
+IEZ,Not Found,Not Found
+BAMXF,Consumer Cyclical,Auto Manufacturers
+INGN,Healthcare,Medical Devices
+ROYMY,Industrials,Integrated Freight & Logistics
+FPAFY,Consumer Defensive,Packaged Foods
+ASBFY,Consumer Defensive,Packaged Foods
+TI,Not Found,Not Found
+AIVAF,Financial Services,Insurance - Diversified
+YAHOY,Consumer Cyclical,Internet Retail
+STRNY,Utilities,Utilities - Regulated Water
+CDR,Not Found,Not Found
+TKPYY,Not Found,Not Found
+ITVPY,Communication Services,Broadcasting
+MTZPY,Not Found,Not Found
+ACGPF,Not Found,Not Found
+HAIN,Consumer Defensive,Packaged Foods
+ARRS,Not Found,Not Found
+SOMLY,Industrials,Security & Protection Services
+CA,Not Found,Not Found
+NRZ,Not Found,Not Found
+LXFR,Industrials,Specialty Industrial Machinery
+PRI,Financial Services,Insurance - Life
+PX,Financial Services,Asset Management
+SMAWF,Industrials,Specialty Industrial Machinery
+MSTY.PA,Not Found,Not Found
+VSM,Not Found,Not Found
+LSTR,Industrials,Integrated Freight & Logistics
+ABX,Not Found,Not Found
+ETE,Not Found,Not Found
+DFIN,Financial Services,Capital Markets
+RVI,Not Found,Not Found
+KS,Not Found,Not Found
+EVHC,Not Found,Not Found
+CBLK,Not Found,Not Found
+ONE SHARE FOR ONE SHARE,Not Found,Not Found
+CNQ,Energy,Oil & Gas E&P
+SHOO,Consumer Cyclical,Footwear & Accessories
+CCJ,Energy,Uranium
+ASND,Healthcare,Biotechnology
+ENLK,Not Found,Not Found
+NVT,Industrials,Electrical Equipment & Parts
+MLPX,Not Found,Not Found
+TBT,Not Found,Not Found
+HOMB,Financial Services,Banks - Regional
+EDR,Communication Services,Entertainment
+AN,Consumer Cyclical,Auto & Truck Dealerships
+IDTI,Not Found,Not Found
+CCH,Not Found,Not Found
+JG,Technology,Software - Infrastructure
+SSMXF,Healthcare,Medical Instruments & Supplies
+GPT,Not Found,Not Found
+CUTR,Healthcare,Medical Devices
+KSU,Not Found,Not Found
+RPG,Not Found,Not Found
+EMGF,Not Found,Not Found
+ROBO,Not Found,Not Found
+FTI,Energy,Oil & Gas Equipment & Services
+COTV,Not Found,Not Found
+OZM,Not Found,Not Found
+DLPH,Not Found,Not Found
+LOGM,Not Found,Not Found
+VNQ,Not Found,Not Found
+912796QX0,Not Found,Not Found
+NYLD,Not Found,Not Found
+TANN,Not Found,Not Found
+NOKBF,Technology,Communication Equipment
+TIS,Not Found,Not Found
+GOOCV,Not Found,Not Found
+WPZ,Not Found,Not Found
+MXL,Technology,Semiconductors
+CX,Basic Materials,Building Materials
+WPG,Not Found,Not Found
+PSEC,Financial Services,Asset Management
+IGIB,Not Found,Not Found
+TGE,Not Found,Not Found
+QCP,Not Found,Not Found
+XT,Not Found,Not Found
+UNFI,Consumer Defensive,Food Distribution
+IIN,Not Found,Not Found
+PBR,Energy,Oil & Gas Integrated
+BAF,Not Found,Not Found
+RMP,Not Found,Not Found
+CASH,Financial Services,Banks - Regional
+SURG,Technology,Software - Application
+PSTG,Technology,Computer Hardware
+HGV,Consumer Cyclical,Resorts & Casinos
+CRMT,Consumer Cyclical,Auto & Truck Dealerships
+VRAY,Not Found,Not Found
+NKTR,Healthcare,Biotechnology
+NORTHWESTER,Not Found,Not Found
+TWX,Not Found,Not Found
+LQD,Not Found,Not Found
+LTC,Real Estate,REIT - Healthcare Facilities
+WINA,Consumer Cyclical,Specialty Retail
+BAYZF,Healthcare,Drug Manufacturers - General
+HSTM,Healthcare,Health Information Services
+OZRK,Not Found,Not Found
+USG,Not Found,Not Found
+ECPG,Financial Services,Mortgage Finance
+AHGP,Not Found,Not Found
+CODI,Industrials,Conglomerates
+DVMT,Not Found,Not Found
+TTM,Not Found,Not Found
+GTES,Industrials,Specialty Industrial Machinery
+APY,Not Found,Not Found
+GOGO,Communication Services,Telecom Services
+MIK,Not Found,Not Found
+INOV,Not Found,Not Found
+YELP,Communication Services,Internet Content & Information
+BOX,Technology,Software - Infrastructure
+ALLY.A,Not Found,Not Found
+TKGBY,Financial Services,Banks - Regional
+TOTL,Not Found,Not Found
+IBM.MX,Technology,Information Technology Services
+IYE,Not Found,Not Found
+CHK,Energy,Oil & Gas E&P
+VGK,Not Found,Not Found
+EV,Not Found,Not Found
+SEP,Not Found,Not Found
+CGNT,Technology,Software - Infrastructure
+TEP,Not Found,Not Found
+CDXS,Healthcare,Biotechnology
+INVESTMEN,Not Found,Not Found
+ACXM,Not Found,Not Found
+ODVYX,Not Found,Not Found
+BKD,Healthcare,Medical Care Facilities
+LXP,Real Estate,REIT - Industrial
+CLNS,Not Found,Not Found
+SKYAY,Not Found,Not Found
+TATYY,Consumer Defensive,Packaged Foods
+WARFY,Real Estate,Real Estate - Development
+FINL,Not Found,Not Found
+DDR,Not Found,Not Found
+CCIZX,Not Found,Not Found
+BRX,Real Estate,REIT - Retail
+BT,Not Found,Not Found
+DPS,Not Found,Not Found
+NYLD.A,Not Found,Not Found
+YTEN,Basic Materials,Agricultural Inputs
+VRNT,Technology,Software - Infrastructure
+IYT,Not Found,Not Found
+RYT,Not Found,Not Found
+XSD,Not Found,Not Found
+LVNTA,Not Found,Not Found
+FDUS,Financial Services,Asset Management
+FNGN,Not Found,Not Found
+CALD,Not Found,Not Found
+CVA,Not Found,Not Found
+APTS,Not Found,Not Found
+FTSI,Not Found,Not Found
+ILG,Not Found,Not Found
+PDCO,Healthcare,Medical Distribution
+CSRA,Not Found,Not Found
+MHLD,Financial Services,Insurance - Reinsurance
+SCHA,Not Found,Not Found
+PCLN,Not Found,Not Found
+GNL,Real Estate,REIT - Diversified
+HIFR,Not Found,Not Found
+JCAP,Not Found,Not Found
+VER,Not Found,Not Found
+PEI,Not Found,Not Found
+COL,Not Found,Not Found
+TNTR,Not Found,Not Found
+IHE,Not Found,Not Found
+NILSY,Not Found,Not Found
+RYAAY,Industrials,Airlines
+ALOT,Technology,Computer Hardware
+GRPN,Communication Services,Internet Content & Information
+BIVV,Not Found,Not Found
+IYR,Not Found,Not Found
+OA,Not Found,Not Found
+HIBB,Consumer Cyclical,Apparel Retail
+FET,Energy,Oil & Gas Equipment & Services
+TTP,Financial Services,Asset Management
+AXE,Not Found,Not Found
+VNTV,Not Found,Not Found
+LSCC,Technology,Semiconductors
+CBG,Not Found,Not Found
+GXP,Not Found,Not Found
+RGC,Healthcare,Drug Manufacturers - Specialty & Generic
+TCX,Technology,Software - Infrastructure
+PFS,Financial Services,Banks - Regional
+FIT,Not Found,Not Found
+OREX,Not Found,Not Found
+ENTL,Not Found,Not Found
+OAK,Not Found,Not Found
+LGIH,Consumer Cyclical,Residential Construction
+AFT,Financial Services,Asset Management
+ESV,Not Found,Not Found
+BETR,Financial Services,Mortgage Finance
+FSD,Financial Services,Asset Management
+OI,Consumer Cyclical,Packaging & Containers
+TEGP,Not Found,Not Found
+MTCIX,Not Found,Not Found
+AFSI,Not Found,Not Found
+INWK,Not Found,Not Found
+LKSD,Not Found,Not Found
+ITYBY,Not Found,Not Found
+SMGIX,Not Found,Not Found
+CQP,Energy,Oil & Gas Midstream
+MLPA,Not Found,Not Found
+WIN,Not Found,Not Found
+TUES,Not Found,Not Found
+RELL,Technology,Electronic Components
+ASPN,Industrials,Building Products & Equipment
+ELGX,Not Found,Not Found
+TV,Communication Services,Telecom Services
+MRLN,Not Found,Not Found
+IDT,Communication Services,Telecom Services
+TCPC,Financial Services,Asset Management
+RSPP,Not Found,Not Found
+CSGKF,Not Found,Not Found
+CMLPSX,Not Found,Not Found
+36966R5P7,Not Found,Not Found
+LVLT,Not Found,Not Found
+SOUHY,Basic Materials,Other Industrial Metals & Mining
+IPXL,Not Found,Not Found
+CAA,Not Found,Not Found
+TEUM,Not Found,Not Found
+ATOS,Healthcare,Biotechnology
+BONT,Not Found,Not Found
+DXTR,Not Found,Not Found
+ADRE,Not Found,Not Found
+FNI,Not Found,Not Found
+NGLS$A,Not Found,Not Found
+ZIOP,Not Found,Not Found
+NEOT,Not Found,Not Found
+TRXC,Not Found,Not Found
+RCON,Energy,Oil & Gas Equipment & Services
+LBIX,Not Found,Not Found
+NETE,Not Found,Not Found
+HLF,Consumer Defensive,Packaged Foods
+INFI,Not Found,Not Found
+VDE,Not Found,Not Found
+TIXC,Communication Services,Entertainment
+SCX,Industrials,Tools & Accessories
+OTIC,Not Found,Not Found
+WPPGY,Not Found,Not Found
+LNEGY,Not Found,Not Found
+WF,Financial Services,Banks - Regional
+TCS,Consumer Cyclical,Specialty Retail
+WTR,Not Found,Not Found
+GAMR,Not Found,Not Found
+SGBK,Not Found,Not Found
+OPK,Healthcare,Diagnostics & Research
+ANF,Consumer Cyclical,Apparel Retail
+FV,Not Found,Not Found
+Q,Not Found,Not Found
+BCR,Not Found,Not Found
+ITEK,Not Found,Not Found
+SPLS,Not Found,Not Found
+NPSND,Not Found,Not Found
+VTKLY,Technology,Communication Equipment
+JSMD,Not Found,Not Found
+TD,Financial Services,Banks - Diversified
+JSML,Not Found,Not Found
+CMPGY,Consumer Cyclical,Restaurants
+MNK,Not Found,Not Found
+DD.PA,Not Found,Not Found
+NPK,Industrials,Aerospace & Defense
+EXXI,Not Found,Not Found
+WFM,Not Found,Not Found
+RTNB,Technology,Information Technology Services
+MWA,Industrials,Specialty Industrial Machinery
+ACC,Not Found,Not Found
+ARCI,Not Found,Not Found
+VOT,Not Found,Not Found
+VOYA,Financial Services,Financial Conglomerates
+IUSG,Not Found,Not Found
+IUSV,Not Found,Not Found
+SRF,Not Found,Not Found
+FXD,Not Found,Not Found
+PHLD,Not Found,Not Found
+RAS,Not Found,Not Found
+NVDQ,Not Found,Not Found
+CYTR,Not Found,Not Found
+SHPGF,Not Found,Not Found
+CAPR,Healthcare,Biotechnology
+RAI,Not Found,Not Found
+PEY,Not Found,Not Found
+TEAR,Not Found,Not Found
+AEZS,Healthcare,Biotechnology
+CCE,Not Found,Not Found
+CBAY,Healthcare,Biotechnology
+FTR,Not Found,Not Found
+ZN,Not Found,Not Found
+MBFI,Not Found,Not Found
+ABDC,Not Found,Not Found
+TTC,Industrials,Tools & Accessories
+ZNGA.SW,Not Found,Not Found
+ORKLY,Consumer Defensive,Packaged Foods
+CIU,Not Found,Not Found
+SLV,Not Found,Not Found
+OUNZ,Not Found,Not Found
+JCS,Not Found,Not Found
+OKS,Not Found,Not Found
+CST,Not Found,Not Found
+EONGY,Utilities,Utilities - Diversified
+WLL,Not Found,Not Found
+MCC,Not Found,Not Found
+CCP,Not Found,Not Found
+NFX,Not Found,Not Found
+CLSN,Not Found,Not Found
+MDC,Consumer Cyclical,Residential Construction
+MXIM,Not Found,Not Found
+TLLP,Not Found,Not Found
+AFAM,Not Found,Not Found
+DCTH,Healthcare,Medical Devices
+AINV,Not Found,Not Found
+QTM,Not Found,Not Found
+VNCE,Consumer Cyclical,Apparel Manufacturing
+SLM,Financial Services,Credit Services
+VEVIX,Not Found,Not Found
+GTOMY,Not Found,Not Found
+CLNS$A,Not Found,Not Found
+VIVHY,Communication Services,Entertainment
+UNIT,Real Estate,REIT - Specialty
+JHB,Not Found,Not Found
+JNS,Not Found,Not Found
+POT,Not Found,Not Found
+COH,Not Found,Not Found
+PE,Not Found,Not Found
+MNRO,Consumer Cyclical,Auto Parts
+JNUG,Not Found,Not Found
+OCN,Financial Services,Mortgage Finance
+FNBC,Not Found,Not Found
+CWEI,Not Found,Not Found
+LCI,Not Found,Not Found
+FTK,Energy,Oil & Gas Equipment & Services
+SZYM,Not Found,Not Found
+CEB,Not Found,Not Found
+PRXL,Not Found,Not Found
+AGU,Not Found,Not Found
+WETF,Not Found,Not Found
+TLRD,Not Found,Not Found
+CMTL,Technology,Communication Equipment
+IJJ,Not Found,Not Found
+ERIE,Financial Services,Insurance Brokers
+CMCSK,Not Found,Not Found
+VSAR,Not Found,Not Found
+MLPI,Not Found,Not Found
+RYH,Not Found,Not Found
+FL,Consumer Cyclical,Apparel Retail
+LLTC,Not Found,Not Found
+RVT,Financial Services,Asset Management
+WOOF,Consumer Cyclical,Specialty Retail
+IYH,Not Found,Not Found
+VCIT,Not Found,Not Found
+NVG,Financial Services,Asset Management
+CLC,Not Found,Not Found
+FCGYF,Not Found,Not Found
+MJN,Not Found,Not Found
+IBB,Not Found,Not Found
+ALOG,Not Found,Not Found
+KERX,Not Found,Not Found
+ACRE,Real Estate,REIT - Mortgage
+GCBC,Financial Services,Banks - Regional
+BABY,Not Found,Not Found
+AQFH,Not Found,Not Found
+SXL,Not Found,Not Found
+RMBFX,Not Found,Not Found
+FNMAJ,Financial Services,Mortgage Finance
+XLI,Not Found,Not Found
+NEE.PC,Not Found,Not Found
+NGD,Basic Materials,Gold
+XLP,Not Found,Not Found
+IMGN,Healthcare,Biotechnology
+WFT,Not Found,Not Found
+CLMS,Not Found,Not Found
+DBEF,Not Found,Not Found
+COG,Not Found,Not Found
+ASHS,Not Found,Not Found
+MGU,Not Found,Not Found
+REMX,Not Found,Not Found
+PLM,Not Found,Not Found
+TRN,Industrials,Railroads
+SYNA,Technology,Semiconductors
+ZNGA,Not Found,Not Found
+OLCB,Not Found,Not Found
+NSR,Not Found,Not Found
+IAI,Not Found,Not Found
+ISDR,Technology,Software - Application
+MAXD,Technology,Software - Application
+AEXAY,Technology,Information Technology Services
+IXYS,Not Found,Not Found
+FGP,Not Found,Not Found
+STRZA,Not Found,Not Found
+HBHC,Not Found,Not Found
+TGP,Not Found,Not Found
+DRYS,Not Found,Not Found
+TLN,Not Found,Not Found
+IM,Not Found,Not Found
+SBH,Consumer Cyclical,Specialty Retail
+NEE.PRI,Not Found,Not Found
+MDU,Industrials,Conglomerates
+GDX,Not Found,Not Found
+SCTY,Not Found,Not Found
+ADNT,Consumer Cyclical,Auto Parts
+JCP,Not Found,Not Found
+CAB,Not Found,Not Found
+DPM,Not Found,Not Found
+NHF,Not Found,Not Found
+ANGO,Healthcare,Medical Instruments & Supplies
+ASIX,Basic Materials,Chemicals
+LEXEA,Not Found,Not Found
+BACWSA,Not Found,Not Found
+IQNT,Not Found,Not Found
+DLX,Communication Services,Advertising Agencies
+ACE,Not Found,Not Found
+SYRG,Not Found,Not Found
+COKE,Consumer Defensive,Beverages - Non-Alcoholic
+GPOR,Energy,Oil & Gas E&P
+EBF,Industrials,Business Equipment & Supplies
+ENH,Not Found,Not Found
+SNI,Not Found,Not Found
+UNRDY,Not Found,Not Found
+EGO,Basic Materials,Gold
+HOT,Not Found,Not Found
+BUNT,Not Found,Not Found
+GRX,Financial Services,Asset Management
+TDHOY,Financial Services,Insurance - Life
+AMX,Communication Services,Telecom Services
+DIISY,Financial Services,Insurance - Diversified
+MDVN,Not Found,Not Found
+OTEX,Technology,Software - Application
+GIL,Consumer Cyclical,Apparel Manufacturing
+CICHY,Financial Services,Banks - Diversified
+KEP,Utilities,Utilities - Regulated Electric
+MATX,Industrials,Marine Shipping
+EMC,Not Found,Not Found
+TYC,Not Found,Not Found
+TSEM,Technology,Semiconductors
+HYH,Not Found,Not Found
+STON,Not Found,Not Found
+ELRC,Not Found,Not Found
+RGT,Financial Services,Asset Management
+YRD,Financial Services,Credit Services
+MOAT,Not Found,Not Found
+EUO,Not Found,Not Found
+MGRC,Industrials,Rental & Leasing Services
+SIMO,Technology,Semiconductors
+JACK,Consumer Cyclical,Restaurants
+QIHU,Not Found,Not Found
+MRKT,Not Found,Not Found
+AXLL,Not Found,Not Found
+BBU,Industrials,Conglomerates
+MMHIX,Not Found,Not Found
+LILA,Communication Services,Telecom Services
+FXP,Not Found,Not Found
+GAS,Not Found,Not Found
+DWX,Not Found,Not Found
+TECO,Not Found,Not Found
+REE,Consumer Cyclical,Recreational Vehicles
+KGC,Basic Materials,Gold
+GG,Not Found,Not Found
+PNPFF,Financial Services,Capital Markets
+AEM,Basic Materials,Gold
+PAL,Not Found,Not Found
+SLW,Not Found,Not Found
+PLGTF,Not Found,Not Found
+FCG,Not Found,Not Found
+CPGX,Not Found,Not Found
+UA.C,Not Found,Not Found
+BURFX,Not Found,Not Found
+MON,Not Found,Not Found
+DTO,Not Found,Not Found
+PAY,Technology,Software - Infrastructure
+LNCE,Not Found,Not Found
+3305779,Not Found,Not Found
+RAVN,Not Found,Not Found
+CAFD,Not Found,Not Found
+6897143,Not Found,Not Found
+BLM7FC2,Not Found,Not Found
+5522714,Not Found,Not Found
+4824778,Not Found,Not Found
+4491235,Not Found,Not Found
+B13WZ26,Not Found,Not Found
+ITRI,Technology,Scientific & Technical Instruments
+RELY,Technology,Software - Infrastructure
+MBLY,Consumer Cyclical,Auto Parts
+BIOA,Not Found,Not Found
+MXWL,Not Found,Not Found
+B1W8P14,Not Found,Not Found
+SSNI,Not Found,Not Found
+FLTX,Not Found,Not Found
+BXLT,Not Found,Not Found
+NGVT,Basic Materials,Specialty Chemicals
+BIN,Not Found,Not Found
+FDM,Not Found,Not Found
+IRLBF,Not Found,Not Found
+ARG,Not Found,Not Found
+OIL,Not Found,Not Found
+PKW,Not Found,Not Found
+WOR,Industrials,Metal Fabrication
+NRF,Not Found,Not Found
+NRE,Not Found,Not Found
+TWC,Not Found,Not Found
+KKD,Not Found,Not Found
+SYT,Technology,Software - Application
+SNDK,Not Found,Not Found
+MYRG,Industrials,Engineering & Construction
+SYY.SG,Not Found,Not Found
+TCAP,Not Found,Not Found
+STJ,Not Found,Not Found
+AIRM,Not Found,Not Found
+XER.BE,Not Found,Not Found
+IRET,Not Found,Not Found
+2,Not Found,Not Found
+BKJAY,Not Found,Not Found
+SSW,Not Found,Not Found
+WMFFX,Not Found,Not Found
+WAK,Not Found,Not Found
+LMCK,Not Found,Not Found
+LMCA,Not Found,Not Found
+ADT,Industrials,Security & Protection Services
+OAS,Not Found,Not Found
+LAZ,Financial Services,Capital Markets
+DNO,Not Found,Not Found
+YACKX,Not Found,Not Found
+JBLU,Industrials,Airlines
+SRI,Consumer Cyclical,Auto Parts
+FXH,Not Found,Not Found
+FXN,Not Found,Not Found
+HYG,Not Found,Not Found
+P,Not Found,Not Found
+DUE 07/01/25,Not Found,Not Found
+DUE 12/01/29,Not Found,Not Found
+NCR,Not Found,Not Found
+PHH,Not Found,Not Found
+SNMX,Not Found,Not Found
+FLWS,Consumer Cyclical,Specialty Retail
+SHOS,Not Found,Not Found
+SUNE,Not Found,Not Found
+LUK,Not Found,Not Found
+VXUS,Not Found,Not Found
+CWGL,Consumer Defensive,Beverages - Wineries & Distilleries
+MGK,Not Found,Not Found
+XLK,Not Found,Not Found
+ADT.F,Not Found,Not Found
+VILLX,Not Found,Not Found
+FBT,Not Found,Not Found
+BLMN,Consumer Cyclical,Restaurants
+FBHS,Not Found,Not Found
+MITL,Not Found,Not Found
+PCP,Not Found,Not Found
+UBSH,Not Found,Not Found
+MEG,Industrials,Waste Management
+HMHC,Not Found,Not Found
+SXT,Basic Materials,Specialty Chemicals
+FTD,Not Found,Not Found
+NPO,Industrials,Specialty Industrial Machinery
+LTXB,Not Found,Not Found
+FCS,Not Found,Not Found
+CHMT,Not Found,Not Found
+AXL,Consumer Cyclical,Auto Parts
+GWR,Not Found,Not Found
+VSTO,Consumer Cyclical,Leisure
+SJI,Not Found,Not Found
+SSP,Communication Services,Broadcasting
+FOR,Real Estate,Real Estate - Development
+XHR,Real Estate,REIT - Hotel & Motel
+WTFC,Financial Services,Banks - Regional
+PAG,Consumer Cyclical,Auto & Truck Dealerships
+TIME,Not Found,Not Found
+CMC,Basic Materials,Steel
+ESE,Technology,Scientific & Technical Instruments
+FMER,Not Found,Not Found
+HI,Industrials,Specialty Industrial Machinery
+KALU,Basic Materials,Aluminum
+ALR,Not Found,Not Found
+SIG,Consumer Cyclical,Luxury Goods
+AEL,Financial Services,Insurance - Life
+KRNY,Financial Services,Banks - Regional
+HYI,Financial Services,Asset Management
+TBF,Not Found,Not Found
+VXF,Not Found,Not Found
+DTN,Not Found,Not Found
+RWL,Not Found,Not Found
+TDIV,Not Found,Not Found
+NASDAQ:WLTW,Not Found,Not Found
+CNRAF,Real Estate,REIT - Retail
+UBNK,Not Found,Not Found
+RPXC,Not Found,Not Found
+B923935,Not Found,Not Found
+BOT4J94,Not Found,Not Found
+SPY160219P00180000,Not Found,Not Found
+RDIV,Not Found,Not Found
+AEX.MU,Not Found,Not Found
+DWTI,Not Found,Not Found
+TW,Financial Services,Capital Markets
+RRMS,Not Found,Not Found
+XPOI,Not Found,Not Found
+BCEI,Not Found,Not Found
+TCB,Not Found,Not Found
+DSW,Not Found,Not Found
+ASH,Basic Materials,Specialty Chemicals
+TK,Energy,Oil & Gas Midstream
+WSHFX,Not Found,Not Found
+TCIEX,Not Found,Not Found
+TILVX,Not Found,Not Found
+DVFAX,Not Found,Not Found
+TIMVX,Not Found,Not Found
+QCSTIX,Not Found,Not Found
+TISBX,Not Found,Not Found
+QREARX,Not Found,Not Found
+TCOIX,Not Found,Not Found
+QCGRIX,Not Found,Not Found
+QCGLIX,Not Found,Not Found
+MWE,Not Found,Not Found
+HTLF,Financial Services,Banks - Regional
+^MWE,Not Found,Not Found
+NE,Energy,Oil & Gas Drilling
+HIX,Financial Services,Asset Management
+MIXT,Technology,Software - Application
+GMCR,Not Found,Not Found
+TOO,Not Found,Not Found
+B1WSP14,Not Found,Not Found
+CVSL,Not Found,Not Found
+FSTR,Industrials,Railroads
+HSC,Not Found,Not Found
+HCBK,Not Found,Not Found
+ARCO,Consumer Cyclical,Restaurants
+DEL,Not Found,Not Found
+IYLD,Not Found,Not Found
+ARMH,Not Found,Not Found
+CPPL,Not Found,Not Found
+CGO,Financial Services,Asset Management
+LNKD,Not Found,Not Found
+VRX,Not Found,Not Found
+CMLP,Not Found,Not Found
+FTBXL,Not Found,Not Found
+ATAZF,Technology,Information Technology Services
+HEDJ,Not Found,Not Found
+FXG,Not Found,Not Found
+RDVY,Not Found,Not Found
+CVC,Not Found,Not Found
+JDD,Not Found,Not Found
+SLH,Not Found,Not Found
+XLS,Not Found,Not Found
+DUE 12/01/27,Not Found,Not Found
+TE,Not Found,Not Found
+EQT,Energy,Oil & Gas E&P
+CIT,Not Found,Not Found
+QLIK,Not Found,Not Found
+FDML,Not Found,Not Found
+DUE 04/01/27,Not Found,Not Found
+HW,Not Found,Not Found
+YCS,Not Found,Not Found
+REX,Basic Materials,Chemicals
+SLY,Not Found,Not Found
+SPHQ,Not Found,Not Found
+FPX,Not Found,Not Found
+NGS,Energy,Oil & Gas Equipment & Services
+ASHR,Not Found,Not Found
+RSCO,Not Found,Not Found
+OCR,Not Found,Not Found
+FAN,Not Found,Not Found
+DUE 07/01/27,Not Found,Not Found
+SPNC,Not Found,Not Found
+LQDT,Consumer Cyclical,Internet Retail
+KWIPF,Real Estate,REIT - Diversified
+CHLKF,Not Found,Not Found
+NZTCF,Communication Services,Telecom Services
+TELNF,Communication Services,Telecom Services
+ISUZF,Consumer Cyclical,Auto Manufacturers
+ITOCF,Industrials,Conglomerates
+SNGNF,Communication Services,Telecom Services
+SCD,Financial Services,Asset Management
+AMRI,Not Found,Not Found
+USB$N,Not Found,Not Found
+HMSY,Not Found,Not Found
+CBRL,Consumer Cyclical,Restaurants
+TTFS,Not Found,Not Found
+CW,Industrials,Aerospace & Defense
+OMN,Not Found,Not Found
+BW,Industrials,Specialty Industrial Machinery
+SVU,Not Found,Not Found
+TFM,Not Found,Not Found
+VNR,Not Found,Not Found
+AFTEX,Not Found,Not Found
+TLSRP,Not Found,Not Found
+OAKIX,Not Found,Not Found
+WSH,Not Found,Not Found
+SBUX.SW,Not Found,Not Found
+CJNK,Not Found,Not Found
+MSACX,Not Found,Not Found
+MGEMX,Not Found,Not Found
+WSTMX,Not Found,Not Found
+NGIPX,Not Found,Not Found
+CTRX,Not Found,Not Found
+VMIIX,Not Found,Not Found
+UPL,Not Found,Not Found
+VSMIX,Not Found,Not Found
+VADDX,Not Found,Not Found
+ACSDX,Not Found,Not Found
+KRFT,Not Found,Not Found
+ALTR,Technology,Software - Infrastructure
+TEG,Not Found,Not Found
+CVG,Not Found,Not Found
+ATML,Not Found,Not Found
+FXC,Not Found,Not Found
+FXB,Not Found,Not Found
+CTFS PARTN,Not Found,Not Found
+ACT,Financial Services,Insurance - Specialty
+CY,Not Found,Not Found
+LO,Not Found,Not Found
+DPG,Financial Services,Asset Management
+BUNT.RP,Not Found,Not Found
+SATS,Technology,Communication Equipment
+MUR,Energy,Oil & Gas E&P
+DATA,Not Found,Not Found
+HPY,Not Found,Not Found
+JOY,Not Found,Not Found
+DO,Energy,Oil & Gas Drilling
+AKRX,Not Found,Not Found
+GBTZY,Not Found,Not Found
+CRZO,Not Found,Not Found
+ISIS,Not Found,Not Found
+INFN,Technology,Communication Equipment
+NTCT,Technology,Software - Infrastructure
+MNTA,Not Found,Not Found
+WX,Not Found,Not Found
+IWP,Not Found,Not Found
+KORS,Not Found,Not Found
+DDS,Consumer Cyclical,Department Stores
+CFFN,Financial Services,Banks - Regional
+BRGYY,Not Found,Not Found
+RCPT,Not Found,Not Found
+GMT,Not Found,Not Found
+CLI,Not Found,Not Found
+AMAG,Not Found,Not Found
+INFA,Technology,Software - Infrastructure
+IACI,Not Found,Not Found
+YY,Communication Services,Internet Content & Information
+ATI,Industrials,Metal Fabrication
+CSTM,Basic Materials,Aluminum
+BITA,Not Found,Not Found
+ADVS,Not Found,Not Found
+CAW,Not Found,Not Found
+DNR,Not Found,Not Found
+SGMA,Technology,Electronic Components
+DAKT,Technology,Electronic Components
+MMSI,Healthcare,Medical Instruments & Supplies
+MPX,Consumer Cyclical,Recreational Vehicles
+GIFI,Industrials,Metal Fabrication
+ROVI,Not Found,Not Found
+PNRA,Not Found,Not Found
+GVP,Technology,Software - Application
+GCAP,Not Found,Not Found
+AFG,Financial Services,Insurance - Property & Casualty
+SXE,Not Found,Not Found
+ZMLP,Not Found,Not Found
+SNR,Not Found,Not Found
+AOZOF,Financial Services,Banks - Regional
+PMFG,Not Found,Not Found
+AMSYF,Basic Materials,Steel
+UNT,Not Found,Not Found
+^RGP,Not Found,Not Found
+RGP,Industrials,Consulting Services
+IGT,Consumer Cyclical,Gambling
+TBVPF,Consumer Defensive,Beverages - Wineries & Distilleries
+CUAEF,Energy,Thermal Coal
+FOEAF,Not Found,Not Found
+CYT,Healthcare,Biotechnology
+IPKW,Not Found,Not Found
+RALS,Not Found,Not Found
+FOE,Not Found,Not Found
+EWW,Not Found,Not Found
+B0T4J94,Not Found,Not Found
+FR,Real Estate,REIT - Industrial
+OPY,Financial Services,Capital Markets
+JMG,Not Found,Not Found
+NXTM,Not Found,Not Found
+SPB,Consumer Defensive,Household & Personal Products
+RYL,Not Found,Not Found
+BN7Q3G8,Not Found,Not Found
+BLT,Not Found,Not Found
+WGL,Not Found,Not Found
+MRD,Not Found,Not Found
+FEIC,Not Found,Not Found
+VMI,Industrials,Conglomerates
+XL,Not Found,Not Found
+ZU,Not Found,Not Found
+PRPFX,Not Found,Not Found
+XLS.WI,Not Found,Not Found
+CCLP,Energy,Oil & Gas Equipment & Services
+PETM,Not Found,Not Found
+ERII,Industrials,Pollution & Treatment Controls
+TRS,Consumer Cyclical,Packaging & Containers
+BSV,Not Found,Not Found
+APL,Not Found,Not Found
+INRD,Technology,Electronic Components
+XLU,Not Found,Not Found
+SMEZ,Not Found,Not Found
+QAI,Not Found,Not Found
+AGG,Not Found,Not Found
+ABCO,Not Found,Not Found
+PLKI,Not Found,Not Found
+EVR,Financial Services,Capital Markets
+EPAY,Not Found,Not Found
+IPCM,Not Found,Not Found
+SGY,Not Found,Not Found
+MDCA,Not Found,Not Found
+LOCK,Not Found,Not Found
+CMN,Not Found,Not Found
+SQI,Not Found,Not Found
+PLT,Not Found,Not Found
+HUBG,Industrials,Integrated Freight & Logistics
+BMR,Technology,Software - Application
+MFRM,Not Found,Not Found
+FMBI,Not Found,Not Found
+THS,Consumer Defensive,Packaged Foods
+HF,Not Found,Not Found
+RRTS,Industrials,Trucking
+ATRO,Industrials,Aerospace & Defense
+AMSG,Not Found,Not Found
+TNGO,Not Found,Not Found
+PBH,Healthcare,Drug Manufacturers - Specialty & Generic
+KWR,Basic Materials,Specialty Chemicals
+SWI,Technology,Software - Infrastructure
+TUMI,Not Found,Not Found
+CYBX,Not Found,Not Found
+ICON,Not Found,Not Found
+MG,Industrials,Security & Protection Services
+TYPE,Not Found,Not Found
+THRM,Consumer Cyclical,Auto Parts
+AAON,Industrials,Building Products & Equipment
+DFRG,Not Found,Not Found
+VSI,Not Found,Not Found
+SMTC,Technology,Semiconductors
+CTCT,Not Found,Not Found
+SIGI,Financial Services,Insurance - Property & Casualty
+CHEF,Consumer Defensive,Food Distribution
+CMRE,Industrials,Marine Shipping
+SVM,Basic Materials,Silver
+ACMP,Not Found,Not Found
+PBI,Industrials,Integrated Freight & Logistics
+APAGF,Not Found,Not Found
+DTV,Not Found,Not Found
+EEI,Not Found,Not Found
+PTNR,Not Found,Not Found
+CIOXY,Technology,Software - Infrastructure
+COV,Not Found,Not Found
+BMBLY,Not Found,Not Found
+FOSL,Consumer Cyclical,Luxury Goods
+RUK,Not Found,Not Found
+SNPHY,Healthcare,Drug Manufacturers - General
+NYSE: COV,Not Found,Not Found
+CFRUY,Consumer Cyclical,Luxury Goods
+OII,Energy,Oil & Gas Equipment & Services
+CTTAY,Consumer Cyclical,Auto Parts
+CVE,Energy,Oil & Gas Integrated
+CJREF,Communication Services,Entertainment
+SBMRY,Not Found,Not Found
+DVY,Not Found,Not Found
+SDLP,Not Found,Not Found
+ATU,Not Found,Not Found
+VVC,Not Found,Not Found
+NOG,Energy,Oil & Gas E&P
+AKCPF,Not Found,Not Found
+KLXI,Not Found,Not Found
+VLKPY,Not Found,Not Found
+URIRP,Not Found,Not Found
+BEAV,Not Found,Not Found
+DRAD,Not Found,Not Found
+FCNCB,Financial Services,Banks - Regional
+VPFG,Not Found,Not Found
+B,Industrials,Specialty Industrial Machinery
+HOSPIC,Not Found,Not Found
+TDA,Not Found,Not Found
+TOLLX,Not Found,Not Found
+CPN,Not Found,Not Found
+VGRAX,Not Found,Not Found
+LNCO,Not Found,Not Found
+LINE,Not Found,Not Found
+ACEIX,Not Found,Not Found
+WASCX,Not Found,Not Found
+MDDVX,Not Found,Not Found
+FLRN,Not Found,Not Found
+SDRL,Energy,Oil & Gas Drilling
+SCHE,Not Found,Not Found
+ETG,Financial Services,Asset Management
+HTD,Financial Services,Asset Management
+BTF,Not Found,Not Found
+HGH,Not Found,Not Found
+BYI,Not Found,Not Found
+OLN,Basic Materials,Specialty Chemicals
+CIR,Not Found,Not Found
+CEA,Not Found,Not Found
+RYN,Real Estate,REIT - Specialty
+MFCDX,Not Found,Not Found
+TMH,Not Found,Not Found
+CBI,Not Found,Not Found
+SYMC,Not Found,Not Found
+ONVO,Healthcare,Biotechnology
+DBA,Not Found,Not Found
+ELX,Not Found,Not Found
+ENTR,Not Found,Not Found
+BCOR,Not Found,Not Found
+SFLY,Not Found,Not Found
+ARCP,Not Found,Not Found
+COF.PP,Not Found,Not Found
+LYSFF,Consumer Defensive,Packaged Foods
+IRDM,Communication Services,Telecom Services
+NES,Not Found,Not Found
+GARPF,Consumer Defensive,Farm Products
+FOJCF,Utilities,Utilities - Renewable
+MTW,Industrials,Farm & Heavy Construction Machinery
+VIXY,Not Found,Not Found
+ASBRF,Consumer Defensive,Beverages - Brewers
+MEMP,Not Found,Not Found
+6320058,Not Found,Not Found
+PNNT,Financial Services,Asset Management
+CDA,Not Found,Not Found
+SCZ,Not Found,Not Found
+INF,Not Found,Not Found
+USB.PN,Not Found,Not Found
+LNXW,Not Found,Not Found
+HBAYF,Not Found,Not Found
+BNEFF,Energy,Oil & Gas E&P
+AVA,Utilities,Utilities - Diversified
+FUR,Not Found,Not Found
+SPGYF,Energy,Oil & Gas E&P
+UFI,Consumer Cyclical,Textile Manufacturing
+GSJK,Not Found,Not Found
+EPP,Not Found,Not Found
+ILF,Not Found,Not Found
+VTTI,Not Found,Not Found
+HYT,Financial Services,Asset Management
+RYAM,Basic Materials,Chemicals
+WLP,Not Found,Not Found
+ATMP,Not Found,Not Found
+OSRN DE,Not Found,Not Found
+LGP,Not Found,Not Found
+SEM,Healthcare,Medical Care Facilities
+FDO,Not Found,Not Found
+RIGP,Not Found,Not Found
+BPAQF,Energy,Oil & Gas Integrated
+BTE,Energy,Oil & Gas E&P
+HUB.B,Not Found,Not Found
+HCC,Basic Materials,Coking Coal
+PL,Industrials,Aerospace & Defense
+PGH,Not Found,Not Found
+MLPRX,Not Found,Not Found
+BWX,Not Found,Not Found
+MDP,Not Found,Not Found
+PHB,Not Found,Not Found
+CFX,Not Found,Not Found
+IDU,Not Found,Not Found
+TKR,Industrials,Tools & Accessories
+TMST,Basic Materials,Steel
+NTI,Not Found,Not Found
+QRE,Not Found,Not Found
+PWE,Not Found,Not Found
+RCS,Financial Services,Asset Management
+YRAIF,Basic Materials,Agricultural Inputs
+RNDY,Not Found,Not Found
+AIT,Industrials,Industrial Distribution
+LMGEX,Not Found,Not Found
+JOSB,Not Found,Not Found
+ROC,Not Found,Not Found
+PRE,Healthcare,Diagnostics & Research
+CMO,Not Found,Not Found
+DOM,Not Found,Not Found
+CCCGY,Not Found,Not Found
+DNFGY,Consumer Cyclical,Auto Manufacturers
+TCK,Not Found,Not Found
+CAOVY,Real Estate,Real Estate - Development
+KMR,Not Found,Not Found
+DBP,Not Found,Not Found
+GNW,Financial Services,Insurance - Life
+IDCBY,Financial Services,Banks - Diversified
+PEGFF,Not Found,Not Found
+GNC,Not Found,Not Found
+TAL,Consumer Defensive,Education & Training Services
+CPE$A,Not Found,Not Found
+NRP,Energy,Thermal Coal
+PPR,Not Found,Not Found
+GIMO,Not Found,Not Found
+KMP,Not Found,Not Found
+QEP,Not Found,Not Found
+TRW,Not Found,Not Found
+APOL,Not Found,Not Found
+CAM,Not Found,Not Found
+MHFI,Not Found,Not Found
+VR,Not Found,Not Found
+CFN,Not Found,Not Found
+RRD,Not Found,Not Found
+ONNN,Not Found,Not Found
+RKT,Financial Services,Mortgage Finance
+WNR,Not Found,Not Found
+SJR,Not Found,Not Found
+PHI,Communication Services,Telecom Services
+BRCD,Not Found,Not Found
+STO,Not Found,Not Found
+ZMH,Not Found,Not Found
+EGN,Not Found,Not Found
+BC,Consumer Cyclical,Recreational Vehicles
+TSO,Not Found,Not Found
+ECIFY,Not Found,Not Found
+WR,Not Found,Not Found
+NMFC,Financial Services,Asset Management
+SWAY,Not Found,Not Found
+B5NC0D0,Not Found,Not Found
+CPSI,Healthcare,Health Information Services
+CHCO,Financial Services,Banks - Regional
+CTBI,Financial Services,Banks - Regional
+YHOO,Not Found,Not Found
+LDR,Not Found,Not Found
+CYS,Not Found,Not Found
+FLY,Not Found,Not Found
+HTS,Not Found,Not Found
+FFBC,Financial Services,Banks - Regional
+MWO,Not Found,Not Found
+ROSE,Not Found,Not Found
+LGCY,Not Found,Not Found
+EVEP,Not Found,Not Found
+SUSQ,Not Found,Not Found
+FSFR,Not Found,Not Found
+MTAGF,Consumer Cyclical,Specialty Retail
+VODPD,Not Found,Not Found
+AZNCF,Healthcare,Drug Manufacturers - General
+AOZOY,Financial Services,Banks - Regional
+JPJQL,Not Found,Not Found
+AETUF,Energy,Oil & Gas E&P
+NMM,Industrials,Marine Shipping
+WAG,Not Found,Not Found
+3%,Not Found,Not Found
+SUSP,Not Found,Not Found
+RIG,Energy,Oil & Gas Drilling
+EC,Energy,Oil & Gas Integrated
+EEP,Not Found,Not Found
+EEQ,Not Found,Not Found
+MOG.A,Not Found,Not Found
+BBRY,Not Found,Not Found
+BFK,Financial Services,Asset Management
+CBA,Not Found,Not Found
+CEN,Not Found,Not Found
+MIE,Not Found,Not Found
+JMF,Not Found,Not Found
+NML,Financial Services,Asset Management
+ARP,Not Found,Not Found
+OTTR,Utilities,Utilities - Diversified
+PCL,Not Found,Not Found
+MRH,Not Found,Not Found
+CPHD,Not Found,Not Found
+CTY,Not Found,Not Found
+VODPF,Communication Services,Telecom Services
+FCN,Industrials,Consulting Services
+CUB,Not Found,Not Found
+MTZ,Industrials,Engineering & Construction
+BBEP,Not Found,Not Found
+HNZ,Not Found,Not Found
+LLTI,Not Found,Not Found
+SAPE,Not Found,Not Found
+NTRI,Not Found,Not Found
+VCLT,Not Found,Not Found
+WCRX,Not Found,Not Found
+MLPN,Not Found,Not Found
+IYG,Not Found,Not Found
+FEZ,Not Found,Not Found
+UIS,Technology,Information Technology Services
+GMXRQ,Not Found,Not Found
+EP$C,Not Found,Not Found

@@ -47,6 +47,11 @@ def preprocess_stock_data(stocks):
     ], axis=1, inplace=True)
     # Drop rows that aren't stock or options trades
     stocks.drop(stocks[stocks.TickerType.isin([
-        'CS', 'GS', 'AB', 'ET', 'HN', 'Corporate Bond', 'PS', 'Cryptocurrency', 'OI', 'OL', 'SA'
+        'CS', 'GS', 'AB', 'ET', 'HN', 'Corporate Bond', 'PS',
+        'Cryptocurrency', 'OI', 'OL', 'SA'
     ])].index, axis=0, inplace=True)
+    
+    # Renamed ticker symbols: Meta, Raytheon, WB-Discovery merger
+    stocks.Ticker = stocks.Ticker.replace(["FB", "UTX", "DISCA", "DISCK"],
+                                          ["META", "RTX", "WBD", "WBD"])
     return stocks
