@@ -1,2 +1,2 @@
 lobbying_data/**/*.csv filter=lfs diff=lfs merge=lfs -text
-lobbying_data/*.csv filter=lfs diff=lfs merge=lfs -text
+lobbying_data/*.csv filter=lfs diff=lfs merge=lfs -textgit
