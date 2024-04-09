@@ -1,3 +1,4 @@
+Industry,Category1,Category2,Category3
 Advertising Agencies,ADV,,
 Aerospace & Defense,AER,DEF,
 Agricultural Inputs,AGR,,
@@ -49,7 +50,7 @@ Financial Conglomerates,FIN,,
 Financial Data & Stock Exchanges,FIN,,
 Food Distribution,FOO,,
 Footwear & Accessories,APP,,
-Furnishings & Fixtures & Appliances,,,
+"Furnishings, Fixtures & Appliances",,,
 Gambling,GAM,,
 Gold,MON,NAT,
 Grocery Stores,BEV,FOO,
