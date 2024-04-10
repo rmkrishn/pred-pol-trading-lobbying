@@ -12,6 +12,16 @@ def normalize_name(name):
         name = name[4:].strip()
     return name
 
+
+def normalize_ticker_symbol(symbol):
+    """Remove suffixes for classes of stock, foreign stocks, etc."""
+    if "$" in symbol:
+        symbol = symbol[:symbol.find("$")]
+    if "." in symbol:
+        symbol = symbol[:symbol.find(".")]
+    return symbol
+
+
 def min_trade_size(size):
     if "-" in size:
         size = size.split("-")[0].strip()
@@ -31,8 +41,9 @@ def preprocess_stock_data(stocks):
     for datetime_col in ["Traded", "Filed", "Quiver_Upload_Time", "last_modified"]:
         stocks[datetime_col] = pd.to_datetime(stocks[datetime_col])
 
-    # Remove a garbled row
+    # Remove some garbled rows
     stocks = stocks.drop(42546, axis=0)
+    stocks = stocks.drop(9565, axis=0)
 
     # Parse trade sizes
     stocks["Min_Trade_Size"] = stocks.Trade_Size_USD.map(min_trade_size)
@@ -51,7 +62,12 @@ def preprocess_stock_data(stocks):
         'Cryptocurrency', 'OI', 'OL', 'SA'
     ])].index, axis=0, inplace=True)
     
-    # Renamed ticker symbols: Meta, Raytheon, WB-Discovery merger
-    stocks.Ticker = stocks.Ticker.replace(["FB", "UTX", "DISCA", "DISCK"],
-                                          ["META", "RTX", "WBD", "WBD"])
+    # Clean up ticker symbols
+    stocks["Ticker"] = stocks.Ticker.map(normalize_ticker_symbol)
+    
+    # Renamed ticker symbols: Meta, Raytheon, ...
+    stocks["Ticker"] = stocks.Ticker.replace(
+        ["FB", "UTX", "RTN", "FISV"],
+        ["META", "RTX", "RTX", "FI"]
+    )
     return stocks

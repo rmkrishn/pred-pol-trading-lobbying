@@ -1,4 +1,29 @@
 Ticker,Sector,Industry,YFQuoteType
+CELG,Healthcare,Drug Manufacturers - General,EQUITY
+DISCA,Communication Services,Entertainment,EQUITY
+DISCK,Communication Services,Entertainment,EQUITY
+FDC,Technology,Information Technology Services,EQUITY
+AGN,Healthcare,Drug Manufacturers - General,EQUITY
+FEYE,Technology,Software - Infrastructure,EQUITY
+TWTR,Communication Services,Internet Content & Information,EQUITY
+RDS,Not Found,Not Found,MUTUALFUND
+BRK,Not Found,Not Found,MUTUALFUND
+LGF,Not Found,Not Found,MUTUALFUND
+AAIC,Not Found,Not Found,Not Found
+AAM,Not Found,Not Found,MUTUALFUND
+BF,Not Found,Not Found,MUTUALFUND
+LM09,Not Found,Not Found,Not Found
+HUB,Not Found,Not Found,ECNQUOTE
+MOG,Not Found,Not Found,MUTUALFUND
+3V64,Not Found,Not Found,Not Found
+0QZI,Communication Services,Internet Content & Information,EQUITY
+MSTY,Not Found,Not Found,ETF
+EP,Energy,Oil & Gas E&P,EQUITY
+BANC,Financial Services,Banks - Regional,EQUITY
+FL4,Not Found,Not Found,Not Found
+ETWO,Technology,Software - Application,EQUITY
+EFC,Real Estate,REIT - Mortgate,EQUITY
+AEX,Not Found,Not Found,MUTUALFUND
 PANW,Technology,Software - Infrastructure,EQUITY
 SPG,Real Estate,REIT - Retail,EQUITY
 AFRM,Technology,Software - Infrastructure,EQUITY
@@ -1161,7 +1186,7 @@ DAL,Industrials,Airlines,EQUITY
 K,Consumer Defensive,Packaged Foods,EQUITY
 PACW,Not Found,Not Found,Not Found
 PAYC,Technology,Software - Application,EQUITY
-RTN,Not Found,Not Found,NONE
+RTN,Industrials,Aerospace & Defense,EQUITY
 MKC,Consumer Defensive,Packaged Foods,EQUITY
 Z,Communication Services,Internet Content & Information,EQUITY
 GMED,Healthcare,Medical Devices,EQUITY
@@ -1266,7 +1291,7 @@ GNRC,Industrials,Specialty Industrial Machinery,EQUITY
 FISV,Not Found,Not Found,EQUITY
 MASI,Healthcare,Medical Devices,EQUITY
 ARCB,Industrials,Trucking,EQUITY
-BLL,Not Found,Not Found,NONE
+BLL,Consumer Cyclical,Packaging & Containers,EQUITY
 SWK,Industrials,Tools & Accessories,EQUITY
 WYNN,Consumer Cyclical,Resorts & Casinos,EQUITY
 NESR,Energy,Oil & Gas Equipment & Services,EQUITY
@@ -1355,7 +1380,6 @@ BAGIX,Not Found,Not Found,MUTUALFUND
 MAIIX,Not Found,Not Found,MUTUALFUND
 VYM,Not Found,Not Found,ETF
 FHYS,Not Found,Not Found,ETF
-TWTR,Not Found,Not Found,NONE
 KBH,Consumer Cyclical,Residential Construction,EQUITY
 BMN,Financial Services,Asset Management,EQUITY
 AE,Energy,Oil & Gas Refining & Marketing,EQUITY
@@ -1404,7 +1428,7 @@ IVW,Not Found,Not Found,ETF
 ONEQ,Not Found,Not Found,ETF
 CHTR,Communication Services,Telecom Services,EQUITY
 ROST,Consumer Cyclical,Apparel Retail,EQUITY
-ECOM,Not Found,Not Found,NONE
+ECOM,Consumer Cyclical,Internet Retail,EQUITY
 NHI,Real Estate,REIT - Healthcare Facilities,EQUITY
 SSYS,Technology,Computer Hardware,EQUITY
 PTC,Technology,Software - Application,EQUITY
@@ -1509,7 +1533,7 @@ KOS,Energy,Oil & Gas E&P,EQUITY
 UUUU,Energy,Uranium,EQUITY
 FIXD,Not Found,Not Found,ETF
 BRBR,Consumer Defensive,Packaged Foods,EQUITY
-CERN,Not Found,Not Found,NONE
+CERN,Technology,Software - Infrastructure,EQUITY
 AMBP,Consumer Cyclical,Packaging & Containers,EQUITY
 U 3%25CD,Not Found,Not Found,Not Found
 CMS,Utilities,Utilities - Regulated Electric,EQUITY
@@ -1575,7 +1599,7 @@ BLKB,Technology,Software - Application,EQUITY
 AZSEY,Not Found,Not Found,NONE
 GBCI,Financial Services,Banks - Regional,EQUITY
 TACO,Not Found,Not Found,EQUITY
-ANTM,Not Found,Not Found,NONE
+ANTM,Healthcare,Healthcare Plans,EQUITY
 IAA,Not Found,Not Found,NONE
 KMI.W,Not Found,Not Found,Not Found
 CVNA,Consumer Cyclical,Auto & Truck Dealerships,EQUITY
@@ -1598,7 +1622,7 @@ XYIGY,Basic Materials,Building Materials,EQUITY
 TRI,Industrials,Specialty Business Services,EQUITY
 AM,Energy,Oil & Gas Midstream,EQUITY
 LVS,Consumer Cyclical,Resorts & Casinos,EQUITY
-PSXP,Not Found,Not Found,NONE
+PSXP,Energy,Oil & Gas Refining & Marketing,EQUITY
 SCHZ,Not Found,Not Found,ETF
 ICUI,Healthcare,Medical Instruments & Supplies,EQUITY
 NUVA,Not Found,Not Found,Not Found
@@ -1617,7 +1641,7 @@ FSP,Real Estate,REIT - Office,EQUITY
 IEUR,Not Found,Not Found,ETF
 SPHB,Not Found,Not Found,ETF
 FLGB,Not Found,Not Found,ETF
-PBFX,Not Found,Not Found,NONE
+PBFX,Energy,Oil & Gas Midstream,EQUITY
 EFG,Not Found,Not Found,ETF
 ILPT,Real Estate,REIT - Industrial,EQUITY
 AXTE,Not Found,Not Found,ETF
@@ -1658,7 +1682,7 @@ SLB,Energy,Oil & Gas Equipment & Services,EQUITY
 WEX,Technology,Software - Infrastructure,EQUITY
 HSIC,Healthcare,Medical Distribution,EQUITY
 FHLC,Not Found,Not Found,ETF
-INFO,Not Found,Not Found,NONE
+INFO,Financial Services,Financial Data & Stock Exchanges,EQUITY
 IS,Not Found,Not Found,NONE
 PNFP,Financial Services,Banks - Regional,EQUITY
 CCEP,Consumer Defensive,Beverages - Non-Alcoholic,EQUITY
@@ -1675,7 +1699,7 @@ QMCO,Technology,Computer Hardware,EQUITY
 IYZ,Not Found,Not Found,ETF
 IXJ,Not Found,Not Found,ETF
 SPH,Utilities,Utilities - Regulated Gas,EQUITY
-SHLX,Not Found,Not Found,NONE
+SHLX,Energy,Oil & Gas Integrated,EQUITY
 MPLX,Energy,Oil & Gas Midstream,EQUITY
 CEM,Financial Services,Asset Management,EQUITY
 ITCI,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
@@ -1719,7 +1743,7 @@ CAPL,Energy,Oil & Gas Refining & Marketing,EQUITY
 EBS,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
 HTLD,Industrials,Trucking,EQUITY
 SRLN,Not Found,Not Found,ETF
-ENBL,Not Found,Not Found,NONE
+ENBL,Energy,Oil & Gas Midstream,EQUITY
 BEP,Utilities,Utilities - Renewable,EQUITY
 MSB,Basic Materials,Steel,EQUITY
 APAM,Financial Services,Asset Management,EQUITY
@@ -1777,7 +1801,7 @@ SAM,Consumer Defensive,Beverages - Brewers,EQUITY
 RDSA,Not Found,Not Found,NONE
 QTS,Not Found,Not Found,NONE
 "MONTGOMERY, AL .2, SCHAUMBERG, IL .1",Not Found,Not Found,Not Found
-ALXN,Not Found,Not Found,NONE
+ALXN,Healthcare,Drug Manufacturers - General,EQUITY
 DTD,Not Found,Not Found,ETF
 MTUM,Not Found,Not Found,ETF
 NLOK,Not Found,Not Found,NONE
@@ -1993,14 +2017,13 @@ AIO,Not Found,Not Found,EQUITY
 CIG,Utilities,Utilities - Diversified,EQUITY
 FSKR,Not Found,Not Found,NONE
 VIV,Communication Services,Telecom Services,EQUITY
-FEYE,Not Found,Not Found,NONE
 ACGL,Financial Services,Insurance - Diversified,EQUITY
 AJRD,Not Found,Not Found,Not Found
 TIF,Not Found,Not Found,NONE
 LI,Consumer Cyclical,Auto Manufacturers,EQUITY
 CHNG,Not Found,Not Found,NONE
 CNF,Financial Services,Mortgage Finance,EQUITY
-FLIR,Not Found,Not Found,NONE
+FLIR,Technology,Scientific & Technical Instruments,EQUITY
 PCPL.U,Not Found,Not Found,Not Found
 QQXT,Not Found,Not Found,ETF
 LB,Not Found,Not Found,NONE
@@ -2014,18 +2037,18 @@ EDU,Consumer Defensive,Education & Training Services,EQUITY
 HII,Industrials,Aerospace & Defense,EQUITY
 PSTH,Not Found,Not Found,NONE
 FTDR,Consumer Cyclical,Personal Services,EQUITY
-HDS,Not Found,Not Found,NONE
+HDS,Consumer Cyclical,Home Improvement Retail,EQUITY
 ETY,Financial Services,Asset Management,EQUITY
 EXPI,Real Estate,Real Estate Services,EQUITY
 NBIX,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
-CHL,Not Found,Not Found,NONE
+CHL,Communication Services,Telecom Services,EQUITY
 NGLS,Not Found,Not Found,MUTUALFUND
 CTXS,Not Found,Not Found,NONE
 ARNC,Not Found,Not Found,Not Found
 VSAT,Technology,Communication Equipment,EQUITY
 CATM,Not Found,Not Found,NONE
 RAD,Not Found,Not Found,Not Found
-SNE,Not Found,Not Found,NONE
+SNE,Technology,Consumer Electronics,EQUITY
 PRAH,Not Found,Not Found,NONE
 DNKN,Not Found,Not Found,NONE
 AIV,Real Estate,REIT - Residential,EQUITY
@@ -2066,7 +2089,7 @@ DBX,Technology,Software - Infrastructure,EQUITY
 ATASY,Not Found,Not Found,NONE
 IX,Financial Services,Financial Conglomerates,EQUITY
 SDXAY,Industrials,Specialty Business Services,EQUITY
-TOT,Not Found,Not Found,NONE
+TOT,Energy,Oil & Gas Integrated,EQUITY
 GLPEY,Energy,Oil & Gas Integrated,EQUITY
 NTXFY,Not Found,Not Found,NONE
 MLCO,Consumer Cyclical,Resorts & Casinos,EQUITY
@@ -2125,7 +2148,7 @@ CSIQ,Technology,Solar,EQUITY
 PRLB,Industrials,Metal Fabrication,EQUITY
 GWRE,Technology,Software - Application,EQUITY
 LGND,Healthcare,Biotechnology,EQUITY
-NBLX,Not Found,Not Found,NONE
+CVX,Energy,Oil & Gas Integrated,EQUITY
 OLED,Technology,Electronic Components,EQUITY
 PRAA,Financial Services,Credit Services,EQUITY
 VDC,Not Found,Not Found,ETF
@@ -2170,7 +2193,7 @@ WKHS,Consumer Cyclical,Auto Manufacturers,EQUITY
 ETFC,Not Found,Not Found,NONE
 BREW,Not Found,Not Found,NONE
 PBF,Energy,Oil & Gas Refining & Marketing,EQUITY
-WPX,Not Found,Not Found,NONE
+WPX,Energy,Oil & Gas E&P,EQUITY
 LEVI,Consumer Cyclical,Apparel Manufacturing,EQUITY
 AVLR,Not Found,Not Found,NONE
 PKI,Not Found,Not Found,NONE
@@ -2228,7 +2251,7 @@ NMIH,Financial Services,Insurance - Specialty,EQUITY
 TCOM,Consumer Cyclical,Travel Services,EQUITY
 DUSA,Not Found,Not Found,ETF
 GGT,Financial Services,Asset Management,EQUITY
-VSLR,Not Found,Not Found,NONE
+VSLR,Industrials,Security & Protection Services,EQUITY
 DLS,Not Found,Not Found,ETF
 CXW,Industrials,Security & Protection Services,EQUITY
 SFST,Financial Services,Banks - Regional,EQUITY
@@ -2255,10 +2278,9 @@ SPSC,Technology,Software - Infrastructure,EQUITY
 ETP,Not Found,Not Found,MUTUALFUND
 ITOT,Not Found,Not Found,ETF
 PSNL,Healthcare,Diagnostics & Research,EQUITY
-AGN,Not Found,Not Found,NONE
 FLS,Industrials,Specialty Industrial Machinery,EQUITY
 IVZ,Financial Services,Asset Management,EQUITY
-ADS,Not Found,Not Found,NONE
+ADS,Financial Services,Credit Services,EQUITY
 FLXN,Not Found,Not Found,NONE
 EVH,Healthcare,Health Information Services,EQUITY
 FNMA,Financial Services,Mortgage Finance,EQUITY
@@ -2275,7 +2297,7 @@ HRB,Consumer Cyclical,Personal Services,EQUITY
 AYI,Industrials,Electrical Equipment & Parts,EQUITY
 NWSA,Communication Services,Entertainment,EQUITY
 HOG,Consumer Cyclical,Recreational Vehicles,EQUITY
-CTL,Not Found,Not Found,NONE
+CTL,Communication Services,Telecom Services,EQUITY
 NWS,Communication Services,Entertainment,EQUITY
 LBDAV,Not Found,Not Found,Not Found
 GLIBA,Not Found,Not Found,NONE
@@ -2446,15 +2468,14 @@ HACK,Not Found,Not Found,ETF
 CWST,Industrials,Waste Management,EQUITY
 QUAD,Industrials,Specialty Business Services,EQUITY
 ERH,Financial Services,Asset Management,EQUITY
-CBS,Not Found,Not Found,NONE
+CBS,Communication Services,Entertainment,EQUITY
 NLSN,Not Found,Not Found,NONE
 VIAB,Not Found,Not Found,NONE
-MYL,Not Found,Not Found,NONE
+MYL,Healthcare,Drug Manufacturers - Specialty & Generic,EQUITY
 CLNC,Not Found,Not Found,NONE
 CBT,Basic Materials,Specialty Chemicals,EQUITY
 CMPR,Communication Services,Advertising Agencies,EQUITY
 NPSNY,Communication Services,Internet Content & Information,EQUITY
-CELG,Not Found,Not Found,NONE
 GCI,Communication Services,Publishing,EQUITY
 DDAIF,Not Found,Not Found,NONE
 ECA,Not Found,Not Found,NONE
@@ -2486,7 +2507,7 @@ JNK,Not Found,Not Found,ETF
 0QZI.IL,Communication Services,Internet Content & Information,EQUITY
 LM,Not Found,Not Found,NONE
 PRO,Technology,Software - Application,EQUITY
-BPL,Not Found,Not Found,NONE
+BPL,Energy,Oil & Gas Integrated,EQUITY
 UPMKY,Not Found,Not Found,NONE
 ATR,Healthcare,Medical Instruments & Supplies,EQUITY
 LNN,Industrials,Farm & Heavy Construction Machinery,EQUITY
@@ -2506,7 +2527,7 @@ SEMG,Not Found,Not Found,NONE
 CARS,Consumer Cyclical,Auto & Truck Dealerships,EQUITY
 RCKY,Consumer Cyclical,Footwear & Accessories,EQUITY
 UCON,Not Found,Not Found,ETF
-APC,Not Found,Not Found,NONE
+APC,Energy,Oil & Gas E&P,EQUITY
 JEC,Not Found,Not Found,NONE
 MDSO,Not Found,Not Found,NONE
 VST,Utilities,Utilities - Independent Power Producers,EQUITY
@@ -2532,7 +2553,7 @@ IWF,Not Found,Not Found,ETF
 VPMAX,Not Found,Not Found,MUTUALFUND
 GTCSX,Not Found,Not Found,MUTUALFUND
 TCBI,Financial Services,Banks - Regional,EQUITY
-RHT,Not Found,Not Found,NONE
+RHT,Technology,Information Technology Services,EQUITY
 BAMXY,Not Found,Not Found,MUTUALFUND
 STI,Industrials,Electrical Equipment & Parts,EQUITY
 HUB.A,Not Found,Not Found,Not Found
@@ -2593,7 +2614,6 @@ SMGZY,Industrials,Specialty Industrial Machinery,EQUITY
 BBT,Not Found,Not Found,NONE
 RDSA.AS,Not Found,Not Found,NONE
 AZPN,Technology,Software - Application,EQUITY
-FDC,Not Found,Not Found,NONE
 EXEL,Healthcare,Biotechnology,EQUITY
 ARR,Real Estate,REIT - Mortgage,EQUITY
 MTH,Consumer Cyclical,Residential Construction,EQUITY
@@ -2617,7 +2637,7 @@ IEMG,Not Found,Not Found,ETF
 CTRL,Not Found,Not Found,NONE
 ESGR,Financial Services,Insurance - Diversified,EQUITY
 JGCCY,Industrials,Engineering & Construction,EQUITY
-DWDP,Not Found,Not Found,NONE
+DWDP,Basic Materials,Specialty Chemicals,EQUITY
 GDV,Financial Services,Asset Management,EQUITY
 AMBR,Not Found,Not Found,NONE
 PBYI,Healthcare,Biotechnology,EQUITY
@@ -2846,7 +2866,7 @@ PRI,Financial Services,Insurance - Life,EQUITY
 PX,Financial Services,Asset Management,EQUITY
 SMAWF,Industrials,Specialty Industrial Machinery,EQUITY
 MSTY.PA,Not Found,Not Found,NONE
-VSM,Not Found,Not Found,NONE
+VSM,Basic Materials,Chemicals,EQUITY
 LSTR,Industrials,Integrated Freight & Logistics,EQUITY
 ABX,Not Found,Not Found,MUTUALFUND
 ETE,Not Found,Not Found,MUTUALFUND
@@ -2873,14 +2893,14 @@ JG,Technology,Software - Infrastructure,EQUITY
 SSMXF,Healthcare,Medical Instruments & Supplies,EQUITY
 GPT,Not Found,Not Found,MUTUALFUND
 CUTR,Healthcare,Medical Devices,EQUITY
-KSU,Not Found,Not Found,NONE
+KSU,Industrials,Railroads,EQUITY
 RPG,Not Found,Not Found,ETF
 EMGF,Not Found,Not Found,ETF
 ROBO,Not Found,Not Found,ETF
 FTI,Energy,Oil & Gas Equipment & Services,EQUITY
 COTV,Not Found,Not Found,MUTUALFUND
 OZM,Not Found,Not Found,NONE
-DLPH,Not Found,Not Found,NONE
+DLPH,Consumer Cyclical,Auto Parts,EQUITY
 LOGM,Not Found,Not Found,NONE
 VNQ,Not Found,Not Found,ETF
 NYLD,Not Found,Not Found,MUTUALFUND
