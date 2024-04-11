@@ -1,3 +1,4 @@
+from pathlib import Path
 import pandas as pd
 
 def normalize_name(name):
@@ -23,6 +24,7 @@ def normalize_ticker_symbol(symbol):
 
 
 def min_trade_size(size):
+    """Extract minimum value of trade size range."""
     if "-" in size:
         size = size.split("-")[0].strip()
     size = size.replace("$", "").replace(",", "")
@@ -30,13 +32,35 @@ def min_trade_size(size):
 
 
 def max_trade_size(size):
+    """Extract maximum value of trade size range."""
     if "-" in size:
         size = size.split("-")[1].strip().strip(".")
     size = size.replace("$", "").replace(",", "")
     return float(size)
 
 
+def get_all_codes(row):
+    """Assemble all of lobbying codes for each row of the
+    sector2lobbyingcode data. Presented as a string so we can use pandas
+    string methods.
+    """
+    cats = []
+    for i in range(1, 4):
+        cat = row["Category" + str(i)]
+        if not pd.isna(cat):
+            cats.append(cat)
+    return ",".join(cats)
+
+
 def preprocess_stock_data(stocks):
+    """Some cleaning and preprocessing for the stocks data.
+    
+    Args:
+      stocks (pd.DataFrame): DataFrame loaded from the trading data.
+      
+    Returns:
+      cleaned copy of stocks.
+    """
     # Parse dates
     for datetime_col in ["Traded", "Filed", "Quiver_Upload_Time", "last_modified"]:
         stocks[datetime_col] = pd.to_datetime(stocks[datetime_col])
@@ -70,4 +94,48 @@ def preprocess_stock_data(stocks):
         ["FB", "UTX", "RTN", "FISV"],
         ["META", "RTX", "RTX", "FI"]
     )
+    
+    # Combine House and Senate naming styles for TickerType
+    stocks["TickerType"] = stocks.TickerType.replace(
+        ["Stock", "Stock Option", "Other Securities"],
+        ["ST", "OP", "OT"],
+    )
+    
+    # Get quarter
+    stocks["Quarter"] = pd.PeriodIndex(stocks["Filed"], freq="Q")
+    
+    stocks.sort_values(by="Filed", inplace=True)
     return stocks
+
+
+def merge_and_clean_stock_data(data_dir):
+    """Clean the stock data, filter down so that only stocks are represented,
+    and merge with sector/lobbying code info.
+    
+    Args:
+      data_dir (str or pathlike): Directory where data tables are stored.
+      
+    Returns:
+      A DataFrame holding all the data.
+    """
+    data_dir = Path(data_dir)
+    stocks = pd.read_excel(data_dir/"congress-trading-all.xlsx",
+                           parse_dates=["Traded", "Filed", "Quiver_Upload_Time"])
+    stocks = preprocess_stock_data(stocks)
+    
+    symbol2sector = pd.read_csv(data_dir/"symbol2sector.csv")
+    stocks = pd.merge(stocks, symbol2sector, on="Ticker", how="left")
+    # Filter to stocks for which Yahoo Finance could find sector/industry data
+    stocks.drop(stocks[stocks.YFQuoteType != "EQUITY"].index, axis=0, inplace=True)
+    
+    sector2code = pd.read_csv(data_dir/"sector2lobbyingcode.csv")
+    stocks = pd.merge(stocks, sector2code, on="Industry", how="left")
+    stocks["Codes"] = stocks.apply(get_all_codes, axis=1)
+    
+    return stocks
+
+if __name__ == "__main__":
+    stocks = merge_and_clean_stock_data("trading_data")
+    
+    stocks.to_csv("trading_data/stocks_cleaned.csv", index=False)
+    print("Wrote cleaned stock data.")
