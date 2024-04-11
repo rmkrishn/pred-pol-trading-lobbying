@@ -131,6 +131,7 @@ def merge_and_clean_stock_data(data_dir):
     sector2code = pd.read_csv(data_dir/"sector2lobbyingcode.csv")
     stocks = pd.merge(stocks, sector2code, on="Industry", how="left")
     stocks["Codes"] = stocks.apply(get_all_codes, axis=1)
+    stocks.loc[:, "Codes"] = stocks.Codes.fillna("")
     
     return stocks
 
