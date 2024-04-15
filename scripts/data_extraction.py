@@ -100,7 +100,7 @@ def stock_totals(stock_industries, train_only=True):
     return out
 
 
-def lobbying_totals(issue_codes, train_only=True):
+def lobbying_totals(issue_codes, train_only=True, adjust_for_num_codes=False):
     """Form DataFrame with quarterly totals for a given set of lobbying issue
     codes.
     
@@ -108,6 +108,10 @@ def lobbying_totals(issue_codes, train_only=True):
       issue_codes (str or list of str): One or more issue codes to look up.
       train_only (bool, default True): Whether to only use training data (data
         from before 2023).
+      adjust_for_num_codes (bool, default False): If True, lobbying income or
+        expenses of $D over a list of C codes will only count as $D/C spent per
+        code. (We assume that the expenditure is distributed evenly across
+        codes.)
         
     Returns:
       A DataFrame with the lobbying income, expenses, and total spending for
@@ -126,6 +130,22 @@ def lobbying_totals(issue_codes, train_only=True):
         
     all_issues = pd.concat(single_issues, axis=0)
     all_issues.drop_duplicates(inplace=True)
+    
+    # optionally, normalize for number of codes
+    if adjust_for_num_codes:
+        # convert issue codes column from str to list
+        all_issues["issue_codes"] = all_issues["issue_codes"].map(eval)
+        # count codes
+        all_issues["num_codes"] = all_issues["issue_codes"].map(len)
+        all_issues["num_relevant_codes"] = all_issues["issue_codes"].map(
+            lambda these_codes: len(set(these_codes).intersection(issue_codes))
+        )
+        all_issues["income"] = (all_issues["income"] 
+                                * all_issues["num_relevant_codes"]
+                                / all_issues["num_codes"])
+        all_issues["expenses"] = (all_issues["expenses"] 
+                                * all_issues["num_relevant_codes"]
+                                / all_issues["num_codes"])
         
     out = all_issues.groupby("period_start")[["income", "expenses"]].sum()
     # Set index to relevant quarters
@@ -138,7 +158,8 @@ def lobbying_totals(issue_codes, train_only=True):
     return out
     
     
-def stock_and_lobbying_totals(issue_codes, stock_industries, train_only=True):
+def stock_and_lobbying_totals(issue_codes, stock_industries, train_only=True,
+                              adjust_for_num_codes=False):
     """Form DataFrame with quarterly totals for a given set of issue codes and
     industries.
     
@@ -150,13 +171,17 @@ def stock_and_lobbying_totals(issue_codes, stock_industries, train_only=True):
       stock_industries (str or list of str): One or more stock industries to look up.
       train_only (bool, default True): Whether to only use training data (data
         from before 2023).
+      adjust_for_num_codes (bool, default False): If True, lobbying income or
+        expenses of $D over a list of C codes will only count as $D/C spent per
+        code. (We assume that the expenditure is distributed evenly across
+        codes.)
         
     Returns:
       A DataFrame with the lobbying income, expenses, and total spending for each
       quarter, and the stock total purchase and sale amounts, as well as gross
         (purchase + sale + exchange) and net (purchase - sale) trading.
     """
-    lobbying_df = lobbying_totals(issue_codes, train_only)
+    lobbying_df = lobbying_totals(issue_codes, train_only, adjust_for_num_codes)
     stock_df = stock_totals(stock_industries, train_only)
     return lobbying_df.merge(
         stock_df, how="outer", left_index=True, right_index=True
