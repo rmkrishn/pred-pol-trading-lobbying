@@ -1,6 +1,18 @@
 codes,industries
-'["ADV"]','["Advertising Agencies"]'
-'["AGR"]','["Agricultural Inputs", "Farm & Heavy Construction Machinery", "Farm Products"]'
-'["AER", "DEF"]','["Aerospace & Defense"]'
-'["AVI"]','["Airlines", "Airports & Air Services"]'
-'["APP"]','["Apparel Manufacturing", "Apparel Retail", "Footwear and Accessories", "Luxury Goods"]'
+"['ADV']","['Advertising Agencies']"
+"['AGR']","['Agricultural Inputs', 'Farm & Heavy Construction Machinery', 'Farm Products']"
+"['AER', 'DEF']","['Aerospace & Defense']"
+"['AVI']","['Airlines', 'Airports & Air Services']"
+"['APP']","['Apparel Manufacturing', 'Apparel Retail', 'Footwear and Accessories', 'Luxury Goods']"
+"['AUT']","['Auto & Truck Dealerships', 'Auto Manufacturers', 'Auto Parts', 'Recreational Vehicles']"
+"['BEV']","['Beverages - Brewers', 'Beverages - Non-Alcoholic', 'Wineries and Distilleries']"
+"['CHM']","['Chemicals', 'Specialty Chemicals']"
+"['FOO']","['Confectioners', 'Food Distribution', 'Grocery Stores', 'Packaged Foods', 'Restaurants']"
+"['GAM']","['Gambling', 'Resorts & Casinos']"
+"['INS']","['Insurance - Life', 'Insurance - Property & Casualty', 'Insurance - Diversified', 'Insurance Brokers', 'Insurance - Specialty', 'Insurance - Reinsurance']"
+"['MAN']","['Metal Fabrication', 'Specialty Industrial Machinery', 'Steel', 'Textile Manufacturing']"
+"['NAT']","['Aluminum', 'Coking Coal', 'Copper', 'Gold', 'Lumber & Wood Production', 'Other Industrial Metals & Mining', 'Other Precious Metals & Mining', 'Silver', 'Uranium']"
+"['RES']","['Real Estate Services', 'Real Estate - Development', 'Real Estate - Diversified', 'REIT - Specialty', 'REIT - Healthcare Facilities', 'REIT - Mortgage', 'REIT - Retail', 'REIT - Office', 'REIT - Residential', 'REIT - Diversified', 'REIT - Industrial', 'REIT - Hotel & Motel', 'REIT - Mortgate']"
+"['RRR']","['Railroads']"
+"['TOB']","['Tobacco']"
+"['WAS']","['Pollution & Treatment Controls', 'Waste Management']"
