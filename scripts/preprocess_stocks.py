@@ -66,6 +66,7 @@ def preprocess_stock_data(stocks):
         stocks[datetime_col] = pd.to_datetime(stocks[datetime_col])
 
     # Remove some garbled rows
+    stocks = stocks.drop(44837, axis=0)
     stocks = stocks.drop(42546, axis=0)
     stocks = stocks.drop(9565, axis=0)
 
