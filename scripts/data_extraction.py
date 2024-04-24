@@ -88,14 +88,20 @@ def stock_totals(stock_industries, train_only=True):
     stocks = pd.read_csv(TRADING_PATH / "stocks_cleaned.csv", parse_dates=["Traded", "Filed", "Quarter"])
     if train_only:
         stocks = stocks[stocks.Quarter < pd.to_datetime("2023-01-01", format="%Y-%m-%d")]
-    stock_total_trading = stocks.groupby("Quarter")["Min_Trade_Size"].sum()
+    stock_total_trading = stocks.groupby("Quarter")["Mean_Trade_Size"].sum() #Rahul: I changed Min here to Mean
     filtered = stocks[stocks.Industry.isin(stock_industries)]
 
-    out["stocks_purchase"] = filtered[filtered["Transaction"] == "Purchase"].groupby("Quarter").Min_Trade_Size.sum()
-    out["stocks_sale"] = filtered[filtered["Transaction"].str.startswith("Sale")].groupby("Quarter").Min_Trade_Size.sum()
-    out["stocks_gross"] = filtered.groupby("Quarter").Min_Trade_Size.sum()
+    out["stocks_purchase"] = filtered[filtered["Transaction"] == "Purchase"].groupby("Quarter").Mean_Trade_Size.sum() #Rahul: Changed Min to Mean
+    out["stocks_sale"] = filtered[filtered["Transaction"].str.startswith("Sale")].groupby("Quarter").Mean_Trade_Size.sum() #Rahul: Changed Min to Mean
+    out["stocks_gross"] = filtered.groupby("Quarter").Mean_Trade_Size.sum() #Rahul: Changed Min to Mean
     out["stocks_net"] = out["stocks_purchase"] - out["stocks_sale"]
     out["stocks_gross_frac"] = out["stocks_gross"] / stock_total_trading
+    out["stocks_purchase_variance"]=filtered[filtered["Transaction"] == "Purchase"].groupby("Quarter").Variance.sum() #Rahul: added purchase variance
+    out["stocks_sale_variance"]=filtered[filtered["Transaction"].str.startswith("Sale")].groupby("Quarter").Variance.sum() #Rahul: added sale variance
+    out["stocks_gross_variance"]=filtered.groupby("Quarter").Variance.sum() #Rahul: added gross variance (note this should be the same as for net)
+    out["stocks_num_purchase"] = filtered[filtered["Transaction"] == "Purchase"].groupby("Quarter").Mean_Trade_Size.count()
+    out["stocks_num_sale"]=filtered[filtered["Transaction"].str.startswith("Sale")].groupby("Quarter").Mean_Trade_Size.count()
+    out["stocks_num"]=out["stocks_num_purchase"]+out["stocks_num_sale"]
     out.fillna(0, inplace=True)
     return out
 
@@ -148,6 +154,12 @@ def lobbying_totals(issue_codes, train_only=True, adjust_for_num_codes=False):
                                 / all_issues["num_codes"])
         
     out = all_issues.groupby("period_start")[["income", "expenses"]].sum()
+    out["income_variance"]=all_issues[all_issues.income>0].groupby("period_start")["spending_variance"].sum() #Rahul: added these columns to compute sums of variances
+    out["expenses_variance"]=all_issues[all_issues.expenses>0].groupby("period_start")["spending_variance"].sum()
+    out["spending_variance"]=all_issues.groupby("period_start")["spending_variance"].sum()
+    out["num_income"]=all_issues[all_issues.income>0].groupby("period_start")["income"].count() #Rahul: added counts for numbers of filings
+    out["num_expenses"]=all_issues[all_issues.expenses>0].groupby("period_start")["expenses"].count()
+    out["num"]=out["num_income"]+out["num_expenses"]
     # Set index to relevant quarters
     end_date = "2022-12-31" if train_only else "2024-03-31"
     out.index = pd.period_range(start=2013, end=end_date, freq="Q").to_timestamp()
