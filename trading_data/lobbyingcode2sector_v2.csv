@@ -1,0 +1,22 @@
+codes,industries
+ADV,['Advertising Agencies']
+AGR,"['Agricultural Inputs', 'Farm & Heavy Construction Machinery', 'Farm Products']"
+AUT,"['Auto & Truck Dealerships', 'Auto Manufacturers', 'Auto Parts', 'Recreational Vehicles']"
+BEV,"['Beverages - Brewers', 'Beverages - Non-Alcoholic', 'Beverages - Wineries & Distilleries']"
+CHM,"['Chemicals', 'Specialty Chemicals']"
+DEF,['Aerospace & Defense']
+EDU,['Education & Training Services']
+ENG,['Solar']
+FOO,"['Confectioners', 'Food Distribution', 'Packaged Foods']"
+FUE,"['Oil & Gas Drilling', 'Oil & Gas E&P', 'Oil & Gas Equipment & Services', 'Oil & Gas Integrated', 'Oil & Gas Midstream', 'Oil & Gas Refining & Marketing']"
+GAM,['Gambling']
+INS,"['Insurance - Diversified', 'Insurance - Life', 'Insurance - Property & Casualty', 'Insurance - Reinsurance', 'Insurance - Specialty', 'Insurance Brokers']"
+MAN,"['Metal Fabrication', 'Specialty Industrial Machinery', 'Steel', 'Textile Manufacturing']"
+NAT,"['Aluminum', 'Copper', 'Lumber & Wood Production', 'Other Industrial Metals & Mining', 'Other Precious Metals & Mining', 'Silver']"
+PHA,"['Drug Manufacturers - General', 'Drug Manufacturers - Specialty & Generic', 'Pharmaceutical Retailers']"
+RES,"['REIT - Diversified', 'REIT - Industrial', 'REIT - Mortgage', 'REIT - Office', 'REIT - Specialty', 'Real Estate - Development', 'Real Estate - Diversified', 'Real Estate Services']"
+RRR,['Railroads']
+TEC,['Telecom Services']
+TOB,['Tobacco']
+TRU,['Trucking']
+UTI,"['Utilities - Diversified', 'Utilities - Independent Power Producers', 'Utilities - Regulated Water', 'Utilities - Renewable']"
