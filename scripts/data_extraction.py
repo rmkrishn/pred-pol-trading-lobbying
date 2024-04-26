@@ -152,6 +152,9 @@ def lobbying_totals(issue_codes, train_only=True, adjust_for_num_codes=False):
         all_issues["expenses"] = (all_issues["expenses"] 
                                 * all_issues["num_relevant_codes"]
                                 / all_issues["num_codes"])
+        all_issues["spending_variance"] = (all_issues["spending_variance"] #scaled variance appropriately when normalizing
+                                * all_issues["num_relevant_codes"]
+                                / all_issues["num_codes"])
         
     out = all_issues.groupby("period_start")[["income", "expenses"]].sum()
     out["income_variance"]=all_issues[all_issues.income>0].groupby("period_start")["spending_variance"].sum() #Rahul: added these columns to compute sums of variances
