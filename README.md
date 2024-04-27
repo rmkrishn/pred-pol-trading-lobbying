@@ -1,7 +1,7 @@
 # lobbying-to-stocktrades
 This is an ongoing data science project, studying the influence that lobbying efforts have on the trading of individual stocks by politicians.
 
-There are a number of Jupyter notebooks visible, which detail our some of our methods and process. For the most part, these need to be better organized and edited, but please take a look.
+There are a number of Jupyter notebooks visible, which detail our some of our methods and process. These could be better organized and edited, but please take a look.
 
 There are a number of folders containing the relevant data analyzed in this project. The lobbying data may be found in "lobbying_data"; data on politician stock trades can be found in "trading_data."
 
