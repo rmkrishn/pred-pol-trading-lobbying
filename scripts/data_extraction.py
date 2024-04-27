@@ -164,7 +164,7 @@ def lobbying_totals(issue_codes, train_only=True, adjust_for_num_codes=False):
     out["num_expenses"]=all_issues[all_issues.expenses>0].groupby("period_start")["expenses"].count()
     out["num"]=out["num_income"]+out["num_expenses"]
     # Set index to relevant quarters
-    end_date = "2022-12-31" if train_only else "2024-03-31"
+    end_date = "2022-12-31" if train_only else "2023-12-31" #changed from 2024-03-31
     out.index = pd.period_range(start=2013, end=end_date, freq="Q").to_timestamp()
         
     out.rename(columns=lambda x: "lobbying_"+x, inplace=True)
