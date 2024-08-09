@@ -1,5 +1,5 @@
 # lobbying-to-stocktrades
-This is an ongoing data science project, studying the influence that lobbying efforts have on the trading of individual stocks by politicians.
+This is a data science project, carried out in Spring 2024 as part of the Erdos Institute spring semester. We study the influence that lobbying efforts have on the trading of individual stocks by politicians.
 
 There are a number of Jupyter notebooks visible, which detail our some of our methods and process. These could be better organized and edited, but please take a look.
 
